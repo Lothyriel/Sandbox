@@ -29,6 +29,13 @@ fn main() {
     compare_speeds(&array);
     crazy_accelerate(&mut array);
     compare_speeds(&array);
+
+    let slower = array
+        .into_iter()
+        .min_by(|a, b| a.current_speed.partial_cmp(&b.current_speed).unwrap())
+        .unwrap();
+        
+    println!("The slower one is: {}", slower.model)
 }
 
 fn crazy_accelerate(array: &mut Vec<Car>) {
