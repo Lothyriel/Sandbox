@@ -1,0 +1,2265 @@
+Sem a frequência e ritmo regulares, o coração pode não agir de modo eficiente como uma bomba para circular o
+sangue oxigenado e outros nutrientes vitais para todos os tecidos e órgãos do corpo (incluindo o próprio coração).
+Com um ritmo irregular ou errático, o coração é considerado arrítmico. Esta é uma condição potencialmente
+perigosa.
+As enfermeiras podem encontrar clientes com muitos tipos diferentes de arritmias em todos os ambientes de
+saúde, incluindo ambientes de cuidados primários, instalações de enfermagem especializada, ambientes de
+reabilitação e hospitais. Algumas arritmias são agudas e outras são crônicas; algumas necessitam de intervenções de
+emergência, e outras não. Tendo em vista que os clientes com arritmias são encontrados com tanta frequência em
+diversos ambientes, as enfermeiras devem ser capazes de identificar e fornecer o tratamento de primeira linha
+apropriado das arritmias.
+ARRITMIAS
+As arritmias são distúrbios da formação ou da condução (ou de ambas) do impulso elétrico no coração. Esses
+distúrbios podem causar perturbações da frequência cardíaca, do ritmo cardíaco, ou de ambos. As arritmias
+inicialmente podem ser evidenciadas pelo efeito hemodinâmico que causam (p. ex., uma alteração na condução pode
+alterar a ação de bombeamento do coração e causar diminuição da pressão arterial). As arritmias são diagnosticadas
+por meio da análise da forma de onda eletrocardiográfica (ECG). O seu tratamento tem por base a frequência e a
+gravidade dos sintomas produzidos. As arritmias são denominadas de acordo com o local de origem do impulso e o
+mecanismo de formação ou de condução envolvido (Boxe 26.1). Por exemplo, um impulso que tem origem no nó
+sinoatrial (SA) e ocorre a uma frequência lenta é denominado bradicardia sinusal.
+Condução elétrica normal
+O impulso elétrico que estimula e regula o ritmo do músculo cardíaco normalmente tem origem no nó sinoatrial
+(nó SA), uma área localizada perto da veia cava superior no átrio direito. Normalmente, o impulso elétrico ocorre a
+uma frequência de 60 a 100 vezes por minuto no adulto. O impulso elétrico movimenta­se rapidamente desde o nó
+SA pelos átrios, até o nó atrioventricular (AV) (Figura 26.1); este processo é conhecido como condução. A
+estimulação elétrica das células musculares dos átrios causa a sua contração. A estrutura do nó AV diminui a
+velocidade do impulso elétrico, proporcionando aos átrios tempo para contrair e preencher os ventrículos com
+sangue. Esta parte da contração atrial é geralmente denominada pontapé atrial e é responsável por quase um terço do
+volume ejetado durante a contração ventricular (Fuster, Walsh e Harrington, 2011). O impulso elétrico em seguida
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+movimenta­se muito rapidamente pelo feixe de His até os ramos direito e esquerdo e as fibras de Purkinje,
+localizadas no músculo ventricular. A estimulação elétrica das células musculares dos ventrículos, por sua vez,
+causa a contração mecânica dos ventrículos (sístole). As células repolarizam e os ventrículos relaxam em seguida
+(diástole). O impulso elétrico causa a contração mecânica do músculo cardíaco que se segue.
+Boxe
+26.1
+Identi䌌㺃cação dosritmoscardíacos
+Locais de origem
+Nósinoatrial
+Átrios
+Nóoujunçãoatrioventricular
+Ventrículos
+Mecanismos de formação ou de condução
+Ritmo normal (idio)
+Bradicardia
+Taquicardia
+Arritmia
+Flutter
+Fibrilação
+Extrassístoles
+Bloqueiosdecondução
+A estimulação elétrica é denominada despolarização, e a contração mecânica é denominada sístole. O
+relaxamento elétrico é denominado repolarização, e o relaxamento mecânico é denominado diástole. O processo
+desde a geração do impulso elétrico no nó sinoatrial até a repolarização ventricular completa o circuito
+eletromecânico, e o ciclo inicia novamente. (Ver mais sobre a função cardíaca no Capítulo 25.)
+Influências sobre a frequência cardíaca e a contratilidade
+A frequência cardíaca é influenciada pelo sistema nervoso autônomo, que é composto por fibras simpáticas e
+parassimpáticas. As fibras nervosas simpáticas (também denominadas fibras adrenérgicas) estão ligadas ao coração
+e às artérias, bem como a diversas outras áreas no corpo. A estimulação do sistema simpático aumenta a frequência
+cardíaca (cronotropia positiva), a condução pelo nó AV (dromotropia positiva) e a força da contração miocárdica
+(inotropia positiva). A estimulação simpática também contrai os vasos sanguíneos periféricos, aumentando, assim,
+a pressão arterial. As fibras nervosas parassimpáticas também estão ligadas ao coração e às artérias. A estimulação
+parassimpática reduz a frequência cardíaca (cronotropia negativa), a condução AV (dromotropia negativa) e a força
+da contração miocárdica atrial. A diminuição da estimulação simpática resulta em dilatação das artérias, reduzindo,
+assim, a pressão arterial.
+A manipulação do sistema nervoso autônomo pode aumentar ou diminuir a incidência de arritmias. O aumento
+da estimulação simpática (p. ex., causada por exercícios físicos, ansiedade, febre ou administração de
+catecolaminas, tais como dopamina, aminofilina ou dobutamina) pode aumentar a incidência de arritmias. A
+diminuição da estimulação simpática (p. ex., com repouso, métodos de redução da ansiedade, tais como
+comunicação terapêutica ou meditação, ou administração de agentes de bloqueio beta­adrenérgico) pode diminuir a
+incidência de arritmias.
+Eletrocardiograma
+O impulso elétrico que se movimenta pelo coração pode ser visualizado por meio da eletrocardiografia, cujo
+produto final é um eletrocardiograma, ou ECG. Cada fase do ciclo cardíaco é refletida por formas de onda
+específicas na tela de um monitor cardíaco ou em uma fita de papel gráfico ECG.
+Figura 26.1 Relação do complexo eletrocardiográfico (ECG), sistema de derivações e impulso elétrico. O coração conduz
+a atividade elétrica, que o ECG mede e demonstra. As configurações da atividade elétrica demonstradas no ECG variam,
+dependendo da derivação (ou vista) do ECG e do ritmo do coração. Portanto, a configuração de um traçado de ritmo
+normal da derivação I (D I) difere da configuração de um traçado de ritmo normal da derivação II (D II). Por sua vez, D II
+difere da derivação III (D III), e assim por diante. O mesmo acontece com os ritmos anormais e os distúrbios cardíacos.
+Para analisar precisamente a atividade elétrica do coração ou para identificar onde, quando e quais anormalidades
+ocorrem, deve­se avaliar o ECG a partir de cada derivação, e não apenas da D II. Aqui, as diferentes áreas da atividade
+elétrica são identificadas por cores. RA, braço direito; LA, braço esquerdo; SA, sinoatrial; AV, atrioventricular; LL, perna
+esquerda.
+Obtenção de um eletrocardiograma
+Um ECG é obtido após o posicionamento de eletrodos sobre o corpo, em áreas específicas. Os eletrodos têm
+diversos formatos e tamanhos, mas todos apresentam dois componentes: (1) uma substância adesiva que adere à
+pele para manter o eletrodo no local e (2) uma substância que reduz a impedância elétrica da pele, a resistência à
+condução do sinal elétrico e a detecção da corrente elétrica. A fricção suave da pele com uma gaze seca limpa ajuda
+a expor a camada condutora interior da epiderme, o que reduzirá a impedância da pele. Embora a limpeza da pele
+com álcool remova qualquer resíduo oleoso da pele, ela também aumenta a impedância elétrica da pele e impede a
+•
+•
+•
+•
+detecção do sinal elétrico cardíaco. Se a quantidade de pelos no tórax impedir que o eletrodo tenha bom contato com
+a pele e se não houver outro local para o posicionamento do eletrodo, pode ser necessário cortar os pelos. A
+aderência insuficiente dos eletrodos causa artefato (formas de ondas ECG distorcidas, irrelevantes e estranhas)
+significativo, que pode distorcer a captura de uma forma de onda ECG precisa.
+A quantidade e o posicionamento dos eletrodos dependem do tipo de ECG que está sendo obtido. A maioria
+dos monitores contínuos utiliza dois a cinco eletrodos, normalmente posicionados nos membros e no tórax. Esses
+eletrodos criam uma linha imaginária, denominada derivação, que atua como um ponto de referência a partir do
+qual a atividade elétrica é visualizada. Uma derivação é como a lente de uma câmera – apresenta um campo de visão
+periférica estreito, que visualiza apenas a atividade elétrica diretamente à sua frente. Portanto, as formas de ondas
+ECG que figuram no papel e no monitor cardíaco representam a corrente elétrica em relação à derivação (Figura
+26.1). Uma alteração na forma de onda pode ser causada por uma alteração na corrente elétrica (onde tem origem ou
+como é conduzida) ou por uma alteração na derivação.
+Os eletrodos são anexados a fios de cabos, que são conectados a um dos que seguem:
+Uma máquina de ECG colocada ao lado do cliente para um registro imediato (ECG padrão de 12 derivações)
+Um monitor cardíaco na cabeceira do cliente para a leitura contínua; este tipo de monitoramento, normalmente
+denominado monitoramento conectado, é utilizado em unidades de terapia intensiva
+Uma pequena caixa que o cliente carrega e que transmite continuadamente as informações ECG por ondas de
+rádio para um monitor central localizado em outro local (denominado telemetria)
+Uma máquina tipo gravador de fita pequena e de peso leve (denominado monitoramento ECG ambulatorial ou
+um monitor Holter) que o cliente utiliza e que registra continuadamente o ECG, que posteriormente é observado
+e analisado com um escâner.
+O cliente pode ser submetido a um estudo eletrofisiológico (EF), no qual eletrodos são posicionados no
+coração com a finalidade de obter um ECG intracardíaco. Este é utilizado não apenas para diagnosticar a arritmia,
+mas também para determinar o plano de tratamento mais efetivo. Entretanto, tendo em vista que o estudo EF é
+invasivo, ele é realizado no hospital e pode exigir a internação do cliente (ver a seguir).
+Durante uma cirurgia de coração aberto, fios de marca­passo temporário podem ser levemente suturados ao
+epicárdio e exteriorizados através da parede torácica. Esses fios podem ser utilizados não apenas para a regulação
+temporária do ritmo, mas também quando conectados ao cabo da derivação V, para obter um ECG atrial, que pode
+ser útil no diagnóstico diferencial de taquiarritmias (McRae, Chan e Imperial­Perez, 2010).
+O posicionamento dos eletrodos para monitoramento contínuo, telemetria ou monitoramento por Holter varia
+com o tipo de tecnologia, a finalidade do monitoramento e os padrões da instalação de saúde. Para um ECG padrão
+de 12 derivações, 10 eletrodos (seis no tórax e quatro nos membros) são colocados sobre o corpo (Figura 26.2).
+Para prevenir a interferência da atividade elétrica do músculo esquelético, os eletrodos dos membros normalmente
+são posicionados sobre áreas que não são ósseas e que não apresentam movimentação significativa. Esses eletrodos
+dos membros fornecem as seis primeiras derivações: derivações I, II, III, aVR (voltagem do braço direito
+aumentada), aVL (voltagem do braço esquerda aumentada) e aVF (voltagem da perna/do pé esquerda/o aumentada).
+Os seis eletrodos torácicos são aplicados no tórax em áreas muito específicas. Os eletrodos torácicos fornecem as
+derivações V ou precordiais, V1 a V6
+. Para localizar o quarto espaço intercostal e para o posicionamento da V1
+, são
+localizados o ângulo esternal e, em seguida, o manúbrio esternal, que se encontra aproximadamente 2,5 a 5 cm
+abaixo do ângulo esternal. Quando os dedos são movidos imediatamente para a direita do cliente, a segunda costela
+pode ser palpada. O segundo espaço intercostal é a endentação sentida logo abaixo da segunda costela.
+A localização do espaço intercostal específico é crítica para o correto posicionamento dos eletrodos torácicos.
+Podem ocorrer erros no diagnóstico se os eletrodos forem posicionados incorretamente. Às vezes, quando o cliente
+está no hospital e precisa ser cuidadosamente monitorado em relação a alterações ECG, os eletrodos torácicos são
+deixados no local para assegurar o mesmo posicionamento para os ECG de acompanhamento.
+Um ECG padrão de 12 derivações reflete a atividade elétrica principalmente no ventrículo esquerdo. Pode ser
+necessário o posicionamento de eletrodos adicionais para outras derivações, para a obtenção de informações mais
+completas. Por exemplo, em clientes com suspeita de lesão cardíaca do lado direito, são necessárias derivações
+precordiais para avaliar o ventrículo direito (Figura 26.2).
+Figura 26.2 Posicionamento de eletrodos ECG. As derivações precordiais esquerdas padrão são V1 – quarto espaço
+intercostal, borda esternal direita; V2 – quarto espaço intercostal, borda esternal esquerda; V3 – diagonal entre V2 e V4
+; V4
+– quinto espaço intercostal, linha média clavicular esquerda; V5 – mesmo nível de V4
+, linha axilar anterior; V6
+(não
+ilustrada) – mesmo nível que V4 e V5
+, linha média axilar. As derivações precordiais direitas, colocadas por todo o lado
+direito do tórax, são o oposto espelhado das derivações esquerdas. RA, braço direito; LA, braço esquerdo; RL, perna
+direita; LL, perna esquerda. (Adaptada de Molle EA, Kronenberger J, West­Stack C et al. (2005). Lippincott Williams &
+Wilkins’ pocket guide to medical assisting (2nd ed.). Philadelphia: Lippincott Williams & Wilkins.)
+Interpretação do eletrocardiograma
+A forma de onda ECG reflete a função do sistema de condução do coração, que normalmente inicia e conduz a
+atividade elétrica, em relação à derivação. O ECG oferece informações importantes a respeito da atividade elétrica
+do coração e é útil no diagnóstico de arritmias. As formas de ondas ECG são impressas em papel gráfico, que é
+dividido por linhas verticais e horizontais claras e escuras em intervalos padrão (Figura 26.3). O tempo e a
+frequência são medidos no eixo horizontal do gráfico, e a amplitude ou voltagem é medida no eixo vertical. Quando
+uma forma de onda ECG se movimenta em direção ao topo do papel, é denominada deflexão positiva. Quando se
+movimenta em direção à parte inferior do papel, é denominada deflexão negativa. Quando um ECG é revisado, cada
+forma de onda deve ser examinada e comparada às outras.
+Figura 26.3 Gráfico ECG e componentes comumente medidos. Cada pequeno quadro representa 0,04 s no eixo
+horizontal e 1 mm ou 0,1 milivolt no eixo vertical. O intervalo PR é medido desde o início da onda P até o início do
+complexo QRS; o complexo QRS é medido desde o início da onda Q até o término da onda S; o intervalo QT é medido
+desde o início da onda Q até o término da onda T; e o intervalo TP é medido desde o início da onda T até o início da
+próxima onda P.
+Ondas, complexos e intervalos
+O ECG é composto por formas de ondas (incluindo a onda P, o complexo QRS, a onda T e, possivelmente, uma
+onda U) e por segmentos e intervalos (incluindo o intervalo PR, o segmento ST e o intervalo QT) (Figura 26.3).
+A onda P representa o impulso elétrico que tem início no nó SA e que se propaga pelos átrios. Portanto, a
+onda P representa a despolarização atrial. Normalmente apresenta altura de 2,5 mm ou menos e duração de 0,11 s
+ou menos.
+O complexo QRS representa a despolarização ventricular. Nem todos os complexos QRS apresentam todas as
+três formas de ondas. A onda Q é a primeira deflexão negativa após a onda P. A onda Q normalmente apresenta
+duração inferior a 0,04 s e menos de 25% da amplitude da onda R. A onda R é a primeira deflexão positiva após a
+onda P, e a onda S é a primeira deflexão negativa após a onda R. Quando uma onda apresenta altura inferior a 5
+mm, são utilizadas letras minúsculas (q, r, s); quando uma onda apresenta mais de 5 mm de altura, são utilizadas
+letras maiúsculas (Q, R, S) para rotular as ondas. O complexo QRS normalmente apresenta duração inferior a 0,12
+s.
+A onda T representa a repolarização ventricular (quando as células readquirem uma carga negativa; também
+denominada estado de repouso). Ela segue o complexo QRS e normalmente apresenta a mesma direção que o
+complexo QRS. A repolarização atrial também ocorre, mas não é visível ao ECG, tendo em vista que ocorre ao
+mesmo tempo em que a despolarização ventricular (i. e., o QRS).
+Acredita­se que a onda U represente a repolarização das fibras de Purkinje; embora esta onda seja rara, às
+vezes ela aparece em clientes com hipopotassemia (níveis de potássio baixos), hipertensão ou cardiopatia. Se
+presente, a onda U segue a onda T e normalmente é menor que a onda P. Se for alta, ela pode ser confundida com
+uma onda P adicional.
+O intervalo PR é medido desde o início da onda P até o início do complexo QRS e representa o tempo
+necessário para a estimulação do nó sinoatrial, a despolarização atrial e a condução pelo nó AV antes da
+despolarização ventricular. Em adultos, a duração do intervalo PR normalmente varia de 0,12 a 0,20 s.
+O segmento ST, que representa a repolarização ventricular prematura, apresenta duração desde o término do
+complexo QRS até o início da onda T. O início do segmento ST normalmente é identificado por uma alteração na
+espessura ou no ângulo da parte terminal do complexo QRS. O término do segmento ST pode ser mais difícil de
+identificar, tendo em vista que se funde na onda T. O segmento ST normalmente é isoelétrico (ver discussão
+posterior sobre o intervalo TP). Ele é analisado para identificar se está acima ou abaixo da linha isoelétrica, que
+pode ser, entre outros sinais e sintomas, um sinal de isquemia cardíaca (ver Capítulo 27).
+O intervalo QT, que representa o tempo total para a despolarização e a repolarização ventricular, é medido
+desde o início do complexo QRS até o término da onda T. O intervalo QT varia com a frequência cardíaca, o sexo e
+a idade; portanto, o intervalo medido precisa ser corrigido (QTc) em relação a estas variáveis por meio de cálculos
+específicos. O QTc pode ser calculado automaticamente pela tecnologia ECG, ou a enfermeira pode utilizar um livro
+de interpretação de ECG ou outro recurso que contenha um quadro destes cálculos. O intervalo QT normalmente
+apresenta duração de 0,32 a 0,40 s se a frequência cardíaca for de 65 a 95 bpm. Se o intervalo QT tornar­se
+prolongado, o cliente corre risco de uma arritmia ventricular letal denominada torsade de pointes. Embora muitos
+clientes hospitalizados pudessem se beneficiar do monitoramento do QT, um estudo indicou que as enfermeiras
+geralmente não têm a habilidade para fazer esta avaliação adequadamente (Pickham, Shinn, Chan et al., 2012).
+O intervalo TP é medido desde o término da onda T até o início da próxima onda P – um período isoelétrico
+(Figura 26.3). Quando nenhuma atividade elétrica é detectada, a linha no gráfico permanece achatada; esta é
+denominada linha isoelétrica. O segmento ST é comparado ao intervalo TP para a detecção de alterações no
+segmento ST.
+O intervalo PP é medido desde o início de uma onda P até o início da próxima onda P. O intervalo PP é
+utilizado para determinar a frequência e o ritmo atrial. O intervalo RR é medido desde um complexo QRS até o
+próximo complexo QRS. O intervalo RR é utilizado para determinar a frequência e o ritmo ventricular (Figura
+26.4).
+Determinação da frequência cardíaca a partir do eletrocardiograma
+A frequência cardíaca pode ser obtida a partir da fita de ECG por diversos métodos. Uma fita de 1 min contém 300
+quadros grandes e 1.500 quadros pequenos. Portanto, um método fácil e preciso de determinação da frequência
+cardíaca com um ritmo regular é contar o número de quadros pequenos em um intervalo RR e dividir 1.500 por
+aquele número. Se, por exemplo, houver 10 pequenos quadros entre duas ondas R, a frequência cardíaca será
+1.500/10, ou 150 bpm; se houver 25 quadros pequenos, a frequência cardíaca será 1.500/25, ou 60 bpm (Figura
+26.4A).
+Um método alternativo, porém menos preciso, para a estimativa da frequência cardíaca, que normalmente é
+utilizado quando o ritmo é irregular, é contar o número de intervalos RR em 6 s e multiplicar aquele número por
+10. O topo do papel ECG normalmente é marcado em intervalos de 3 s, que são 15 quadros grandes
+horizontalmente (Figura 26.4B). Os intervalos RR são contados, em vez dos complexos QRS, tendo em vista que
+uma frequência cardíaca computada com base nos últimos pode estar inexatamente alta.
+Os mesmos métodos podem ser utilizados para a determinação da frequência atrial, com a utilização do
+intervalo PP em vez do intervalo RR.
+Determinação do ritmo cardíaco a partir do eletrocardiograma
+Geralmente, o ritmo é identificado ao mesmo tempo que a frequência é determinada. O intervalo RR é utilizado
+para determinar o ritmo ventricular; e o intervalo PP, para determinar o ritmo atrial. Se os intervalos forem os
+mesmos ou se a diferença entre os intervalos for inferior a 0,8 s em toda a fita, o ritmo é denominado regular. Se
+os intervalos forem diferentes, o ritmo é denominado irregular.
+Análise da fita de ritmo do eletrocardiograma
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+O ECG deve ser analisado de modo sistemático para determinar o ritmo cardíaco do cliente e detectar arritmias e
+distúrbios de condução, bem como evidências de isquemia, lesão e infarto agudo do miocárdio. O Boxe 26.2 é um
+exemplo de um método que pode ser utilizado para analisar o ritmo do cliente.
+Após a realização da análise do ritmo, os achados são comparados e correspondidos aos critérios ECG em
+relação a arritmias para determinar um diagnóstico. É importante que a enfermeira não apenas identifique a
+arritmia, mas também avalie o cliente para determinar o efeito fisiológico da arritmia e identificar as possíveis
+causas. O tratamento de uma arritmia tem por base a avaliação clínica do cliente com a identificação da etiologia e
+do efeito da arritmia, e não a sua presença isoladamente.
+Figura 26.4 A. Determinação da frequência cardíaca ventricular e atrial com um ritmo regular; 1.500 divididos pelo
+número de pequenos quadros entre duas ondas P (frequência atrial) ou entre duas ondas R (frequência ventricular).
+Neste exemplo, existem 25 pequenos quadros entre as ondas R e as ondas P, de modo que a frequência cardíaca é 60
+bpm. B. Determinação da frequência cardíaca se o ritmo é irregular. Existem aproximadamente sete intervalos RR em 6 s,
+de modo que existem aproximadamente 70 intervalos RR em 60 s (7 × 10 = 70). A frequência cardíaca ventricular é 70
+bpm.
+Boxe
+26.2
+Interpretação das arritmias| Análise sistemática do eletrocardiograma
+Aoexaminaruma 䌌㺃taderitmodeeletrocardiograma(ECG)parasaber maisarespeitodaarritmiadeum cliente:
+Determineafrequênciaventricular.
+Determineoritmoventricular.
+Determineaduraçãodo QRS.
+Determineseaduraçãodo QRSéconsistenteem todaa 䌌㺃ta.Caso negativo, identi䌌㺃queoutraduração.
+Identi䌌㺃queoformatodo QRS; se nãofor consistente,em seguidaidenti䌌㺃queoutros formatos.
+Identi䌌㺃queasondasP;existeumaPàfrentedecadacomplexo QRS?
+Identi䌌㺃queoformatodaondaP; identi䌌㺃queseeleéconsistenteou não.
+Determineafrequênciaatrial.
+Determineoritmoatrial.
+DeterminecadaintervaloPR.
+Determineseos intervalosPR sãoconsistentes, irregulares,porém com um padrãoparaairregularidade,ouapenas irregulares.
+DeterminequantasondasPparacadacomplexo QRS(razãoP:QRS).
+Em muitos casos,aenfermeirapodeutilizarumalistadeveri䌌㺃caçãoedocumentarosachadosaproximadosdocritérioECG apropriado.
+A maioria dos monitoramentos cardíacos apresenta funcionalidades que incluem a capacidade de monitorar
+continuadamente o ritmo e alertar a equipe de saúde com um alarme auditivo e visual quando ocorre uma alteração
+significativa no ritmo. Entretanto, a alta frequência de alarmes disparados, especialmente por causa de artefatos,
+pode levar à “fadiga de alarme do monitor”, que foi relacionada com o comportamento de enfermeiras que ignoram,
+desabilitam ou silenciam os alarmes (Graham e Cvach, 2010) – com isso as arritmias podem ser ignoradas.
+Alerta deenfermagem| Qualidadeesegurança
+Évital que a enfermeira avalie a(s)causa(s) de umalarme demonitorcardíaco e emseguida ajuste ascon䌌㺃gurações padrão do alarme e
+individualize oslimites e os níveis dos parâmetros do alarme. A avaliação tambémdeve incluir a con䌌㺃rmação, emconversa como pro䌌㺃ssional
+primário, de que o cliente precisa permanecersobmonitoramento cardíaco.
+Ritmo sinusal normal
+O ritmo sinusal normal ocorre quando o impulso elétrico tem início a uma frequência e um ritmo regular no nó SA
+e se movimenta pela via de condução normal. O ritmo sinusal normal apresenta as características a seguir (Figura
+26.5):
+Frequência ventricular e atrial: 60 a 100 bpm no adulto.
+Ritmo ventricular e atrial: regular.
+Formato e duração do complexo QRS: habitualmente normais, mas podem ser regularmente anormais.
+Onda P: formato normal e consistente; sempre à frente do QRS.
+Intervalo PR: intervalo consistente, entre 0,12 e 0,20 s.
+Razão P:QRS: 1:1.
+Embora o ritmo sinusal normal em geral seja indicativo de boa saúde cardiovascular, uma frequência cardíaca
+em repouso que excede 90 bpm é associada a maior risco de mortalidade por todas as causas e eventos
+cardiovasculares (Perret­Guillaume, Joly e Benetos, 2009). Clientes com este aumento da frequência cardíaca basal
+devem receber avaliação clínica completa e ser aconselhados a respeito da modificação do estilo de vida,
+especialmente a manter um programa regular de atividades físicas.
+Tipos de arritmias
+As arritmias incluem arritmias sinusais, atriais, juncionais e ventriculares, e suas diversas subcategorias.
+Arritmias do nó sinoatrial
+Bradicardia sinusal
+A bradicardia sinusal ocorre quando o nó SA cria um impulso a uma frequência mais lenta que a normal. As causas
+incluem menores necessidades metabólicas (p. ex., sono, treinamento atlético, hipotireoidismo), estimulação vagal
+(p. ex., em virtude de vômito, aspiração, dor intensa), medicamentos (p. ex., bloqueadores de canais de cálcio,
+amiodarona, betabloqueadores), disfunção do nó sinoatrial idiopática, aumento da pressão intracraniana e doença da
+artéria coronária (DAC), especialmente infarto agudo do miocárdio (IAM) da parede inferior. A bradicardia instável
+e sintomática frequentemente ocorre em virtude de hipoxemia. Outras possíveis causas incluem alteração aguda das
+condições mentais (p. ex., delirium) e insuficiência cardíaca descompensada aguda (Fuster, Walsh et al., 2011). A
+bradicardia sinusal tem as seguintes características (Figura 26.6):
+Frequência ventricular e atrial: inferior a 60 bpm no adulto.
+Ritmo ventricular e atrial: regular.
+Formato e duração do QRS: habitualmente normais, mas podem ser irregularmente anormais.
+Onda P: formato normal e consistente; sempre à frente do QRS.
+Intervalo PR: intervalo consistente, entre 0,12 e 0,20 s.
+Razão P:QRS: 1:1.
+•
+•
+Figura 26.5 Ritmo sinusal normal na derivação II.
+Figura 26.6 Bradicardia sinusal na derivação II.
+Todas as características da bradicardia sinusal são as mesmas daquelas do ritmo sinusal normal, com exceção
+da frequência. O cliente é avaliado para determinar o efeito hemodinâmico e a possível causa da arritmia. Se a
+diminuição na frequência cardíaca resultar da estimulação do nervo vago, tal como a força para baixo durante a
+defecação ou o vômito, tenta­se prevenir a estimulação vagal adicional. Se a bradicardia for causada por um
+medicamento, tal como um betabloqueador, o medicamento pode ser suspenso. Se a frequência cardíaca lenta causar
+alterações hemodinâmicas significativas que resultem em dispneia, alteração aguda do estado mental, angina,
+hipotensão, alterações no segmento ST ou extrassístoles ventriculares, o tratamento é direcionado para o aumento
+da frequência cardíaca. Se a frequência cardíaca lenta ocorrer em virtude de disfunção do nó sinoatrial (antes
+conhecida como síndrome do nó doente), que ocorre com mais frequência em pessoas com mais de 50 anos de
+idade, pode resultar em diminuição da capacidade para exercícios físicos, fadiga, confusão inexplicada, ou perda da
+memória (Fuster, Walsh et al., 2011). Síndrome de taquicardia­bradicardia é o termo utilizado quando a
+bradicardia é alternada com taquicardia.
+Manejo clínico. O manejo clínico depende da causa e dos sintomas. A resolução dos fatores causais pode ser o
+único tratamento necessário. Se a bradicardia for sintomática (p. ex., tremor, hipotensão, síncope), 0,5 mg de
+atropina administrado rapidamente como bolus intravenoso (IV) a cada 3 a 5 min até uma dose total máxima de 3
+mg é o medicamento de escolha. Raramente, catecolaminas e regulação de ritmo transcutânea de emergência são
+implementadas quando o ritmo não é responsivo à atropina.
+A atropina bloqueia a estimulação vagal, possibilitando, assim, a ocorrência de uma frequência normal.
+Entretanto, deve ser evitada em clientes de transplante cardíaco, tendo em vista que pode causar BAV paradoxal
+(ver discussão posterior sobre BAV) (Morrison, Deakin, Morley et al., 2010). Em vez disso, podem ser
+administrados 100 a 200 mg de teofilina IV lentamente aos clientes com bradicardia que se submeteram a um
+transplante cardíaco, bem como aqueles que apresentaram um IAM de parede inferior ou lesão raquimedular
+(Morrison et al., 2010).
+Taquicardia sinusal
+A taquicardia sinusal ocorre quando o nó sinoatrial cria um impulso em uma frequência mais rápida que a normal.
+Entre as causas estão as seguintes:
+Estresse fisiológico ou psicológico (p. ex., perda de sangue aguda, anemia, choque, hipervolemia, hipovolemia,
+insuficiência cardíaca, dor, estados hipermetabólicos, febre, exercícios físicos, ansiedade)
+Medicamentos que estimulam a resposta simpática (p. ex., catecolaminas, aminofilina, atropina), estimulantes
+•
+•
+(p. ex., cafeína, nicotina) e drogas ilícitas (p. ex., anfetaminas, cocaína, ecstasy)
+Intensificação da automaticidade do nó SA e/ou tônus simpático excessivo com redução do tônus parassimpático
+que é desproporcional às demandas fisiológicas, uma condição denominada taquicardia sinusal inapropriada
+Disfunção autônoma, que resulta em um tipo de taquicardia sinusal denominada síndrome de taquicardia
+ortostática postural (STOP). Clientes com STOP apresentam taquicardia sem hipotensão em 5 a 10 min após
+levantar ou com teste de inclinação ortostática com elevação da cabeceira.
+Figura 26.7 Taquicardia sinusal na derivação II.
+A taquicardia sinusal apresenta as características a seguir (Figura 26.7):
+Frequência ventricular e atrial: superior a 100 bpm no adulto, mas normalmente inferior a 120 bpm.
+Ritmo ventricular e atrial: regular.
+Formato e duração do complexo QRS: habitualmente normais, mas podem ser regularmente anormais.
+Onda P: formato normal e consistente; sempre à frente do complexo QRS, mas pode estar englobada na onda
+T precedente.
+Intervalo PR: intervalo consistente, entre 0,12 e 0,20 s.
+Razão P:QRS: 1:1.
+Todos os aspectos da taquicardia sinusal são os mesmos daqueles do ritmo sinusal normal, com exceção da
+frequência. A taquicardia sinusal não inicia ou encerra subitamente (i. e., é não paroxística). À medida que a
+frequência cardíaca aumenta, o tempo de preenchimento diastólico diminui, possivelmente resultando em redução
+do débito cardíaco e subsequentes sintomas de síncope e pressão arterial baixa. Se a frequência rápida persistir e o
+coração não conseguir compensar a diminuição do preenchimento ventricular, o cliente pode desenvolver edema
+pulmonar agudo.
+Manejo clínico. O manejo clínico da taquicardia sinusal é determinado pela gravidade dos sintomas e direcionado à
+identificação e à abolição da sua causa. Se a taquicardia for persistente e causar instabilidade hemodinâmica, a
+cardioversão sincronizada é o tratamento preferencial (ver discussão posterior). De outro modo, manobras vagais
+ou administração de adenosina podem ser consideradas. Betabloqueadores e bloqueadores de canais de cálcio
+(Tabela 26.1), embora raramente utilizados, também podem ser considerados em uma taquicardia de QRS estreito.
+Se a taquicardia apresentar um QRS amplo, a adenosina então somente é considerada se o QRS for monomórfico
+(formato uniforme) e o ritmo ventricular for regular. De outro modo, procainamida, amiodarona e sotalol são as
+opções na taquicardia de QRS amplo (ver discussão a seguir sobre todos esses medicamentos). A ablação por
+cateter (discutida adiante neste capítulo) do nó SA pode ser utilizada em casos de taquicardia sinusal inapropriada
+persistente não responsiva a outros tratamentos. O tratamento para STOP pode incluir aumento da ingestão de
+líquidos e sódio e a utilização de meias de compressão gradual para prevenir o represamento de sangue nas
+extremidades inferiores (Fuster, Walsh et al., 2011).
+TABELA 26.1 Resumo demedicamentos antiarrítmicos.*
+Classe* Ação Nomes dosfármacos Efeitoscolaterais
+Intervenções de
+enfermagem
+IA Depressão moderadada
+despolarização;
+prolongaa
+repolarização
+Trataeprevinearritmias
+atriaiseventriculares
+Quinidina
+Procainamida
+Disopiramida
+Diminuiçãoda
+contratilidade
+cardíaca
+Prolongamentodo
+QRS, QT
+Pró-arrítmicos
+Hipotensãocom a
+administraçãopor
+viaintravenosa
+Diarreiacom
+quinidina,
+constipação
+intestinal com
+disopiramida
+Cinchonismocom
+quinidina
+Síndrometipolúpus
+com procainamida
+Efeitos
+anticolinérgicos:
+bocaseca,
+hesitaçãourinária
+com disopiramida
+Observeem relaçãoà
+IC
+MonitoreaPA com a
+administraçãoIV
+Monitoreaduração
+do QRSem
+relaçãoao
+aumento > 50a
+partirdovalor
+basal
+Monitoreem relação
+ao QTprolongado
+Monitoreosvalores
+laboratoriaisde
+N-acetil
+procainamida
+(NAPA)durantea
+terapiacom
+procainamida
+Seadministrados
+para 䌌㺃brilação
+atrial,assegure
+queocliente
+tenhasidoprétratadocom um
+medicamento
+paracontrolara
+condução AV
+IB Depressão mínimada
+despolarização;
+repolarização
+abreviada
+Trataarritmias
+ventriculares
+Lidocaína
+Mexiletina
+Tocainida
+AlteraçõesdoSNC(p.
+ex., confusão,
+letargia)
+Bradicardia
+Desconforto GI
+Tremores
+Monitoreem relação
+a
+alteraçõesdoSNC
+etremores
+Discutacom o
+pro䌌㺃ssional
+principala
+diminuiçãoda
+dosedelidocaína
+em clientes
+idososeclientes
+com disfunção
+cardíaca/hepática
+IC Depressãoacentuadada
+despolarização;pouco
+efeitosobrea
+repolarização
+Trataarritmiasatriaise
+ventriculares
+Flecainida
+Propafenona
+Pró-arrítmicos
+IC
+Tontura,distúrbios
+visuais,dispneia
+Diminuaadosecom
+disfunçãorenale
+dietas
+vegetarianas
+estritas
+Eviteem clientes com
+cardiopatia
+estrutural (p.ex.,
+DACe
+insu䌌㺃ciência
+cardíaca)
+II Diminuiaautomaticidade
+eacondução
+Acebutolol
+§
+Atenolol
+Bradicardia, BAV
+Diminuiçãoda
+Monitorea
+frequência
+Trataarritmiasatriaise
+ventriculares
+Bisoprolol/HCTZ
+Esmolol
+§
+Labetalol
+Metoprolol
+Nadolol
+Nebivolol
+Propranolol
+§
+Sotalol (também apresentaaçõesdaclasseIII)
+§
+contratilidade
+Broncospasmo
+Náuseas
+Hipotensão
+assintomáticae
+sintomática
+Mascaraa
+hipoglicemiaea
+tireotoxicose
+DistúrbiosdoSNC(p.
+ex., confusão,
+tontura, fadiga,
+depressão)
+cardíaca,
+intervaloPR,
+sinaisesintomas
+deIC,
+especialmente
+naquelesque
+recebem
+bloqueadoresde
+canaisdecálcio
+Monitoreo nívelde
+glicoseséricaem
+clientes com
+diabetes tipo2
+Advirtaoclientea
+respeitoda
+suspensão
+abruptapara
+evitar
+taquicardia,
+hipertensãoe
+isquemiado
+miocárdio
+III Prolongaarepolarização
+A amiodaronatratae
+previnearritmias
+ventriculareseatriais,
+especialmenteem
+clientes com
+disfunçãoventricular
+Dofetilidaeibutilida
+tratam eprevinem
+arritmiasatriais
+Amiodarona
+Dofetilida
+Ibutilida
+Efeitos tóxicos
+pulmonares
+(amiodarona)
+Microdepósitos
+corneanos
+(amiodarona)
+Fotossensibilidade
+(amiodarona)
+Bradicardia
+Hipotensão,
+especialmente
+com
+aadministração
+porvia
+intravenosa
+Disritmias
+ventriculares
+polimór䌌㺃cas
+(raras com
+amiodarona)
+Náuseasevômito
+Potencializaa
+digoxina
+(amiodarona)
+Verbetabloqueadores
+anteriormente
+(sotalol)
+Assegure-sedequeo
+clienteseja
+enviadopara
+provasdefunção
+pulmonarbasal
+(amiodarona)
+Monitore
+cuidadosamente
+ocliente
+Avalieem relaçãoàs
+contraindicações
+antesda
+administração
+Monitoreaduração
+do QT
+MonitoramentoECG
+contínuocom o
+iníciode
+dofetilidae
+ibutilida
+Monitoreafunção
+renal
+IV Bloqueiaos canaisde
+cálcio
+Trataeprevinearritmias
+atriaisparoxísticas
+†
+Verapamil
+Diltiazem
+Bradicardia, BAV
+Hipotensãocom a
+administraçãoIV
+IC,edemaperiférico
+Monitorea
+frequência
+cardíaca,
+intervaloPR
+Constipação
+intestinal, tontura,
+cefaleia, náuseas
+Monitoreapressão
+arterial
+cuidadosamente
+com a
+administração
+porvia
+intravenosa
+Monitoreem relação
+asinaise
+sintomasdeIC
+Nãoesmague
+medicamentosde
+liberação
+prolongada
+IV, intravenosa; IC, insuficiência cardíaca; PA, pressão arterial; AV, atrioventricular; SNC, sistema nervoso central; GI,
+gastrintestinal; HCTZ, hidroclorotiazida; ECG, eletrocardiograma
+*Com base na classificação de Vaughn­Williams.
+† Existem outros bloqueadores de canais de cálcio, mas eles não são aprovados ou utilizados para arritmias.
+§ Betabloqueador com utilização rotulada para arritmias.
+Adaptada da American Heart Association. (2010). Advanced cardiac life support provider manual. Dallas: American Heart
+Association; American Society of Health System Pharmacists. (2012).AHFS drug information. Bethesda, MD: Author; e
+Fuster V, Walsh RA, Harrington RA (Eds.). (2011). Hurst’s the heart (13th ed.). New York: McGraw­Hill.
+Arritmia sinusal
+A arritmia sinusal ocorre quando o nó sinoatrial cria um impulso a um ritmo irregular; a frequência normalmente
+aumenta com a inspiração e diminui com a expiração. As causas não respiratórias incluem cardiopatia e doença
+valvar, mas estas são raras. A arritmia sinusal tem as seguintes características (Figura 26.8):
+Frequência ventricular e atrial: 60 a 100 bpm no adulto.
+Ritmo ventricular e atrial: irregular.
+Formato e duração do QRS: habitualmente normais, mas podem ser regularmente anormais.
+Onda P: formato normal e consistente; sempre à frente do QRS.
+Intervalo PR: intervalo consistente, entre 0,12 e 0,20 s.
+Razão P:QRS: 1:1.
+Manejo clínico. A arritmia sinusal não causa efeito hemodinâmico significativo e, portanto, não é tratado
+tipicamente.
+Arritmias atriais
+Extrassístole atrial
+Uma extrassístole atrial é um complexo ECG único que ocorre quando um impulso elétrico tem início no átrio antes
+do próximo impulso normal do nó sinoatrial. As extrassístoles atriais podem ser causadas por cafeína, álcool
+etílico, nicotina, miocárdio atrial distendido (p. ex., como na hipervolemia), ansiedade, hipopotassemia (nível de
+potássio baixo), estados hipermetabólicos (p. ex., com a gestação), ou isquemia, lesão ou infarto atrial. As
+extrassístoles atriais geralmente são visualizadas com a taquicardia sinusal. As extrassístoles atriais têm as
+seguintes características (Figura 26.9):
+Frequência ventricular e atrial: depende do ritmo subjacente (p. ex., taquicardia sinusal).
+Ritmo ventricular e atrial: irregular por causa de ondas P prematuras, que criam um intervalo PP que é mais
+curto do que os outros. Isso por vezes é seguido por um intervalo PP mais longo do que o normal, porém
+que é inferior ao dobro do intervalo PP normal. Esse tipo de intervalo é denominado pausa não
+compensatória.
+Formato e duração do QRS: o complexo QRS após a onda P inicial habitualmente é normal, mas pode ser
+anormal (extrassístole atrial conduzida de modo aberrante). Pode até estar ausente (extrassístole atrial
+bloqueada).
+Onda P: uma onda P prematura e diferente pode ser visualizada ou pode estar escondida na onda T; as outras
+ondas P na fita são consistentes.
+Intervalo PR: a onda P prematura apresenta um intervalo PR mais curto do que o normal, mas ainda entre 0,12
+e 0,20 s.
+Razão P:QRS: normalmente 1:1.
+As extrassístoles atriais são comuns em corações normais. O cliente pode dizer: “Meu coração bateu mais
+rápido.” Pode haver déficit de pulso (diferença entre as frequências de pulso apical e radial).
+Figura 26.8 Arritmia sinusal na derivação II. Observe os intervalos RR e PP irregulares.
+Figura 26.9 Extrassístoles atriais na derivação II. Observe que a pausa após a extrassístole atrial é mais longa do que o
+intervalo PP normal, embora seja inferior ao dobro do intervalo PP normal.
+Manejo clínico. Se as extrassístoles atriais não forem frequentes, nenhum tratamento é necessário. Se forem
+frequentes (> 6 por minuto), isso pode anunciar uma piora da doença ou o início de arritmias mais sérias, tais como
+fibrilação atrial. O manejo clínico é direcionado para a causa de base (p. ex., redução da ingestão de cafeína,
+correção da hipopotassemia).
+Flutter atrial
+O flutter atrial ocorre em virtude de um defeito de condução no átrio e causa frequência atrial rápida e regular,
+normalmente entre 250 e 400 bpm. Tendo em vista que a frequência atrial é mais rápida do que o nó AV consegue
+conduzir, nem todos os impulsos atriais são conduzidos para o ventrículo, causando um bloqueio terapêutico no nó
+AV. Esta é uma característica importante desta arritmia. Se todos os impulsos atriais fossem conduzidos para o
+ventrículo, a frequência ventricular também seria de 250 a 400 bpm, o que resultaria em fibrilação ventricular, uma
+arritmia potencialmente fatal. O flutter atrial geralmente ocorre em clientes com doença pulmonar obstrutiva
+crônica, hipertensão pulmonar, valvopatia e tireotoxicose, bem como após cirurgia de coração aberto e reparo de
+defeitos cardíacos congênitos (Fuster, Walsh et al., 2011).
+O flutter atrial apresenta as características a seguir (Figura 26.10):
+Frequência ventricular e atrial: a frequência atrial varia entre 250 e 400 bpm; a frequência ventricular costuma
+variar entre 75 e 150 bpm.
+Ritmo ventricular e atrial: o ritmo atrial é regular; o ritmo ventricular normalmente é regular, mas pode ser
+irregular em virtude de uma alteração na condução AV.
+Formato e duração do QRS: habitualmente normais, mas podem ser anormais ou estar ausentes.
+Onda P: formato de dente de serrote; essas ondas são denominadas ondas F.
+Intervalo PR: diversas ondas F podem tornar difícil determinar o intervalo PR.
+Razão P:QRS: 2:1, 3:1, ou 4:1.
+Manejo clínico. O manejo clínico envolve a utilização de manobras vagais ou a administração de adenosina, que
+causa bloqueio simpático e diminuição da velocidade da condução no nó AV, e pode encerrar a taquicardia, ou no
+mínimo possibilitar a melhor visualização das ondas de flutter. A adenosina deve ser administrada por via
+intravenosa rapidamente, seguida por infusão de 20 mℓ de soro fisiológico para “lavar” o equipo e elevação do
+braço com o acesso venoso para promover a circulação rápida do medicamento. Se a taquicardia não encerrar em 2
+min, pode ser administrada uma dose maior de adenosina (Morrison et al., 2010).
+Figura 26.10 Flutter atrial na derivação II.
+O flutter atrial pode causar sinais e sintomas sérios, como dor torácica, dispneia e pressão arterial baixa. A
+cardioversão elétrica (discutida posteriormente) geralmente é bem­sucedida na conversão do ritmo em ritmo
+sinusal. Se a arritmia tiver durado mais do que 48 h e um ecocardiograma transesofágico não houver confirmado a
+ausência de coágulos atriais, pode ser indicada anticoagulação adequada, com a utilização dos mesmos critérios da
+fibrilação atrial, antes da cardioversão ou ablação. Os medicamentos utilizados para diminuir a frequência da
+resposta ventricular incluem betabloqueadores, bloqueadores de canais de cálcio não di­hidropiridínicos e
+digitálicos, isoladamente ou em combinação (ver Tabela 26.1). A ablação por cateter, em vez de medicamentos
+antiarrítmicos, atualmente é o tratamento preferencial a longo prazo. O flutter atrial deve ser tratado com agentes
+antitrombóticos do mesmo modo que a fibrilação atrial (Crandall, Bradley, Packer et al., 2009) (ver discussão
+posterior).
+Fibrilação atrial
+A fibrilação atrial é uma ativação elétrica atrial descoordenada que causa contração rápida, desorganizada e
+descoordenada da musculatura atrial. A resposta da frequência ventricular depende da capacidade do nó AV de
+conduzir os impulsos atriais, do nível de tônus simpático e parassimpático, da presença de vias acessórias e dos
+efeitos de quaisquer medicamentos (Fuster, Rydén, Cannom et al., 2011). Por exemplo, intervalos RR regulares na
+fibrilação atrial podem indicar a ocorrência de bloqueio atrioventricular (BAV) completo. Pela falta de consistência
+na descrição do padrão da fibrilação atrial, diversos termos já foram utilizados (p. ex., aguda, crônica, paroxística
+[i. e., se ocorre subitamente], persistente e permanente). O sistema de classificação recomendado está descrito no
+Boxe 26.3. Observe que “fibrilação atrial crônica” não está incluído; tendo em vista que ele não apresenta uma
+definição padrão, deve­se evitar usar este termo (Calkins, Kuck, Cappoto et al., 2012).
+Boxe
+26.3
+Sistema de classi䌌㺃cação da 䌌㺃brilação atrial
+•
+•
+•
+•
+•
+•
+•
+•
+Tipo Descrição
+Paroxística Recidivante, com inícioeencerramentosúbito;dura ≤ 7dias
+Persistente Contínua, com duração > 7dias
+Persistentedelongaduração Contínua, com duração > 1ano
+Permanente Persistente, mas foi tomadaadecisãode nãorestaurarou manteroritmosinusal
+Adaptado de Calkins H, Kuck KH, Cappato R et al. 2012 HRS/EHRA/ECAS expert consensus statement on catheter and
+surgical ablation of atrial fibrillation: Recommendations for patient selection, procedural techniques, patient management
+and follow­up, definitions, endpoints, and research trial design. Heart Rhythm, 2012; 9(4), 632­696.
+A fibrilação atrial é a arritmia prolongada mais comum, que ocorre em mais de 2 milhões de pessoas nos EUA
+(Schnabel, Sullivan, Levy et al., 2009). A causa exata da fibrilação atrial não é conhecida; entretanto, focos
+autônomos e fenômenos de reentrada múltipla estão envolvidos, mais frequentemente com origem não no átrio, mas
+no tecido adjacente (p. ex., na veia pulmonar) (Crandall et al., 2009). Os fatores de risco para a fibrilação atrial
+estão descritos no Boxe 26.4.
+A fibrilação atrial pode ocorrer no período após qualquer cirurgia de grande porte, mas especialmente de
+cirurgia cardíaca a céu aberto (Cramm, Kirchof, Lip et al., 2010). Também pode ocorrer na cardiopatia estrutural,
+tal como na valvopatia cardíaca (com mais frequência mitral ou tricúspide); doença inflamatória ou infiltrativa
+(pericardite, miocardite, amiloidose); miocardiopatia dilatada, hipertrófica e restritiva; doença da artéria coronária
+(DAC); hipertensão arterial; distúrbio congênito (especialmente comunicação interatrial); e insuficiência cardíaca
+(diastólica ou sistólica) (Fuster, Rydén et al., 2011). A arritmia também pode ser observada em pessoas com
+hipertireoidismo, feocromocitoma, hipertensão arterial e embolismo pulmonar, apneia obstrutiva do sono e ingestão
+moderada a substancial de bebidas alcoólicas (síndrome do “coração pós­feriado”), bem como após cirurgia
+pulmonar ou de coração a céu aberto (Fuster, Rydén et al., 2011). A fibrilação atrial neurogênica que ocorre com a
+hemorragia subaracnóidea e o AVE não hemorrágico é causada pelo aumento da estimulação vagal ou simpática. Às
+vezes, a fibrilação atrial ocorre em pessoas com menos de 60 anos sem fisiopatologia de base e é denominada
+fibrilação atrial solitária (Fuster, Rydén et al., 2011). Muitos estudos indicaram que a fibrose atrial está envolvida
+na fibrilação atrial persistente, o que levou à investigação de substâncias como endotelina 1, proteína C reativa e
+interleucina 6 como biomarcadores em relação à fibrilação atrial (Estes, Sacco, Al­Khatib et al., 2011).
+Boxe
+26.4
+FATORES DE RISCO
+Fibrilação atrial
+Envelhecimento
+Sexo masculino
+Índicede massacorporal maisalto
+Pressãoarterial sistólica ≥ 160 mmHg
+Hipertensãoarterial
+IntervaloPR ≥ 160 ms
+Soprocardíacoclinicamentesigni䌌㺃cativo(i.e.,grau3ousuperior)
+Insu䌌㺃ciênciacardíaca.
+Adaptado de Schnabel RB, Sullivan LM, Levy D et al. Development of a risk score for atrial fibrillation (Framingham Heart
+Study): A community­based cohort study. Lancet, 2009; 373(9665), 739­745.
+A prevalência da fibrilação atrial está aumentando e está relacionada com o aumento do risco de acidente
+vascular encefálico, demência e morte prematura (Estes et al., 2011). As hospitalizações em virtude de fibrilação
+atrial aumentaram em 66% nos últimos 20 anos, e a ocorrência da arritmia aumenta a duração e o custo da estadia
+hospitalar (Fuster, Rydén et al., 2011).
+A fibrilação atrial tem as seguintes características (Figura 26.11):
+Frequência ventricular e atrial: A frequência atrial é de 300 a 600 bpm; a frequência ventricular normalmente
+é de 120 a 200 bpm na fibrilação atrial não tratada.
+Ritmo ventricular e atrial: altamente irregular.
+Formato e duração do QRS: habitualmente normais, mas podem ser anormais.
+Onda P: nenhuma onda P discernível; ondas irregulares ondulantes que variam em amplitude e formato são
+observadas e denominadas ondas fibrilatórias, ou f.
+Intervalo PR: não pode ser medido.
+Razão P:QRS: Muitas:1.
+Uma resposta ventricular rápida e irregular reduz o tempo para o preenchimento ventricular, resultando em um
+volume sistólico menor. Tendo em vista que a fibrilação atrial causa uma perda na sincronia AV (os átrios e os
+ventrículos contraem em ocasiões diferentes), o pontapé atrial (a última parte da diástole e do preenchimento
+ventricular, que é responsável por 25 a 30% do débito cardíaco) também é perdido. Isso pode levar a palpitações
+irregulares e sintomas de insuficiência cardíaca, tais como dispneia, fadiga, intolerância a exercícios físicos e malestar. Os clientes podem ser assintomáticos ou apresentar colapso hemodinâmico significativo (hipotensão, dor
+torácica, edema pulmonar e alteração do nível de consciência), especialmente se eles também apresentarem
+hipertensão, estenose de valva mitral, miocardiopatia hipertrófica ou alguma forma de insuficiência cardíaca
+restritiva (Fuster, Rydén et al., 2011). Habitualmente há um déficit de pulso – uma diferença numérica entre as
+frequências de pulso apical e radial. O tempo mais curto em diástole reduz o tempo disponível para a perfusão da
+artéria coronária, aumentando, assim, o risco de isquemia do miocárdio com o início do desconforto torácico. A
+contração atrial errática, a alteração do fluxo sanguíneo e a disfunção miocárdica atrial promovem a formação de
+trombos, especialmente no átrio esquerdo, aumentando o risco de um evento embólico.
+Além disso, uma resposta de frequência ventricular alta durante a fibrilação atrial pode levar à miocardiopatia
+ventricular dilatada. A frequência ventricular rápida também pode levar a disfunção da valva mitral, regurgitação de
+mitral e retardo na condução intraventricular. O controle da frequência ventricular pode evitar e corrigir esses
+efeitos.
+Figura 26.11 Fibrilação atrial na derivação II.
+Manejo clínico. A avaliação clínica da fibrilação atrial deve incluir um histórico e exame físico (para identificar o
+padrão da fibrilação atrial, sintomas correlatos e quaisquer condições de base); ECG de 12 derivações (para
+identificar a ocorrência de hipertrofia ventricular, pré­excitação em virtude de vias acessórias, defeitos de condução
+intraventricular e histórico de IAM); ecocardiograma (para avaliar tamanho, espessura e função das câmaras
+cardíacas; para identificar possíveis causas, tais como miocardiopatia ou disfunção valvar; e para identificar a
+presença de um trombo); e testes séricos para avaliar tireoide, função renal e hepática quando a frequência
+ventricular for de difícil controle (Fuster, Rydén et al., 2011). Em clientes submetidos a cirurgia cardíaca que
+apresentam conexão a fios epicárdicos, a obtenção de um ECG atrial auxilia no diagnóstico da fibrilação atrial e na
+sua diferenciação de outras arritmias comuns, tais como ritmo juncional acelerado (McRae et al., 2010). Os testes
+adicionais podem incluir radiografia torácica (para avaliar a vasculatura pulmonar), teste de exercícios físicos (para
+avaliar o controle da frequência, bem como isquemia do miocárdio), monitoramento por Holter ou de evento, e um
+estudo EF. O exame físico pode revelar pulso irregular, pulsações venosas jugulares irregulares e sons cardíacos de
+B1 irregulares.
+O tratamento da fibrilação atrial depende da causa, do padrão e da duração da arritmia, da frequência de
+resposta ventricular e do tipo e da gravidade dos sintomas do cliente, bem como da idade e das comorbidades do
+cliente. O controle do ritmo (conversão em ritmo sinusal) versus controle da frequência é uma decisão clínica no
+tratamento inicial e em andamento para a fibrilação atrial. Estudos prospectivos demonstraram que o controle da
+frequência cardíaca (frequência cardíaca em repouso inferior a 80 bpm) é equivalente ao controle do ritmo em
+termos de qualidade de vida, frequência de hospitalização em virtude de insuficiência cardíaca e incidência de
+acidente vascular encefálico (Fuster, Rydén et al., 2011; Wyse, Waldo, DiMarco et al., 2002). Entretanto, se a
+fibrilação atrial persistir em alguns clientes, tais como aqueles que são mais jovens ou que apresentam insuficiência
+cardíaca, o remodelamento elétrico e estrutural pode então evitar que a restauração do ritmo sinusal sequer ocorra.
+Portanto, o tratamento da fibrilação atrial pode não apenas ser diferente em clientes diferentes, mas também pode
+ser alterado ao longo do tempo para qualquer cliente individual.
+Em alguns clientes, a fibrilação atrial é convertida em ritmo sinusal em 24 h e sem tratamento. A
+hospitalização pode não ser necessária. A cardioversão elétrica é indicada para clientes com fibrilação atrial que é
+hemodinamicamente instável e não responde rapidamente aos medicamentos, exceto se apresentarem intoxicação
+digitálica ou hipopotassemia concomitantes. Em virtude do alto risco de embolização dos trombos atriais, a
+cardioversão da fibrilação atrial que durou mais de 48 h deve ser evitada, exceto se o cliente tiver recebido varfarina
+por no mínimo 3 a 4 semanas antes da cardioversão. Alternativamente, a ausência de trombo mural pode ser
+confirmada por meio de ecocardiograma transesofágico, e pode ser administrada heparina imediatamente antes da
+cardioversão.
+Alerta de domínio do conceito
+O cliente com䌌㺃brilação atrial está emalto risco para a formação de trombos. Quando a cardioversão elétrica é indicada, a enfermeira pode
+antecipar que umecocardiograma transesofágico poderá ser realizado para a avaliação emrelação a possíveistrombos atriais.
+Tendo em vista que a função atrial pode estar comprometida por diversas semanas após a cardioversão, a
+varfarina é indicada por no mínimo 4 semanas após o procedimento. Os clientes podem receber amiodarona,
+flecainida, ibutilida, propafenona ou sotalol antes da cardioversão para intensificar o sucesso da cardioversão e
+prevenir a recidiva da fibrilação atrial (Fuster, Rydén et al., 2011).
+Os medicamentos que podem ser administrados para alcançar a cardioversão farmacológica em ritmo sinusal
+incluem amiodarona, dofetilida, ibutilida, flecainida ou propafenona (Fuster, Rydén et al., 2011). Esses
+medicamentos são mais efetivos se administrados em 7 dias do início da fibrilação atrial. Em virtude da incidência
+de torsades de pointes, que é um tipo de taquicardia ventricular (TV), a utilização da ibutilida recomenda o
+monitoramento ECG por no mínimo 4 h após a sua administração. A utilização de dofetilida também requer a
+hospitalização do cliente para o monitoramento do intervalo QT e da função renal.
+Se o QRS for amplo e o ritmo ventricular for muito rápido e irregular, sempre deve haver suspeita de
+fibrilação atrial com uma via acessória. Uma via acessória é um tecido congênito entre os átrios, o feixe de His, o
+nó AV, as fibras de Purkinje ou o miocárdio ventricular. Esta anomalia é conhecida como síndrome de WolffParkinson­White (WPW). A cardioversão elétrica é o tratamento preferencial para a fibrilação atrial em casos de
+síndrome de WPW que causa instabilidade hemodinâmica. Os medicamentos que bloqueiam a condução AV (p. ex.,
+digoxina, diltiazem e verapamil) devem ser evitados em casos de WPW, tendo em vista que podem aumentar a
+frequência ventricular. Se o cliente estiver hemodinamicamente estável, procainamida, propafenona, flecainida e
+amiodarona são recomendados para restaurar o ritmo sinusal (Fuster, Rydén et al., 2011). A ablação por cateter é
+realizada para o tratamento a longo prazo.
+Para controlar a frequência cardíaca na fibrilação atrial persistente, recomenda­se administrar um
+betabloqueador (propranolol, atenolol, metoprolol ou esmolol), ou um bloqueador de canais de cálcio não dihidropiridina (diltiazem ou verapamil) (Fuster, Rydén et al., 2011). Entretanto, pessoas com comprometimento da
+função ventricular não devem receber verapamil, aqueles com broncospasmo não devem receber um betabloqueador,
+e aqueles com BAV não devem receber nenhum desses medicamentos. Pode ser administrada digoxina ou
+amiodarona IV para o controle da frequência em clientes com insuficiência cardíaca ou disfunção ventricular
+esquerda, mas sem uma via acessória. Procainamida ou ibutilida IV é uma alternativa para o controle da frequência
+em clientes com uma via acessória. Para as gestantes, digoxina, um betabloqueador ou um bloqueador de canais de
+cálcio não di­hidropiridínico pode ser utilizado para o controle da frequência. Se os medicamentos não conseguirem
+controlar a frequência cardíaca ou causarem efeitos colaterais significativos, pode ser indicada ablação por cateter
+(Fuster, Rydén et al., 2011).
+A fibrilação atrial persistente pode causar disfunção do nó sinoatrial e alteração na musculatura atrial e na
+função contrátil (choque atrial), que podem persistir por dias ou semanas após a conversão em ritmo sinusal
+(Crandall et al., 2009). Isso apresenta implicações para o tempo de recuperação e a duração da terapia de
+anticoagulação necessária após a conversão.
+A manutenção do ritmo sinusal pode ser obtida com amiodarona, dofetilida, disopiramida, flecainida,
+propafenona ou sotalol (Fuster, Rydén et al., 2011). Clientes com características específicas que foram observados
+no hospital podem receber um medicamento para autoadministração fora do hospital se apresentarem recidiva
+(Fuster, Rydén et al., 2011; Saborido, Hockenhull, Bagust et al., 2010). Diversas abordagens são utilizadas para
+prevenir a ocorrência da fibrilação atrial pós­operatória; a administração pré­operatória de um betabloqueador ou
+amiodarona é a de mais sucesso (Fuster, Rydén et al., 2011). A implantação de marca­passo, ablação por cateter ou
+ablação cirúrgica, também denominada procedimento de labirinto (ver discussão posterior), que requer que o cliente
+seja colocado em bypass cardiopulmonar, podem ser indicadas para clientes que não respondem aos medicamentos.
+Embora desfibriladores atriais implantáveis tenham sido estudados, a energia média necessária para a cardioversão
+é de 3 J, o que causa desconforto significativo e inaceitável para o cliente (Fuster, Rydén et al., 2011).
+A terapia antitrombótica é indicada para todos os clientes com fibrilação atrial, especialmente aqueles em risco
+de evento embólico, tal como acidente vascular encefálico, e é a única terapia que diminui a mortalidade
+cardiovascular (Cramm et al., 2010). Esse tipo de terapia deveria ter por base primariamente os riscos de acidente
+vascular encefálico (Lip, Nieuwlaat, Pisters et al., 2010) em vez do risco de sangramento (Lip, Frison, Halperin et
+al., 2011) em um cliente em particular (Fuster, Rydén et al., 2011). Clientes com fatores de risco significativos de
+acidente vascular encefálico (histórico de acidente vascular encefálico, crise isquêmica temporária ou evento
+embólico anterior, estenose de valva mitral, ou prótese de valva cardíaca) podem iniciar terapia com varfarina
+(Fuster, Rydén et al., 2011). Se o cliente não apresentar fatores de risco, ele pode receber o tratamento com 81 a
+325 mg de ácido acetilsalicílico (AAS) ao dia (Fuster, Rydén et al., 2011). Se o cliente apresentar um fator de risco
+moderado (hipertensão arterial, diabetes melito, 75 anos ou mais, ou uma fração de ejeção de 35% ou menos [ver
+Capítulo 25]), a terapia com ácido acetilsalicílico ou varfarina pode ser iniciada (Fuster, Rydén et al., 2011). Se o
+cliente apresentar mais de um fator de risco moderado, a terapia com varfarina pode ser iniciada (Fuster, Rydén et
+al., 2011). Outro estudo indicou que a terapia antitrombótica deve ser iniciada se o cliente apresentar um (se
+mulher) ou dois (se homem) fatores de risco a seguir: 64 a 74 anos de idade, ou histórico de hipertensão arterial,
+insuficiência cardíaca, diabetes melito ou doença vascular (p. ex., doença arterial periférica), IAM de parede
+anterior, ou uma placa aórtica (Lip et al., 2010).
+Se a anticoagulação imediata for necessária, o cliente pode receber heparina até que o nível de varfarina seja
+terapêutico, o que é normalmente definido como índice de normalização internacional (INR) entre 2 e 3. Se um
+cliente sofrer um acidente vascular encefálico isquêmico ou for de alto risco, a terapia antitrombótica pode ser
+aumentada, com meta de INR entre 3 e 3,5 (Fuster, Rydén et al., 2011). Se o cliente for submetido a um
+procedimento com risco de sangramento, a terapia anticoagulação pode ser suspensa por até 1 semana. Se for
+necessário mais de 1 semana, pode ser administrada heparina, embora a sua eficiência seja desconhecida. Estão
+disponíveis diversos anticoagulantes mais novos, como apixabana, rivaroxabana e dabigatrana. Entretanto, acreditase que não haja diferenças profundas entre esses fármacos em termos de eficácia (Lip, Larsen, Skjøth et al., 2012).
+Estudos recentes demonstraram que inibidores da enzima conversora da angiotensina (ECA) e bloqueadores de
+receptores de angiotensina (ARB) diminuem a incidência de fibrilação atrial, a quantidade de tentativas de
+desfibrilação necessárias para restaurar o ritmo sinusal e o número de re­hospitalizações (Fuster, Rydén et al.,
+2011). São necessários mais estudos para esclarecer o papel de inibidores da ECA e ARB na manutenção a longo
+prazo do ritmo sinusal. Além disso, inibidores da redutase da 3­hidroxi­3­metilglutaril coenzima A (HMG­CoA) ( i.
+e., estatinas) auxiliam na manutenção do ritmo sinusal em clientes com fibrilação atrial solitária persistente (Fuster,
+Rydén et al., 2011) (ver mais sobre estes fármacos no Capítulo 27).
+Arritmias juncionais
+Complexo juncional prematuro
+Um complexo juncional prematuro é um impulso que tem início na área nodal AV antes de o próximo impulso
+sinusal normal atingir o nó AV. Os complexos juncionais prematuros são menos comuns do que as extrassístoles
+atriais; as causas incluem intoxicação digitálica, insuficiência cardíaca e DAC. Os critérios de ECG em relação ao
+complexo juncional prematuro são os mesmos das extrassístoles atriais, com exceção da onda P e do intervalo PR.
+A onda P pode estar ausente, pode ocorrer após o complexo QRS ou pode ocorrer antes dele, mas com um intervalo
+PR inferior a 0,12 s. Esta arritmia raramente provoca sintomas significativos. O tratamento para os complexos
+juncionais prematuros frequentes é o mesmo das extrassístoles atriais frequentes.
+Ritmo juncional
+O ritmo juncional ou idionodal ocorre quando o nó AV, em vez do nó sinoatrial, se torna o marca­passo do coração.
+Quando o nó sinoatrial se torna mais lento (p. ex., em virtude de aumento do tônus vagal), ou quando o impulso
+não pode ser conduzido pelo nó AV (p. ex., em virtude de BAV completo), o nó AV automaticamente descarrega um
+impulso. O ritmo juncional não causado por BAV completo apresenta as características a seguir (Figura 26.12):
+Figura 26.12 Ritmo juncional na derivação II; observe os intervalos PR curtos.
+Frequência ventricular e atrial: frequência ventricular de 40 a 60 bpm; frequência atrial também de 40 a 60
+bpm, se ondas P forem discerníveis.
+Ritmo ventricular e atrial: regular.
+Formato e duração do complexo QRS: habitualmente normais, mas podem ser anormais.
+Onda P: pode estar ausente, após o complexo QRS, ou antes do QRS; pode ser invertida, especialmente na
+derivação II.
+Intervalo PR: se a onda P estiver à frente do QRS, o intervalo PR é inferior a 0,12 s.
+Razão P:QRS: 1:1 ou 0:1.
+Manejo clínico. O ritmo juncional pode produzir sinais e sintomas de redução do débito cardíaco. Se isso ocorrer,
+o tratamento é o mesmo da bradicardia sinusal. Pode ser necessária a regulação do ritmo de emergência.
+Taquicardia juncional não paroxística
+A taquicardia juncional é causada pela intensificação da automaticidade na área juncional, que resulta em um ritmo
+similar ao ritmo juncional, com exceção de uma frequência de 70 a 120 bpm. Embora este ritmo em geral não
+provoque efeitos hemodinâmicos prejudiciais, pode indicar uma condição de base séria, tal como intoxicação
+digitálica, isquemia do miocárdio, hipopotassemia ou doença pulmonar obstrutiva crônica (DPOC). Tendo em vista
+que a taquicardia juncional é causada pelo aumento da automaticidade, a cardioversão não é efetiva (Fuster, Walsh
+et al., 2011).
+Taquicardia por reentrada nodal atrioventricular
+A taquicardia por reentrada nodal atrioventricular (TRNAV) é uma arritmia comum que ocorre quando um impulso
+é conduzido até uma área no nó AV que faz com que o impulso seja redirecionado de volta à mesma área inúmeras
+vezes a uma velocidade muito rápida. Cada vez que o impulso é conduzido por esta área, também é conduzido para
+baixo e para os ventrículos, com consequente aumento da frequência ventricular. A TRNAV que apresenta início
+abrupto e cessação abrupta com um QRS de duração normal foi denominada taquicardia atrial paroxística. A
+TRNAV também ocorre quando a duração do complexo QRS é de 0,12 s ou mais, e sabidamente há bloqueio de
+ramo. Esta arritmia pode durar segundos ou muitas horas. Os fatores associados ao desenvolvimento de TRNAV
+incluem cafeína, nicotina, hipoxemia e estresse. As patologias de base incluem DAC e miocardiopatia; entretanto,
+ocorre com mais frequência em mulheres, e não em associação à cardiopatia estrutural de base. A TRNAV tem as
+seguintes características (Figura 26.13):
+Frequência ventricular e atrial: frequência atrial normalmente de 150 a 250 bpm; frequência ventricular
+normalmente de 120 a 200 bpm.
+Ritmo ventricular e atrial: regular; início e término súbitos da taquicardia.
+Formato e duração do complexo QRS: habitualmente normais, mas podem ser anormais.
+Onda P: normalmente de muito difícil discernimento.
+Intervalo PR: se a onda P estiver à frente do QRS, o intervalo PR é inferior a 0,12 s.
+Razão P:QRS: 1:1, 2:1.
+Os sinais/sintomas clínicos variam com a frequência e a duração da taquicardia e a condição de base do cliente.
+A taquicardia normalmente é de curta duração, resultando apenas em palpitações. Uma frequência rápida também
+pode reduzir o débito cardíaco, resultando em sinais e sintomas significativos, como inquietação, dor torácica,
+dispneia, palidez, hipotensão e perda da consciência.
+Manejo clínico. Tendo em vista que a TRNAV em geral é uma arritmia benigna, o objetivo do manejo clínico é
+aliviar os sintomas e melhorar a qualidade de vida. Os clientes que se tornam significativamente sintomáticos e
+precisam de visitas ao pronto­socorro para encerrar o ritmo podem desejar iniciar a terapia imediatamente.
+Entretanto, aqueles com sintomas mínimos com uma TRNAV que se encerra espontaneamente ou com tratamento
+mínimo podem optar por monitoramento apenas.
+O objetivo da terapia é romper a reentrada do impulso. A ablação por cateter é o tratamento preferencial inicial
+e é utilizada para eliminar a área que possibilita o redirecionamento do impulso que causa a taquicardia (Calkins et
+al., 2012). Manobras vagais, tais como massagem do seio carotídeo (Figura 26.14), reflexo do vômito, prender a
+respiração e imersão da face em água gelada, podem ser utilizadas para interromper a TRNAV. Essas técnicas
+aumentam a estimulação parassimpática, causando a diminuição da velocidade da condução pelo nó AV e o bloqueio
+da reentrada do impulso redirecionado. Alguns clientes aplicam alguns desses métodos para encerrar o episódio por
+si próprios. Em virtude do risco de um evento embólico cerebral, a massagem do seio carotídeo é contraindicada
+em clientes com sons carotídeos. Se as manobras vagais não forem bem­sucedidas, o cliente pode receber um bolus
+de adenosina para corrigir o ritmo; este é quase 100% efetivo no encerramento da TRNAV (Rothman, 2010). Tendo
+em vista que o efeito da adenosina é muito curto, a TRNAV pode recidivar; a primeira dose pode ser seguida por
+uma dose maior ou por um bloqueador de canais de cálcio, tal como verapamil, seguido por uma ou duas doses
+adicionais. A digoxina não é indicada em virtude do seu início lento. Se o cliente estiver instável ou não responder
+aos medicamentos, a cardioversão é o tratamento preferencial. O cliente instável pode receber adenosina enquanto
+estão sendo feitos os preparativos para a cardioversão. Para a TRNAV prolongada recidivante, o tratamento com
+bloqueadores de canais de cálcio, como verapamil e diltiazem, agentes antiarrítmicos de classe 1a, como
+procainamida e disopiramida, agentes antiarrítmicos de classe 1c, como flecainida e propafenona, e agentes de
+classe III, como sotalol e amiodarona, pode prevenir uma recidiva. Se o ritmo não for frequente e não houver
+distúrbio estrutural cardíaco de base, uma dose oral única de flecainida ou uma combinação de diltiazem e
+propranolol durante um episódio de taquicardia pode ser efetivo.
+Figura 26.13 Taquicardia de reentrada no nó AV na derivação II.
+Figura 26.14 Massagem do seio carotídeo.
+Se as ondas P não puderem ser identificadas, o ritmo pode ser denominado taquicardia supraventricular
+(TSV), ou taquicardia supraventricular paroxística (TSVP) se apresentar um início súbito, até que o ritmo
+subjacente e o diagnóstico resultante sejam determinados. A TSV e a TSVP indicam apenas que o ritmo não é de
+taquicardia ventricular (TV). A TSV pode ser fibrilação atrial, flutter atrial, ou TRNAV, entre outros. Manobras
+vagais e adenosina podem ser aplicadas para converter o ritmo ou, no mínimo, diminuir a velocidade da condução
+no nó AV para possibilitar a visualização das ondas P. Se o ECG não auxiliar na diferenciação da arritmia, estudos
+EF invasivos podem ser necessários para a obtenção do diagnóstico.
+Arritmias ventriculares
+Extrassístole ventricular
+Uma extrassístole ventricular é um impulso que tem início em um ventrículo e é conduzido pelos ventrículos antes
+do próximo impulso sinusal normal. As extrassístoles ventriculares podem ocorrer em pessoas hígidas,
+especialmente por causa de ingestão de cafeína, nicotina ou álcool etílico. As extrassístoles ventriculares podem ser
+causadas por isquemia ou infarto do miocárdio, aumento do esforço sobre o coração (p. ex., insuficiência cardíaca e
+taquicardia), intoxicação digitálica, hipoxia, acidose ou desequilíbrios eletrolíticos, especialmente hipopotassemia.
+Em um ritmo denominado bigeminismo, um em cada dois complexos é uma extrassístole ventricular. No
+trigeminismo, cada terceiro complexo é uma extrassístole ventricular, e no quadrigeminismo, cada quarto complexo
+é uma extrassístole ventricular. As extrassístoles ventriculares têm as sequintes características (Figura 26.15):
+Frequência ventricular e atrial: depende do ritmo subjacente (p. ex., ritmo sinusal).
+Ritmo ventricular e atrial: irregular em virtude de complexo QRS prematuro, que cria um intervalo RR mais
+curto que os demais. O intervalo PP pode ser regular, indicando que a extrassístole ventricular não
+despolarizou o nó sinoatrial.
+Formato e duração do complexo QRS: a duração é de 0,12 s ou mais; o formato é bizarro e anormal.
+Onda P: a visibilidade da onda P depende da ocasião da extrassístole ventricular; pode estar ausente (escondida
+no complexo QRS ou na onda T) ou à frente do complexo QRS. Se a onda P ocorrer após o complexo
+QRS, o formato da onda P pode ser diferente.
+Intervalo PR: se a onda P estiver à frente do complexo QRS, o intervalo PR é inferior a 0,12 s.
+Razão P:QRS: 0:1, 1:1.
+O cliente pode não sentir nada, ou pode dizer que o coração “bateu mais rápido”. O efeito de uma extrassístole
+ventricular depende da sua ocasião no ciclo cardíaco e de quanto sangue se encontrava nos ventrículos quando eles
+contraíram. O manejo inicial visa à correção da causa.
+Manejo clínico. Habitualmente as extrassístoles ventriculares não são graves. As extrassístoles ventriculares
+frequentes e persistentes podem ser tratadas com amiodarona ou sotalol, mas habitualmente a farmacoterapia a
+longo prazo apenas para as extrassístoles ventriculares não é indicada. Em clientes com um IAM, estudos recentes
+observaram que as extrassístoles ventriculares não estão associadas à morte súbita cardíaca e não recomendam
+terapia mais agressiva (Patton, 2010). No passado, as extrassístoles ventriculares eram consideradas indicativas de
+maior risco de TV. Entretanto, não se observou que as extrassístoles ventriculares que (1) apresentam frequência
+superior a seis por minuto, (2) são multifocais ou polimórficas (apresentam formatos e ritmos diferentes), (3)
+ocorrem uma em seguida da outra (em pares) e (4) ocorrem na onda T (o período vulnerável da despolarização
+ventricular) sejam precursoras de TV em clientes sem cardiopatia estrutural (Cardiac Arrhythmia Suppression Trial
+Investigators, 1989; Patton, 2010). As extrassístoles ventriculares não são consideradas um alerta para TV.
+Taquicardia ventricular
+A TV é definida como três ou mais extrassístoles ventriculares uma em seguida da outra, que ocorrem em uma
+frequência superior a 100 bpm. As causas são semelhantes às das extrassístoles ventriculares. Clientes com IAM
+maiores e frações de ejeção mais baixas correm maior risco de TV letal (ver Capítulo 29). A TV é uma emergência,
+tendo em vista que o cliente comumente (embora não sempre) não é responsivo e está sem pulso. A TV apresenta
+as características a seguir (Figura 26.16):
+Figura 26.15 Extrassístoles ventriculares multifocais em quadrigeminismo na derivação V1
+. Observe o intervalo PP regular
+(onda P na extrassístole ventricular).
+Frequência ventricular e atrial: a frequência ventricular é de 100 a 200 bpm; a frequência atrial depende do
+ritmo subjacente (p. ex., ritmo sinusal).
+Ritmo ventricular e atrial: normalmente regular; o ritmo atrial também pode ser regular.
+Formato e duração do QRS: a duração é de 0,12 s ou mais; formato bizarro e anormal.
+Onda P: muito difícil de detectar, de modo que a frequência atrial e o ritmo pode ser indetermináveis.
+Intervalo PR: muito irregular, se as ondas P forem visualizadas.
+Razão P:QRS: difícil de determinar, mas se as ondas P forem aparentes, normalmente existem mais complexos
+QRS do que ondas P.
+A tolerância ou a ausência de tolerância do cliente a este ritmo rápido depende da frequência ventricular e da
+gravidade da disfunção ventricular. Entretanto, a estabilidade hemodinâmica não prevê o risco de morte (Pelligrini e
+Schneiman, 2010).
+Manejo clínico. Diversos fatores determinam o tratamento inicial, incluindo os seguintes: identificação do ritmo
+como monomórfico (que apresenta um formato do QRS e ritmo consistentes) ou polimórfico (que apresenta
+diversos formatos de complexo QRS e ritmos), determinação da existência de um intervalo QT prolongado antes do
+início da TV, quaisquer comorbidades e verificação da função cardíaca do cliente (normal ou diminuída). Se o
+cliente estiver estável, a continuação da avaliação, especialmente com a obtenção de um ECG de 12 derivações,
+pode ser a única medida necessária.
+Entretanto, o cliente pode necessitar de medicamentos antiarrítmicos, regulação do ritmo antitaquicardia ou
+cardioversão direta ou desfibrilação. A procainamida pode ser utilizada para a TV estável monomórfica em clientes
+que não apresentam IAM ou insuficiência cardíaca grave (Morrison et al., 2010). Amiodarona por via IV é o
+medicamento preferencial para um cliente com comprometimento da função cardíaca ou IAM. Sotalol também pode
+ser considerado para a TV monomórfica estável. Embora a lidocaína tenha sido o medicamento mais prescrito para
+a terapia imediata e a curto prazo, especialmente para clientes com comprometimento da função cardíaca, não é
+efetiva em curto ou longo prazo comprovadamente na parada cardíaca (Morrison et al., 2010).
+A cardioversão é o tratamento preferencial para a TV monofásica em um cliente sintomático. A desfibrilação é
+o tratamento de escolha para a TV sem pulso. Qualquer tipo de TV em um cliente inconsciente e sem pulso é
+tratado da mesma maneira que a fibrilação ventricular: a desfibrilação imediata é a medida preferencial. Na TV
+monitorada e testemunhada, quando um desfibrilador não se encontra imediatamente disponível, pode ser
+administrado um golpe precordial (um único golpe no esterno com o punho) (Sayre, Koster, Botha et al., 2010).
+Para o tratamento a longo prazo, os clientes com fração de ejeção inferior a 35% devem ser considerados
+candidatos a um desfibrilador cardioversor implantável (DCI) (ver a seguir). Aqueles com uma fração de ejeção
+superior a 35% podem ser tratados com amiodarona. Uma pequena porcentagem de clientes com TV apresenta
+corações estruturalmente normais e responde bem aos medicamentos e à ablação, e apresenta um excelente
+prognóstico (Fuster, Walsh et al., 2011). Se a frequência ventricular for superior a 200 bpm, deve­se suspeitar que
+existe uma via acessória. Se o ritmo ventricular for irregular, deve­se suspeitar de fibrilação atrial e esta deve ser
+tratada de modo adequado (Morrison et al., 2010).
+Torsades de pointes é uma TV polimórfica precedida por um intervalo QT prolongado, que pode ser congênita
+ou adquirida. As causas comuns incluem doença do sistema nervoso central; determinados medicamentos; ou níveis
+baixos de potássio, cálcio ou magnésio. O prolongamento congênito do QT é outra causa. Tendo em vista que este
+ritmo provavelmente faz com que o cliente piore e fique sem pulso, é necessário o tratamento imediato, que inclui a
+correção de qualquer desequilíbrio eletrolítico, tal como administração de magnésio IV. Pode ser utilizado
+isoproterenol IV, mas é contraindicado em caso de isquemia ou hipertensão arterial (Morrison et al., 2010).
+Betabloqueadores IV ou início de regulação do ritmo atrial ou ventricular com sobremarcha (ver a seguir) também
+podem ser utilizados para tratar esta arritmia (Morrison et al., 2010).
+Fibrilação ventricular
+A arritmia mais comum em clientes com parada cardíaca é a fibrilação ventricular, que é um ritmo ventricular
+rápido e desorganizado que causa movimentos não efetivos dos ventrículos. Nenhuma atividade atrial é observada
+ao ECG. A causa mais comum de fibrilação atrial é a doença da artéria coronária (DAC) e o IAM resultante. Outras
+causas incluem TV não tratada ou tratada sem sucesso, miocardiopatia, valvopatia cardíaca, diversos medicamentos
+pró­arrítmicos, anormalidades acidobásicas e eletrolíticas e choque elétrico. Outra causa é a síndrome de Brugada,
+na qual o cliente (com frequência de ascendência asiática) tem o coração estruturalmente normal, poucos ou nenhum
+fator de risco para DAC e história familiar de morte súbita cardíaca. A fibrilação ventricular tem as seguintes
+características (Figura 26.17):
+Figura 26.16 Taquicardia ventricular na derivação V1
+.
+Figura 26.17 Fibrilação ventricular na derivação II.
+Frequência ventricular: superior a 300 bpm.
+Ritmo ventricular: extremamente irregular, sem um padrão específico.
+Formato e duração do complexo QRS: ondas irregulares e ondulantes sem complexos QRS reconhecíveis.
+Manejo clínico. A fibrilação ventricular sempre é caracterizada pela ausência de batimento cardíaco audível, pulso
+palpável e respirações. Tendo em vista que não há atividade cardíaca coordenada, a parada cardíaca e a morte são
+iminentes se a arritmia não for corrigida. A desfibrilação inicial é crítica para a sobrevida, com a realização
+imediata de reanimação cardiopulmonar (RCP) por observador até que a desfibrilação esteja disponível. A chance
+de sobrevida diminui a cada minuto com o retardo da desfibrilação (Jacobs, Sunde, Deakin et al., 2010). Se houver
+atraso em uma resposta dos serviços de emergência, a RCP pode ser administrada enquanto há o preparo para a
+desfibrilação (Jacobs et al., 2010). Após a desfibrilação inicial, cinco ciclos adicionais de RCP (aproximadamente 2
+min de compressões torácicas contínuas no cliente intubado), iniciando com compressão torácica e alternando com
+uma verificação do ritmo e desfibrilação, são utilizados para converter a fibrilação ventricular em um ritmo elétrico
+que produza um pulso. A reanimação cardiocerebral para parada cardíaca com compressões torácicas contínuas,
+interrompida apenas por desfibrilações, e com menor ênfase no emprego de ventilação com pressão positiva,
+continua a ser explorada como melhor método para a melhora da sobrevida. A epinefrina deve ser administrada
+assim que possível após a primeira desfibrilação sem sucesso e em seguida a cada 3 a 5 minutos. Uma dose de
+vasopressina pode ser administrada em vez da epinefrina se a parada cardíaca persistir. Outros antiarrítmicos
+(amiodarona, lidocaína ou, possivelmente, magnésio) devem ser administrados assim que possível após a terceira
+desfibrilação.
+Para a fibrilação ventricular refratária, a amiodarona é o medicamento de escolha. Entretanto, após o cliente ser
+intubado, a RCP deve ser administrada continuadamente, não em ciclos. Além disso, fatores de base e de
+contribuição são identificados e eliminados durante todo o evento (Morrison et al., 2010).
+As atuais diretrizes de reanimação recomendam a indução de hipotermia leve em adultos comatosos que
+apresentam parada cardíaca. A hipotermia é definida como uma temperatura corporal central de 32°C a 34°C
+(Morrison et al., 2010). A indução deve ser iniciada assim que possível após a circulação ser restaurada,
+preferencialmente em 60 min, e mantida durante 12 a 24 h (Morrison et al., 2010). Normalmente é iniciada com a
+aplicação de bolsas de gelo na axila e na virilha, bem como com a administração IV de 30 mℓ/kg de soro fisiológico
+ou Ringer com lactato gelados até que uma máquina de resfriamento seja obtida.
+Os cuidados de enfermagem para um cliente com hipotermia (passiva ou induzida) exigem monitoramento em
+relação ao nível apropriado de resfriamento, sedação e paralisia neuromuscular para prevenir convulsões, mioclonia
+e tremor. A ocorrência de convulsões após a reanimação pode indicar lesão cerebral anóxica grave. A enfermeira
+também deve monitorar complicações da hipotermia, que incluem desequilíbrio eletrolítico (especialmente em
+virtude da diurese causada pela hipotermia), hipotensão, pneumonia, sepse, hiperglicemia, arritmias e coagulopatia,
+especialmente se a temperatura cair abaixo do objetivo pretendido. Em virtude destas inúmeras intervenções de
+enfermagem, os clientes recebem os cuidados em unidades de terapia intensiva.
+Ritmo idioventricular
+O ritmo idioventricular, também denominado ritmo de escape ventricular, ocorre quando o impulso tem início no
+sistema de condução abaixo do nó AV. Quando o nó sinoatrial não cria um impulso (p. ex., em virtude de aumento
+do tônus vagal), ou quando o impulso é criado, mas não pode ser conduzido pelo nó AV (p. ex., em virtude de BAV
+completo), as fibras de Purkinje descarregam automaticamente um impulso. Quando o ritmo idioventricular não é
+causado por BAV, ele tem as seguintes características (Figura 26.18):
+Figura 26.18 Ritmo idioventricular na derivação V1
+.
+Frequência ventricular: entre 20 e 40 bpm; se a frequência exceder 40 bpm, o ritmo é conhecido como ritmo
+idioventricular acelerado.
+Ritmo ventricular: regular.
+Formato e duração do complexo QRS: formato bizarro e anormal; a duração é de 0,12 s ou mais.
+Manejo clínico. O ritmo ventricular comumente faz com que o cliente perca a consciência e apresente outros sinais
+e sintomas de redução do débito cardíaco. Nos referidos casos, o tratamento é o mesmo da assístole e atividade
+elétrica sem pulso (AESP) se o cliente estiver em parada cardíaca, ou para bradicardia se o cliente não estiver em
+parada cardíaca. As intervenções incluem a identificação da causa de base; administração por via intravenosa de
+epinefrina, atropina e medicamentos vasopressores; e início da regulação de ritmo transcutânea de emergência. Em
+alguns casos, o ritmo idioventricular pode não causar sintomas de redução do débito cardíaco. Entretanto, é
+prescrito repouso no leito, de modo a não aumentar o esforço cardíaco.
+Assístole ventricular
+A assístole ventricular (Figura 26.19) é caracterizada pela ausência de complexos QRS em duas derivações
+diferentes, embora ondas P possam ocorrer durante um curto período. Não há batimento cardíaco, pulso palpável
+nem respiração. Sem tratamento imediato, a assístole ventricular é fatal.
+Manejo clínico. A assístole ventricular é tratada do mesmo modo que a AESP, concentrando­se na RCP de alta
+qualidade com interrupções mínimas e na identificação dos fatores de base e de contribuição. A chave para o
+sucesso do tratamento é uma avaliação rápida para identificar uma possível causa, que é conhecida como os H e T:
+hipoxia, hipovolemia, íon hidrogênio (desequilíbrio acidobásico), hipoglicemia ou hiperglicemia, hipopotassemia ou
+hiperpotassemia, hipertermia, traumatismo, toxinas, tamponamento (cardíaco), pneumotórax de tensão, ou trombo
+(coronariano ou pulmonar) (Morrison et al., 2010). Após o início da RCP, a intubação e o estabelecimento de
+acesso IV são as próximas medidas recomendadas, com nenhuma interrupção ou interrupções mínimas nas
+compressões torácicas. Após o acesso IV ser estabelecido, um bolus de epinefrina IV é administrado e repetido em
+intervalos de 3 a 5 min. Uma dose de vasopressina pode ser administrada para a primeira ou segunda dose de
+epinefrina. Em virtude do prognóstico desfavorável associado à assistolia, se o cliente não responder a estas
+medidas e outras direcionadas à correção das causas de base, os esforços de reanimação em geral são encerrados,
+exceto se houver circunstâncias especiais (p. ex., em caso de hipotermia, é necessário o transporte até um hospital).
+Anormalidades da condução
+Na avaliação da fita de ritmo, primeiramente é identificado o ritmo subjacente (p. ex., ritmo sinusal, arritmia
+sinusal). Em seguida, o intervalo PR é avaliado em relação à possibilidade de um BAV. O BAV ocorre quando a
+condução do impulso pela área nodal AV ou do feixe de His é diminuída ou interrompida. Esses bloqueios podem
+ser causados por medicamentos (p. ex., digitálicos, bloqueadores de canais de cálcio, betabloqueadores), doença de
+Lyme, isquemia e infarto agudo do miocárdio, distúrbios valvares, miocardiopatia, endocardite ou miocardite. Se o
+BAV for causado por aumento do tônus vagal (p. ex., treinamento atlético a longo prazo, sono, tosse, aspiração,
+pressão acima dos olhos ou sobre os grandes vasos, estimulação anal), é comumente acompanhado por bradicardia
+sinusal. O BAV pode ser temporário e se resolver por si próprio, ou pode ser permanente e exigir regulação do
+ritmo permanente.
+Os sinais clínicos e sintomas de BAV variam com a frequência ventricular resultante e a gravidade de
+quaisquer processos de doença de base. Enquanto o BAV de primeiro grau raramente causa qualquer efeito
+hemodinâmico, os outros bloqueios podem resultar em diminuição da frequência cardíaca, causando diminuição da
+perfusão para os órgãos vitais, tais como cérebro, coração, rins, pulmões e pele. Um cliente com BAV de terceiro
+grau causado por intoxicação digitálica pode estar estável; outro cliente com o mesmo ritmo causado por IAM pode
+estar instável. Os profissionais de saúde sempre devem ter em mente a necessidade de tratar o cliente, não o ritmo.
+O tratamento é fundamentado no efeito hemodinâmico do ritmo.
+Bloqueio atrioventricular de primeiro grau
+O BAV de primeiro grau ocorre quando todos os impulsos atriais são conduzidos pelo nó AV e daí para os
+ventrículos a uma frequência mais lenta do que a normal. Esse distúrbio de condução tem as seguintes
+características (Figura 26.20):
+Frequência ventricular e atrial: depende do ritmo subjacente.
+Ritmo ventricular e atrial: depende do ritmo subjacente.
+Formato e duração do QRS: habitualmente normais, mas podem ser anormais.
+Onda P: à frente do complexo QRS; demonstra ritmo sinusal e formato regular.
+Intervalo PR: superior a 0,20 s; a medição do intervalo PR é constante.
+Razão P:QRS: 1:1.
+Bloqueio atrioventricular de segundo grau, tipo I (Wenckebach)
+O BAV de segundo grau, tipo I, ocorre quando há um padrão de repetição, no qual toda uma série de impulsos
+atriais, com exceção de um, é conduzida pelo nó AV e para os ventrículos (p. ex., todos os quatro de cinco impulsos
+atriais são conduzidos). Cada impulso atrial demora um pouco mais de tempo para a condução do que o anterior, até
+que um impulso seja totalmente bloqueado. Tendo em vista que o nó AV não é despolarizado pelo impulso atrial
+bloqueado, o nó AV tem tempo para repolarizar totalmente, de modo que o próximo impulso atrial pode ser
+conduzido no menor tempo. O BAV de segundo grau, tipo I, tem as seguintes características (Figura 26.21):
+Figura 26.19 Assistolia. Sempre verifique duas derivações diferentes para confirmar o ritmo.
+Figura 26.20 Ritmo sinusal com BAV de primeiro grau na derivação II. Observe que o intervalo PR é constante, porém
+superior a 0,20 s.
+Frequência ventricular e atrial: Depende do ritmo subjacente, mas a frequência ventricular é mais lenta do que
+a frequência atrial.
+Ritmo ventricular e atrial: O intervalo PP é regular se o cliente apresenta ritmo sinusal normal subjacente; o
+intervalo RR caracteristicamente reflete um padrão de alteração. Com início no mais longo RR, o intervalo
+RR gradualmente encurta, até que haja outro intervalo RR longo.
+Formato e duração do complexo QRS: habitualmente normais, mas podem ser anormais.
+Onda P: à frente do complexo QRS; o formato depende do ritmo subjacente.
+Intervalo PR: o intervalo PR torna­se mais longo a cada complexo ECG subsequente, até que uma onda P não
+é seguida por um complexo QRS. As alterações no intervalo PR são repetidas entre cada complexo QRS
+“desaparecido”, criando um padrão nas medições do intervalo PR irregular.
+Razão P:QRS: 3:2, 4:3, 5:4, e assim por diante.
+Bloqueio atrioventricular de segundo grau, tipo II
+O BAVde segundo grau, tipo II, ocorre quando apenas alguns dos impulsos atriais são conduzidos pelo nó AV e
+para os ventrículos. O BAVde segundo grau, tipo II, tem as seguintes características (Figura 26.22):
+Frequência ventricular e atrial: depende do ritmo subjacente, mas a frequência ventricular é inferior à
+frequência atrial.
+Ritmo ventricular e atrial: o intervalo PP é regular se o cliente apresenta um ritmo sinusal normal subjacente.
+O intervalo RR normalmente é regular, mas pode ser irregular, dependendo da razão P:QRS.
+Formato e duração do complexo QRS: habitualmente anormais, mas podem ser normais.
+Onda P: à frente do complexo QRS; o formato depende do ritmo subjacente.
+Intervalo PR: o intervalo PR é constante para aquelas ondas P logo antes dos complexos QRS.
+Razão P:QRS: 2:1, 3:1, 4:1, 5:1, e assim por diante.
+Figura 26.21 Ritmo sinusal com bloqueio atrioventricular de segundo grau, tipo I, na derivação II. Observe as durações
+progressivamente mais longas do PR, até que haja uma onda P não conduzida, indicada pelo asterisco (*).
+Figura 26.22 Ritmo sinusal com bloqueio atrioventricular de segundo grau, tipo II, na derivação V1
+. Observe o intervalo PR
+constante e a presença de mais ondas P do que complexos QRS.
+Bloqueio atrioventricular de terceiro grau
+O BAV de terceiro grau ocorre quando nenhum impulso atrial é conduzido pelo nó AV e para os ventrículos. No
+BAVde terceiro grau, dois impulsos estimulam o coração: um estimula os ventrículos, representado pelo complexo
+QRS, e um estimula os átrios, representado pela onda P. As ondas P podem ser visualizadas, mas a atividade
+elétrica atrial não é conduzida para baixo e para os ventrículos para causar o complexo QRS, a atividade elétrica
+ventricular. A ocorrência de dois impulsos que estimulam o coração resulta em uma condição denominada
+dissociação AV, que também pode ocorrer durante a TV. O BAV completo (BAV de terceiro grau) tem as seguintes
+características (Figura 26.23):
+Frequência ventricular e atrial: depende do ritmo de escape (idionodal ou idioventricular) e do ritmo atrial
+subjacente, mas a frequência ventricular é inferior à frequência atrial.
+Ritmo ventricular e atrial: o intervalo PP é regular e o intervalo RR é regular, mas o intervalo PP não é igual
+ao intervalo RR.
+Formato e duração do complexo QRS: dependem do ritmo de escape; com o ritmo juncional, o formato e a
+duração do complexo QRS habitualmente são normais; com o ritmo idioventricular, o formato e a duração
+do complexo QRS habitualmente são anormais.
+Onda P: depende do ritmo subjacente.
+Intervalo PR: muito irregular.
+Razão P:QRS: Mais ondas P do que complexos QRS.
+Manejo clínico das anormalidades de condução
+Com base na causa do BAV e na estabilidade do cliente, o tratamento é direcionado para o aumento da frequência
+cardíaca para manter um débito cardíaco normal. Se o cliente estiver estável e não apresentar sintomas, nenhum
+tratamento é indicado, ou pode consistir simplesmente na diminuição ou eliminação da causa (p. ex., suspensão de
+medicamento ou tratamento). Se o medicamento causal for necessário para o tratamento de outras condições e não
+houver alternativa efetiva, pode ser indicada a implantação de marca­passo. O tratamento inicial de escolha é um
+bolus IV de atropina, embora ela não seja efetiva no BAV de segundo grau, tipo II, ou no BAV de terceiro grau. Se
+o cliente não responder à atropina, apresentar BAV avançado, ou tiver sofrido IAM, pode ser iniciada a regulação
+do ritmo transcutânea temporária. Se o cliente não apresentar pulso, o tratamento é o mesmo da assistolia
+ventricular. Um marca­passo permanente pode ser necessário, se o bloqueio persistir.
+PROCESSO DEENFERMAGEM
+•
+•
+•
+Clientecom arritmia
+Avaliação
+As principais áreas de avaliação incluem as possíveis causas da arritmia, fatores de contribuição e o efeito da
+arritmia sobre a capacidade do coração de bombear um volume sanguíneo adequado. Quando o débito cardíaco é
+reduzido, a quantidade de oxigênio que alcança os tecidos e os órgãos vitais é diminuída. Esta diminuição da
+oxigenação provoca os sinais e sintomas associados às arritmias. Se esses sinais e sintomas forem graves, ou se
+ocorrerem com frequência, o cliente pode apresentar angústia significativa e interromper as atividades da vida
+diária.
+Figura 26.23 Ritmo sinusal com bloqueio atrioventricular de terceiro grau e ritmo idioventricular na derivação V1
+.
+Observe os intervalos PR irregulares.
+Um histórico de saúde é obtido para identificar ocorrências anteriores de diminuição do débito cardíaco, tais
+como síncope (desmaio), vertigem, tontura, desconforto torácico e palpitações. As possíveis causas da arritmia
+(p. ex., cardiopatia, doença pulmonar obstrutiva crônica) precisam ser identificadas. Todos os medicamentos,
+prescritos e sem prescrição médica (incluindo fitoterápicos e suplementos nutricionais), bem como a via de
+administração, são revisados. Se um cliente estiver recebendo um medicamento antiarrítmico, é necessária a
+avaliação em relação a aderência ao tratamento, efeitos colaterais, reações adversas e possíveis contraindicações.
+Por exemplo, alguns medicamentos (p. ex., digoxina) podem causar arritmias. Os resultados laboratoriais são
+revisados para avaliar os níveis de medicamentos, bem como os fatores que poderiam contribuir para a arritmia
+(p. ex., anemia). É realizada uma avaliação psicossocial completa para identificar os possíveis efeitos da
+arritmia, a percepção do cliente e a compreensão da arritmia e seu tratamento, e se a ansiedade é um fator de
+contribuição significativo.
+A enfermeira conduz uma avaliação física para confirmar os dados obtidos a partir do histórico e para
+observar em relação a sinais de diminuição do débito cardíaco durante o evento arrítmico, em especial alterações
+do nível de consciência. A enfermeira avalia a pele do cliente, que pode estar pálida e fria. Sinais de retenção de
+líquido, tais como distensão venosa no pescoço e estertores crepitantes e ruídos adventícios auscultados nos
+pulmões, podem ser detectados. A frequência e o ritmo dos pulsos apical e periférico também são avaliados, e
+qualquer déficit de pulso é observado. A enfermeira ausculta em relação a sons cardíacos adicionais
+(especialmente B3 e B4) e em relação a sopros cardíacos, afere a pressão arterial e determina as pressões
+diferenciais. Uma pressão diferencial em declínio indica redução do débito cardíaco. Uma avaliação pode não
+revelar alterações significativas no débito cardíaco; portanto, a enfermeira compara diversos achados de
+avaliação ao longo do tempo, especialmente aqueles que ocorrem com e sem a arritmia.
+Diagnóstico
+Diagnósticos de enfermagem
+Com base nos dados de avaliação, os principais diagnósticos de enfermagem podem incluir:
+Débito cardíaco diminuído
+Ansiedade relacionada com o medo do desconhecido
+Conhecimento deficiente a respeito da arritmia e do seu tratamento.
+•
+•
+•
+Problemas colaborativos/complicações potenciais
+As complicações potenciais podem incluir as seguintes:
+Parada cardíaca (ver Capítulo 29)
+Insuficiência cardíaca (ver Capítulo 29)
+Evento tromboembólico, especialmente com fibrilação atrial (ver Capítulo 29).
+Planejamento e metas
+As principais metas para o cliente podem incluir a eliminação ou a diminuição da ocorrência da arritmia (pela
+diminuição dos fatores de contribuição) para manter o débito cardíaco; minimização da ansiedade; obtenção de
+conhecimento a respeito da arritmia, dos testes utilizados para diagnosticar o problema, e seu tratamento; e
+desenvolvimento ou manutenção das habilidades de automanejo.
+Intervenções de enfermagem
+Monitoramento e manejo da arritmia
+A enfermeira avalia continuamente a pressão arterial, a frequência e o ritmo do pulso, a frequência e a
+profundidade das respirações, e os sons respiratórios do cliente, para determinar o efeito hemodinâmico da
+arritmia. A enfermeira também indaga o cliente a respeito de episódios de vertigem, tontura ou desmaio como
+parte da avaliação contínua. Se um cliente com uma arritmia estiver hospitalizado, a enfermeira pode obter um
+ECG de 12 derivações, monitorar continuadamente o cliente e analisar as fitas de ritmo para rastrear a arritmia.
+O controle da ocorrência ou do efeito da arritmia, ou de ambos, geralmente é alcançado com medicamentos
+antiarrítmicos. A enfermeira avalia os benefícios e os efeitos adversos de cada medicamento. Em cooperação
+com o profissional principal, ela também cuidadosamente administra o medicamento, de modo que é mantido um
+nível sérico constante do medicamento. A enfermeira também pode conduzir um teste de caminhada de 6 min,
+conforme prescrito, que é utilizado para identificar a frequência ventricular do cliente em resposta aos exercícios
+físicos. Solicita­se ao cliente que caminhe por 6 min, percorrendo o máximo de distância possível. A enfermeira
+monitora o cliente em relação aos sintomas. Ao final, registra a distância percorrida e a frequência cardíaca pré e
+pós­exercícios físicos, bem como a resposta do cliente.
+A enfermeira avalia os fatores que contribuem para a arritmia (p. ex., déficits de oxigênio, desequilíbrios
+acidobásicos e eletrolíticos, cafeína, ou não aderência ao esquema do medicamento). A enfermeira também
+monitora as alterações ao ECG (p. ex., alargamento do complexo QRS, prolongamento do intervalo QT, aumento
+da frequência cardíaca) que aumentam o risco de evento arrítmico.
+Minimização da ansiedade
+Quando o cliente apresenta episódios de arritmia, a enfermeira permanece com ele, garantindo a sua segurança e
+seguridade enquanto mantém uma atitude calma e tranquilizadora. Isso ajuda a reduzir a ansiedade (diminuindo a
+resposta simpática) e promove uma relação de confiança com o cliente. A enfermeira verifica a visão do cliente
+sobre os eventos e discute a resposta emocional à arritmia, encorajando a verbalização de sentimentos e temores,
+fornecendo declarações de apoio ou empatia e auxiliando o cliente a reconhecer sentimentos de ansiedade, raiva
+ou tristeza. A enfermeira enfatiza os sucessos com o cliente, para promover um senso de automanejo da arritmia.
+Por exemplo, se um cliente está apresentando episódios de arritmia e é administrado um medicamento que
+começa a reduzir a incidência da arritmia, a enfermeira comunica aquelas informações ao cliente e estuda a sua
+resposta e elas. Além disso, a enfermeira pode auxiliar o cliente a desenvolver um sistema para identificar
+possíveis fatores causais, de influência e de alívio (p. ex., manter um diário). O objetivo de enfermagem é
+maximizar o controle do cliente e tornar o episódio menos ameaçador.
+Promoção dos cuidados domiciliar e comunitário
+Orientação do cliente sobre autocuidados. Ao orientar os clientes a respeito das arritmias, a enfermeira
+primeiramente avalia a compreensão do cliente, esclarece as informações errôneas, e em seguida compartilha as
+informações necessárias de modo que sejam compreensíveis e que não sejam assustadoras ou ameaçadoras. A
+enfermeira explica claramente as opções de tratamento ao cliente e à família. Se necessário, a enfermeira explica
+a importância da manutenção dos níveis séricos terapêuticos dos medicamentos antiarrítmicos, de modo que o
+cliente compreenda por que os medicamentos devem ser administrados regularmente todos os dias e a
+1.
+a.
+b.
+2.
+a.
+b.
+3.
+a.
+b.
+c.
+d.
+e.
+importância dos testes séricos regulares. Se o medicamento apresentar o potencial de alterar a frequência
+cardíaca, o cliente deve ser orientado sobre como aferir seu pulso antes de cada dose e a notificar o profissional
+principal se o pulso estiver anormal. Além disso, a relação entre uma arritmia e o débito cardíaco é explicada de
+modo que o cliente reconheça os sintomas da arritmia e a justificativa para o esquema terapêutico. O cliente e a
+família precisam saber quais medidas devem ser adotadas para diminuir o risco de recidiva da arritmia. Se o
+cliente apresentar arritmia possivelmente letal, a enfermeira estabelece com o cliente e a família um plano de
+medidas a serem adotadas em caso de emergência e, se apropriado, estimula o familiar a obter treinamento em
+RCP.
+O cliente e a família também devem ser orientados quanto aos possíveis riscos da arritmia e seus sinais e
+sintomas. Por exemplo, ao cliente com fibrilação atrial crônica deve ser explicada a possibilidade de evento
+embólico.
+Cuidados contínuos. O encaminhamento para cuidados domiciliares normalmente não é necessário para o
+cliente com arritmia, exceto se o cliente estiver hemodinamicamente instável e apresentar sintomas significativos
+de diminuição do débito cardíaco. Podem ser recomendados cuidados domiciliares se o cliente apresentar
+comorbidades significativas, questões socioeconômicas, ou habilidades de automanejo limitadas que possam
+aumentar o risco de não adesão ao esquema terapêutico. O encaminhamento a cuidados domiciliares também
+pode ser indicado se o cliente tiver sido submetido à implantação de um dispositivo eletrônico recentemente.
+Reavaliação
+Entre os resultados esperados estão:
+O cliente mantém o débito cardíaco.
+Demonstra frequência cardíaca, pressão arterial, frequência respiratória e nível de consciência nas
+variações normais.
+Demonstra ausência ou diminuição dos episódios de arritmia.
+O cliente apresenta redução da ansiedade.
+Expressa uma atitude positiva a respeito da vida com a arritmia.
+Expressa confiança na capacidade de adotar as medidas apropriadas em caso de emergência.
+O cliente expressa compreensão sobre a arritmia e seu tratamento.
+Explica a arritmia e seus efeitos.
+Descreve o esquema medicamentoso e a sua justificativa.
+Explica a necessidade de manter um nível sérico terapêutico do medicamento.
+Descreve um plano para eliminar ou limitar os fatores que contribuem para a arritmia.
+Declara as medidas a serem adotadas em caso de emergência.
+MODALIDADESEMANEJOS AUXILIARES
+Os tratamentos das arritmias dependem de o distúrbio ser agudo ou crônico, bem como da causa da arritmia e de
+seus reais ou possíveis efeitos hemodinâmicos.
+As arritmias agudas podem ser tratadas com medicamentos ou com terapia elétrica externa (desfibrilação de
+emergência, cardioversão ou regulação do ritmo). Muitos medicamentos antiarrítmicos são utilizados para tratar as
+taquiarritmias atriais e ventriculares (ver Tabela 26.1). A escolha do medicamento depende da arritmia específica e
+da sua duração, da presença de cardiopatia estrutural (p. ex., insuficiência cardíaca) e da resposta do cliente ao
+tratamento anterior. A enfermeira é responsável pelo monitoramento e pelo registro das respostas do cliente ao
+medicamento e por assegurar que o cliente tenha o conhecimento e a capacidade de lidar com o esquema
+medicamentoso.
+Se os medicamentos isoladamente forem ineficazes em eliminar ou diminuir a arritmia, determinadas terapias
+mecânicas auxiliares estão disponíveis. As terapias mais comuns são a cardioversão eletiva e a desfibrilação para
+taquiarritmia aguda, e dispositivos implantáveis (marca­passos para bradicardia e DCI para taquiarritmias
+crônicas). Também existem abordagens terapêuticas cirúrgicas, embora sejam menos usadas. A enfermeira é
+responsável pela avaliação da compreensão do cliente sobre a terapia mecânica e sua resposta, bem como das
+capacidades de automanejo do cliente. Também deve explicar que a finalidade do dispositivo é ajudar o cliente a
+continuar a sua vida o mais ativa e produtiva possível.
+Cardioversão e desfibrilação
+A cardioversão e a desfibrilação são empregadas para tratar taquiarritmias com a administração de uma corrente
+elétrica que despolariza massa crítica de células miocárdicas. Quando as células repolarizam, o nó SA normalmente
+é capaz de recapturar seu papel como o marca­passo do coração.
+Alerta de domínio do conceito
+Uma diferença importante entre a cardioversão e a des䌌㺃brilação é omomento da administração da corrente elétrica. Na cardioversão, a
+administração da corrente elétrica é sincronizada comos eventos elétricos do cliente; na des䌌㺃brilação, a administração da corrente é imediata, e
+não sincronizada.
+O mesmo tipo de dispositivo, denominado desfibrilador, é utilizado para a cardioversão e para a desfibrilação.
+A voltagem elétrica necessária para desfibrilar o coração normalmente é superior àquela necessária para a
+cardioversão e pode causar mais lesão miocárdica. Os desfibriladores são classificados como monofásicos ou
+bifásicos. Os desfibriladores monofásicos aplicam corrente em apenas uma direção e necessitam de aumento das
+cargas de energia. Os desfibriladores bifásicos mais novos aplicam a carga elétrica a partir de uma pá, que em
+seguida redireciona automaticamente a sua carga para a pá de origem. Este tipo de desfibrilador utiliza voltagem
+mais baixa e, portanto, há menos lesão miocárdica associada.
+A corrente elétrica pode ser aplicada externamente através da pele por meio de pás ou almofadas condutoras.
+As pás ou almofadas podem ser posicionadas à frente do tórax (Figura 26.24) (posicionamento padrão), ou uma
+pode ser posicionada à frente do tórax e a outra, com um adaptador de cabo logo, no caso de pás, posicionada sob
+as costas do cliente, logo à esquerda da coluna (posicionamento anteroposterior) (Figura 26.25). Se um
+desfibrilador monofásico for utilizado para a cardioversão da fibrilação atrial, serão preferidas as pás manuais
+(Jacobs et al., 2010).
+Figura 26.24 Posicionamento padrão das pás para a desfibrilação.
+Figura 26.25 Posicionamento anteroposterior das pás para a desfibrilação.
+As almofadas condutoras multifuncionais de desfibrilador (Figura 26.26) contêm um meio condutor e são
+conectadas ao desfibrilador para possibilitar a desfibrilação sem o uso das mãos. Esse método reduz o risco de
+tocar o cliente durante o procedimento e aumenta a segurança elétrica. Os desfibriladores externos automáticos
+(DEA), que agora são encontrados em muitas áreas públicas, aplicam este tipo de administração para a corrente
+elétrica.
+Alerta deenfermagem| Qualidadeesegurança
+Quando se utilizampás, o condutor apropriado é aplicado entre as pás e a pele do cliente. Qualquer outro tipo de condutor, talcomo gel de
+ultrassom, não deve sersubstituído.
+Independente de empregar almofadas ou pás, a enfermeira deve observar duas medidas de segurança.
+Primeiramente, deve ser mantido o bom contato entre as almofadas ou as pás e a pele do cliente (com um meio
+condutor entre elas) para evitar que a corrente elétrica extravase através do ar (formação de arco elétrico) quando o
+desfibrilador é descarregado. Em segundo lugar, ninguém deve estar em contato com o cliente ou com qualquer
+coisa que esteja tocando o cliente quando o desfibrilador é descarregado, para minimizar a chance de que a corrente
+elétrica seja conduzida até outra pessoa além do cliente (O Boxe 26.5 apresenta uma revisão das responsabilidades
+de enfermagem quando um cliente é cardiovertido ou desfibrilado).
+Figura 26.26 Almofadas multifunções para a desfibrilação.
+Boxe
+26.5
+Assistência coma des䌌㺃brilação ou cardioversão externa
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Duranteoauxíliocom ades䌌㺃brilaçãooucardioversãoexterna,aenfermeiradeverelembrarestespontosprincipais:
+Sãoutilizadasalmofadasoupás condutoras multifuncionais, com um meiodeconduçãoentreaspáseapele(o meiodeconduçãoestádisponível naformade
+folha,geloupasta). Géisoupastas com mácondutividadeelétrica(p.ex.,geldeultrassom) nãodevem serutilizados
+Aspásoualmofadasdevem serposicionadasde modoque nãotoquem nas roupasdoclienteou naroupadecama,e nãoestejam pertodeadesivos (patches)
+medicamentososou no 䌑懑uxodeoxigêniodireto
+Mulheres com mamasgrandesdevem teraalmofadaoupáesquerdaposicionadasoba mamaesquerdaoulateralmenteaela
+Duranteacardioversão,asderivaçõesdo monitordevem estaranexadasaocliente,eodes䌌㺃briladorécon䌌㺃guradoparao modosincronizado(insync).Seestiver
+des䌌㺃brilando,odes䌌㺃brilador nãodeveestar no modosincronizado(a maioriadas máquinasépredeterminadaparao modonot-sync [nãosincronizado])
+Em casodousodepás,devem seraplicados9a11kgdepressãocom a 䌌㺃nalidadedeassegurarobom contatocom apele
+Em casodedispositivodedescarga manual,ele nãodeveser carregadoatéqueestejaprontoparaochoque;em seguida,ospolegareseosdedosdevem ser
+mantidos foradosbotõesdedescargaatéqueaspásouasalmofadasestejam sobreotóraxeprontasparaadministraracargaelétrica
+A indicação“Afastar!”deveser repetidatrêsvezesantesdaaplicaçãodochoqueelétrico: Quando“Afastar”éindicadopelaprimeiravez,opro䌌㺃ssionaldeve
+veri䌌㺃carvisualmenteque nãoestátocandoocliente,acamaouoequipamento; nasegundavez,eledeveveri䌌㺃carvisualmenteque ninguém estátocandoa
+cama,oclienteouoequipamento, incluindootuboendotraquealouauxiliares;equandoseindica“Afastar”pelaterceiravez,opro䌌㺃ssionaldeveassegurar-se
+dequetodasaspessoasestejam afastadasdoclienteeque nadaoestejatocando
+A energiaadministradaeoritmoresultantesãoregistrados
+A reanimaçãocardiopulmonar (RCP)éretomadaimediatamenteapósaadministraçãodacargadedes䌌㺃brilação, seapropriado, iniciandocom as compressões
+torácicas
+Sefor recomendadaa RCP,após cincociclos (aproximadamente2 min)de RCP,oritmocardíacoé novamenteveri䌌㺃cadoeoutrochoqueéadministrado, se
+indicado. Um medicamentovasoativoouantiarrítmicoéadministradoassim quepossívelapósaveri䌌㺃caçãodoritmo
+Apósaconclusãodoevento,apelesobasalmofadasouaspáséinspecionadaquantoaqueimaduras; sequalquerqueimadurafordetectada,opro䌌㺃ssional
+principal,ouumaenfermeiradecuidadosdeferidas,éconsultadoarespeitodotratamentoapropriado.
+Adaptado de Jacobs I, Sunde K, Deakin CD et al. Part 6: Defibrillation: 2010 International Consensus on Cardiopulmonary
+Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations. Circulation, 2010;
+122(Suppl. 2), S325­S337; e Morrison LJ, Deakin CD, Morley PT et al. Part 8: Advanced life support: 2010 International
+Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment
+Recommendations. Circulation, 2010; 122(Suppl. 2), S345­S421.
+Cardioversão elétrica
+A cardioversão elétrica envolve a administração de uma corrente elétrica “programada” para encerrar uma
+taquiarritmia. Na cardioversão, o desfibrilador é configurado para a sincronia com o ECG em um monitor cardíaco,
+de modo que o impulso elétrico ocorra durante a despolarização ventricular (complexo QRS). A sincronização evita
+que a descarga elétrica ocorra durante o período vulnerável da despolarização (onda T), o que poderia resultar em
+TV ou fibrilação ventricular. O monitor de ECG conectado ao desfibrilador externo normalmente demonstra uma
+marca ou uma linha que indica a sensibilização de um complexo QRS. Às vezes a derivação e os eletrodos devem
+ser alterados para que o monitor reconheça o complexo QRS do cliente. Quando o sincronizador está ligado,
+nenhuma corrente elétrica é administrada se o desfibrilador não discernir um complexo QRS. Portanto, é importante
+assegurar que o cliente está conectado ao monitor e selecionar uma derivação (não “pás”) que apresente a
+sensibilidade mais apropriada do complexo QRS. Tendo em vista que pode haver um breve atraso até o
+reconhecimento do complexo QRS, os botões de descarga de um desfibrilador manual externo devem ser apertados
+até que o choque tenha sido administrado. Na maioria dos monitores, o modo de sincronização deve ser reativado se
+a cardioversão inicial não for efetiva e outra cardioversão for necessária (i. e., o dispositivo é predeterminado para
+um modo de desfibrilação não sincronizado).
+Se a cardioversão for eletiva e a arritmia houver perdurado por mais de 48 h, pode ser indicada anticoagulação
+por algumas semanas antes da cardioversão. A digoxina normalmente é suspensa por 48 h antes da cardioversão
+para assegurar a retomada do ritmo sinusal com a condução normal. O cliente é instruído a não comer ou beber por
+no mínimo 4 h antes do procedimento. As pás recobertas por gel ou as almofadas condutoras são posicionadas à
+frente e nas costas (anteroposteriormente) para a cardioversão. Antes da cardioversão, o cliente recebe sedação IV
+moderada, bem como um medicamento analgésico ou anestesia. A respiração então é suportada com suplementação
+de oxigênio, administrada por meio de um dispositivo de máscara com bolsa e válvula com equipamento de
+aspiração prontamente disponível. Embora os clientes raramente necessitem de intubação, o equipamento deve estar
+próximo, caso seja necessário. A voltagem utilizada varia de 50 a 360 joules, dependendo da tecnologia do
+desfibrilador, do tipo e duração da arritmia, e do tamanho e estado hemodinâmico do cliente. Se ocorrer fibrilação
+ventricular após a cardioversão, o desfibrilador é utilizado para desfibrilar o cliente (o modo de sincronização não é
+utilizado) (Link, Atkins, Passman et al., 2010).
+As indicações de uma resposta de sucesso são a conversão em ritmo sinusal, pulsos periféricos adequados e
+pressão arterial adequada. Em virtude da sedação, as vias respiratórias devem ser mantidas desobstruídas e o estado
+de consciência do cliente deve ser avaliado. Os sinais vitais e a saturação de oxigênio são monitorados e registrados
+até que o cliente esteja estável e tenha se recuperado da sedação e dos medicamentos analgésicos ou da anestesia. O
+monitoramento ECG é necessário durante e após a cardioversão (Link et al., 2010).
+Desfibrilação
+A desfibrilação é utilizada em situações de emergência como o tratamento de escolha para a fibrilação ventricular e
+a TV sem pulso, a causa mais comum de perda abrupta da função cardíaca e morte súbita cardíaca. A desfibrilação
+não é utilizada para clientes que estão conscientes ou que apresentam pulso. A configuração de energia para os
+choques iniciais e subsequentes com a utilização de um desfibrilador monofásico deve ser configurada em 360
+joules (Jacobs et al., 2010). A configuração de energia para o choque inicial com a utilização de um desfibrilador
+bifásico pode ser feita em 150 a 200 joules, com a mesma dose ou uma dose crescente com os choques
+subsequentes (Jacobs et al., 2010). Quanto mais cedo a desfibrilação for aplicada, melhor será a taxa de
+sobrevivência; se isso for feito em 1 min do início da TV ou da fibrilação ventricular, a taxa de sobrevivência será
+de 90%; se ela for adiada por 12 min, a taxa de sobrevida será de apenas 2 a 5%. Diversos estudos demonstraram
+que a desfibrilação inicial realizada por pessoas leigas em um ambiente comunitário pode aumentar a taxa de
+sobrevivência. Se for fornecida RCP imediata e a desfibrilação for realizada em 5 min, mais adultos em fibrilação
+ventricular podem sobreviver com função neurológica intacta (Jacobs et al., 2010). A disponibilidade e a utilização
+de desfibrilador externo automático em locais públicos encurtam o intervalo desde o colapso até o reconhecimento
+do ritmo e da desfibrilação, o que pode aumentar significativamente a sobrevivência (Jacobs et al., 2010).
+Epinefrina ou vasopressina é administrada após a desfibrilação para facilitar a conversão da arritmia em um
+ritmo normal com a próxima desfibrilação. Esses medicamentos também podem aumentar o fluxo sanguíneo
+arterial cerebral e coronariano. Medicamentos antiarrítmicos, tais como amiodarona, lidocaína ou magnésio, podem
+ser administrados se a arritmia ventricular persistir (ver Tabela 26.1). Esse tratamento com RCP contínua,
+administração de medicamentos e desfibrilação continua até a retomada de um ritmo estável ou até que seja
+determinado que o cliente não pode ser ressuscitado.
+Terapia com marca­passo
+Um marca­passo é um dispositivo eletrônico que fornece estímulos elétricos para o músculo cardíaco. Os marcapassos normalmente são utilizados quando o cliente tem formação permanente ou temporária de impulsos mais
+lenta do que o normal, ou um distúrbio de condução AV ou ventricular sintomático. Também podem ser utilizados
+para controlar algumas taquiarritmias que não respondem aos medicamentos. A regulação do ritmo biventricular (de
+ambos os ventrículos), também denominada terapia de ressincronização, pode ser empregada para tratar a
+insuficiência cardíaca avançada que não responde aos medicamentos. A tecnologia de marca­passo também pode ser
+aplicada em um DCI (p. ex., em clientes com doença da artéria coronária e redução da fração de ejeção). (Ver mais
+sobre a insuficiência cardíaca no Capítulo 29.)
+Os marca­passos podem ser permanentes ou temporários. Os marca­passos temporários são utilizados para
+amparar os clientes até que eles melhorem ou recebam um marca­passo permanente (p. ex., após IAM ou durante
+cirurgia cardíaca a céu aberto). Os marca­passos temporários são utilizados apenas em ambientes hospitalares.
+
+Desenho e tipos de marca­passo
+Os marca­passos são compostos por dois componentes: o gerador de pulsos eletrônicos e eletrodos de marca­passo,
+que estão localizados em cabos ou fios. O gerador contém o circuito e baterias que determinam a frequência
+(medida em batimentos por minuto) e a potência ou saída (medida em miliamperes [mA]) do estímulo elétrico
+administrado para o coração. O gerador também apresenta circuitos que podem detectar a atividade elétrica
+intracardíaca, para ocasionar uma resposta apropriada; este componente da regulação do ritmo é denominado
+sensibilidade e é medido em milivolts (mV). A sensibilidade é configurada no nível que a atividade elétrica
+intracardíaca deve exceder para ser detectada pelo dispositivo. Os cabos, que transportam o impulso criado pelo
+gerador até o coração, podem ser inseridos por fluoroscopia através de uma grande veia dentro do coração,
+normalmente no átrio e no ventrículo direito (cabos endocárdicos), ou podem ser levemente suturados por fora do
+coração e exteriorizados através da parede torácica durante a cirurgia de coração aberto (fios epicárdicos). Os fios
+epicárdicos são sempre temporários e são removidos com um puxão cuidadoso alguns dias após a cirurgia. Os
+cabos endocárdicos podem ser inseridos temporariamente com cateteres através de uma veia (normalmente a veia
+femoral, subclávia, ou jugular interna [fios transvenosos]), normalmente guiados por fluoroscopia. Os cabos
+também podem fazer parte de um cateter de artéria pulmonar especializado (ver Capítulo 29). Entretanto, a obtenção
+de pressão de oclusão da artéria pulmonar pode causar o deslocamento dos cabos da posição de regulação do ritmo.
+Os fios endocárdicos e epicárdicos são conectados a um gerador temporário, que é aproximadamente do tamanho de
+um livro em brochura. A fonte de energia para um gerador temporário é uma bateria domiciliar comum. O
+monitoramento do funcionamento do marca­passo e da bateria é uma responsabilidade de enfermagem.
+Os cabos endocárdicos também podem ser posicionados permanentemente, inseridos dentro do coração através
+da veia subclávia, axilar, ou cefálica, e conectados a um gerador permanente. A maioria dos cabos atuais apresenta
+um mecanismo de fixação (p. ex., um parafuso) na ponta do cabo, que possibilita o posicionamento preciso e evita
+o deslocamento. O gerador permanente, que geralmente pesa menos de 28 g e é do tamanho de uma caixa de
+fósforos grande, normalmente é implantado em uma bolsa subcutânea criada na região peitoral, abaixo da clavícula,
+ou atrás da mama, especialmente em mulheres jovens (Figura 26.27). Esse procedimento normalmente dura cerca
+de 1 h e é realizado em um laboratório de cateterização cardíaca com um anestésico local e sedação moderada. O
+cuidadoso monitoramento do estado respiratório é necessário até que o cliente esteja totalmente desperto.
+Os geradores de marca­passos permanentes são isolados para proteção contra a umidade corporal e o calor e
+apresentam filtros que os protegem contra a interferência elétrica da maioria dos dispositivos domiciliares, motores
+e utensílios. Diversas fontes de energia diferentes para os geradores permanentes foram utilizadas e outras foram
+investigadas, mas unidades celulares de lítio atualmente são as mais frequentemente empregadas. Elas duram cerca
+de 6 a 12 anos, dependendo do tipo de marca­passo, como ele é programado e com que frequência é utilizado. A
+maioria dos marca­passos apresenta um indicador de substituição eletiva (ERI), que é um sinal que indica
+quando a bateria está se aproximando da depleção. O marca­passo continua a funcionar por diversos meses após o
+aparecimento de um ERI, para assegurar que haja tempo adequado para a substituição de uma bateria. Embora
+algumas baterias sejam recarregáveis, a maioria não é. Tendo em vista que a bateria é permanentemente selada no
+marca­passo, todo o gerador deve ser substituído. Para substituir um gerador com falha, os cabos são
+desconectados, o gerador antigo é removido, e um novo gerador é reconectado aos cabos existentes e reimplantado
+na bolsa subcutânea já existente. Às vezes, os cabos também são substituídos. A substituição da bateria
+normalmente é realizada com um anestésico local. É necessário hospitalização para a implantação ou a substituição
+da bateria; habitualmente o cliente pode receber alta no dia seguinte.
+Se um cliente repentinamente tiver bradicardia, estiver sintomático, mas apresentar pulso, e não responder à
+atropina, a regulação do ritmo de emergência pode ser iniciada com a regulação de ritmo transcutânea (atualmente a
+maioria dos desfibriladores apresenta equipamento para isso). Alguns desfibriladores externos automáticos
+conseguem realizar a desfibrilação e a regulação de ritmo transcutânea. Grandes eletrodos ECG de regulação do
+ritmo (às vezes as mesmas pás condutoras utilizadas para a cardioversão e a desfibrilação) são posicionados no
+tórax e nas costas do cliente. Os eletrodos são conectados ao desfibrilador, que é o gerador de marca­passo
+temporário (Figura 26.28). Tendo em vista que o impulso deve percorrer a pele e os tecidos do cliente antes de
+alcançar o coração, a regulação de ritmo transcutânea pode causar desconforto significativo (sensação de queimação
+e contração muscular involuntária) e deve ser feita apenas em emergências por curtos períodos de tempo. Para esse
+tipo de regulação do ritmo, é necessário hospitalização. Se o cliente estiver alerta, podem ser realizadas sedação e
+analgesia. Após a regulação de ritmo transcutânea, a pele sob o eletrodo deve ser inspecionada. Embora se deva
+esperar eritema, clientes em risco de lesão térmica são os idosos, clientes desidratados, ou que se submeteram a
+regulação do ritmo por um período mais longo (Fuster, Walsh et al., 2011). A regulação de ritmo transcutânea não
+é indicada para bradicardia sem pulso.
+Figura 26.27 Cabo de regulação do ritmo transvenoso implantado (com eletrodo) e gerador de marca­passo.
+Figura 26.28 Marca­passo transcutâneo com pás de eletrodo conectadas às paredes torácicas anterior e posterior.
+Funções do gerador de marca­passo
+•
+•
+•
+•
+•
+•
+Em virtude da sofisticação e da ampla utilização dos marca­passos, foi adotado um código universal para promover
+um meio de comunicação seguro a respeito da sua função. Trata­se do código NASPE­BPEG, assim chamado pois
+foi sancionado pela North American Society of Pacing and Electrophysiology (atualmente conhecida como Heart
+Rhythm Society) e pelo British Pacing and Electrophysiology Group. O código completo é composto por cinco
+letras e foi revisado em 2002 (Bernstein, Daubert, Fletcher et al., 2002). A quarta e a quinta letras são utilizadas
+apenas com marca­passos permanentes (Boxe 26.6).
+O marca­passo regula o ritmo do átrio e, em seguida, do ventrículo quando nenhuma atividade ventricular é
+detectada por um período de tempo (o tempo é programado individualmente no marca­passo para cada cliente). Uma
+linha vertical reta pode ser visualizada ao ECG quando a estimulação cardíaca é iniciada. A linha que representa a
+regulação do ritmo é denominada espícula do marca­passo. O complexo ECG apropriado deve seguir
+imediatamente a espícula de regulação do ritmo; portanto, uma onda P deve ocorrer após a espícula de estimulação
+do ritmo atrial e um complexo QRS deve seguir uma espícula de regulação do ritmo ventricular. Como o impulso
+tem início em um local diferente do ritmo normal do cliente, o complexo QRS ou a onda P que responde à
+regulação do ritmo parece ser diferente do complexo ECG normal do cliente. Captura é um termo empregado para
+descrever que o complexo apropriado seguiu o pico de regulação do ritmo.
+O tipo de gerador de marca­passo e as configurações selecionadas dependem da arritmia, da função cardíaca de
+base e da idade do cliente. Os marca­passos em geral são configurados para detectar e responder à atividade
+intrínseca, que é denominada regulação do ritmo conforme a demanda (Figura 26.29). Se o marca­passo é
+configurado para regular o ritmo, mas não para detectar, é denominado marca­passo fixo ou assíncrono (Figura
+26.30); no código de regulação do ritmo é escrito como AOO ou VOO. O marca­passo regula o ritmo a uma
+frequência constante, independente do ritmo intrínseco do cliente. A regulação do ritmo VOO pode indicar falha da
+bateria.
+A regulação do ritmo VVI (V, regula o ritmo do ventrículo; V, detecta a atividade ventricular; I, regula o ritmo
+apenas se os ventrículos não despolarizam) causa perda da sincronia AV e do pontapé atrial, que pode causar a
+diminuição no débito cardíaco e o aumento na distensão atrial e congestão venosa. A síndrome de marca­passo, que
+causa sintomas como desconforto torácico, dispneia, fadiga, intolerância a atividades e hipotensão postural, é mais
+comum com a regulação do ritmo VVI (Gillis, Russo, Ellenbogen et al., 2012). Observou­se que a regulação do
+ritmo atrial e a regulação do ritmo de duas câmaras (atrial direita e ventricular direita) reduz a incidência de
+fibrilação atrial, disfunção ventricular e insuficiência cardíaca (Gillis et al., 2012).
+Boxe
+26.6
+Código da North American Society of Pacing and Electrophysiology e do British Pacing and
+Electrophysiology Group (Código NASPE-BPEG) para a função de gerador demarca-passo
+A primeiraletradocódigoidenti䌌㺃caa(s) câmara(s)queestá(ão) sendosubmetida(s)àregulaçãodoritmo(i.e.,acâmaraquecontém um eletrododeregulação
+doritmo). Os caracteresdas letrasparaestecódigosão A (átrio), V (ventrículo)ou D (duplo,quesigni䌌㺃ca A e V)
+A segundaletraidenti䌌㺃caa(s) câmara(s)queestá(ão) sendodetectada(s)pelogeradordo marca-passo. As informaçõesdoeletrodo nacâmarasãoenviadas
+paraogeradorparainterpretaçãoeaçãopelogerador. Os caracteresdas letras são A (átrio), V (ventrículo), D (duplo)e O (queindicaqueafunçãodedetecção
+estádesligada)
+A terceiraletradocódigodescreveotipoderespostado marca-passoàquiloqueédetectado. As letrasutilizadasparadescreverestarespostasãoI (inibida),T
+(acionada), D (dupla – inibidaeacionada)e O (nenhuma). Respostainibidasigni䌌㺃caquearespostado marca-passoécontroladapelaatividadedocoraçãodo
+cliente – ouseja,quandoocoraçãodoclientebate,o marca-passo nãofunciona, masquandoocoração nãobate,o marca-passofunciona.Contrariamente,
+umarespostaacionadasigni䌌㺃caqueo marca-passoresponde(regulaoritmodocoração)quandodetectaaatividadecardíacaintrínseca
+A quartaletradocódigoestárelacionadacom acapacidadedeum geradorpermanentedevariarafrequênciacardíaca.Estacapacidadeestádisponível na
+maioriados marca-passosatuais. Aspossíveis letras são O,queindica nenhumaresponsividadeàfrequência,ou R,queindicaqueogeradorapresenta
+modulaçãodafrequência(i.e.,o marca-passotem acapacidadedeajustarautomaticamentearegulaçãodoritmodafrequênciaacada momentocom baseem
+parâmetros comointervalo QT,atividadefísica,alteraçõesacidobásicas, temperaturacorporal, frequênciaeprofundidadedas respirações,ousaturaçãode
+oxigênio). Um marca-passocom capacidaderesponsivaàfrequênciaécapazde melhorarodébitocardíacoduranteocasiõesdeaumentodademandacardíaca,
+tais comoexercícios físicos,ediminuiraincidênciade 䌌㺃brilaçãoatrial.Todosos marca-passos contemporâneosapresentam algum tipodesistemadesensorque
+ospossibilitaproporcionararegulaçãodoritmoadaptativaàfrequência(Gillis, Russo,Ellenbogen etal.,2012)
+A quintaletradocódigotem duas indicaçõesdiferentes: (1)ogeradorpermanentetem capacidadederegulaçãodoritmoem diversos locais, com as letras A
+(átrio), V (ventrículo), D (dupla)e O (nenhuma);ou(2)o marca-passoapresentafunçãoantitaquicardia
+Comumente,apenasasprimeiras três letras sãoutilizadas
+paraum códigoderegulaçãodoritmo. Um exemplodecódigoNASPE-BPEG é DVI:
+D:
+V:
+I:
+Ambosoátrioeoventrículoapresentam um eletrododeregulaçãodoritmoposicionado.
+O marca-passoestádetectandoaatividadeapenasdoventrículo.
+O efeitodeestimulaçãodo marca-passoéinibidopelaatividadeventricular – em outraspalavras,ele nãocriaum impulsoquandoo marca-passodetecta
+queoventrículodoclienteestáativo.
+Adaptado de Bernstein AD, Daubert J­C, Fletcher RD et al. The revised NASPE/BPEG generic code for antibradycardia,
+adaptive­rate, and multisite pacing. Journal of Pacing and Clinical Electrophysiology, 2002; 25(2), 260­264.
+Figura 26.29 Regulação do ritmo com detecção apropriada (regulação do ritmo conforme a demanda) na derivação V1. As
+setas indicam o pico de regulação do ritmo. O asterisco (*) indica os batimentos intrínsecos (próprios do cliente); portanto,
+nenhuma regulação do ritmo. F indica um batimento de fusão, que é a combinação de um batimento intrínseco e um
+batimento com regulação do ritmo que ocorrem ao mesmo tempo.
+Figura 26.30 Regulação do ritmo fixa ou perda total da regulação do ritmo de detecção na derivação V1. As setas indicam
+os picos de regulação do ritmo.
+A regulação do ritmo de câmara única (AAI) ou regulação do ritmo de câmara dupla (DDD) é recomendada
+além da VVI em clientes com disfunção do nó sinoatrial (anteriormente denominada síndrome do nó doente), a
+causa mais comum de bradicardias que precisam de marca­passo, e nó AV funcional (Gillis et al., 2012). A
+regulação do ritmo AAI assegura a sincronia entre a estimulação atrial e ventricular (e, portanto, a contração), desde
+que o cliente não apresente distúrbios da condução no nó AV. Os marca­passos de câmara dupla são recomendados
+como tratamento para clientes com distúrbios da condução AV (Gillis et al., 2012).
+Demonstrou­se que a regulação do ritmo biventricular sincronizada, também denominada terapia
+ressincronizada cardíaca, modifica os defeitos de condução intraventriculares, interventriculares e
+atrioventriculares identificados com a disfunção ventricular esquerda moderada a grave sintomática e insuficiência
+cardíaca (classes funcionais III e IV da New York Heart Association [NYHA]) (Brenyo, Link, Barsheshet et al.,
+2011). O gerador para a regulação do ritmo biventricular apresenta três cabos: um para o átrio direito; um para o
+ventrículo direito, como na maioria dos geradores de marca­passo padrão; e um para o ventrículo esquerdo,
+normalmente posicionado na parede lateral esquerda. Esta terapia melhora a função cardíaca, resultando em
+diminuição dos sintomas de insuficiência cardíaca e melhora da qualidade de vida. A regulação do ritmo
+biventricular pode ser realizada com um DCI.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Complicações do uso do marca­passo
+As complicações associadas aos marca­passos relacionam­se à sua presença no corpo e ao funcionamento
+inadequado (Boxe 26.7). Nas primeiras horas após a inserção de um marca­passo temporário ou permanente, a
+complicação mais comum é o deslocamento do eletrodo de regulação do ritmo. Minimizar a atividade do cliente
+pode ajudar a prevenir esta complicação. Se um eletrodo temporário estiver posicionado, a extremidade através da
+qual o cateter foi avançado é imobilizada. Com um marca­passo permanente, o cliente inicialmente é instruído a
+restringir a atividade do lado da implantação.
+O ECG é monitorado muito cuidadosamente para detectar o mau funcionamento do marca­passo. A função
+imprópria do marca­passo, que pode ocorrer em virtude de falha em um ou mais componentes do sistema de
+regulação do ritmo, está resumida na Tabela 26.2. Os dados a seguir devem ser anotados no prontuário do cliente:
+modelo do marca­passo, tipo de gerador, data e horário da inserção, localização do gerador de pulso, limiar de
+estimulação e configurações do regulador do ritmo (p. ex., frequência, produção de energia [mA], sensibilidade
+[mV] e duração do intervalo entre os impulsos atriais e ventriculares [retardo AV]). Essas informações são
+importantes para a identificação do funcionamento normal do marca­passo e para o diagnóstico do mau
+funcionamento do marca­passo.
+Boxe
+26.7
+Complicações da implantação demarca-passo
+Infecção nolocaldeentradados cabosparaaregulaçãotemporáriadoritmo,ou nolocal subcutâneoparaoposicionamentodeum geradorpermanente.
+Antibióticospro䌌㺃láticoseirrigaçãodabolsasubcutâneacom antibióticoantesdoposicionamentodogeradordiminuíram ataxadeinfecçõesatéumataxa
+mínima
+Pneumotórax;autilizaçãodebainhas comercializadas como“seguras” reduzesterisco
+Sangramentoe hematoma nos locaisdeentradados cabosparaaregulaçãotemporáriadoritmo,ou nolocal subcutâneoparaoposicionamentodeum gerador
+permanente. Isso normalmentepodeser tratadocom compressas friasedescontinuaçãode medicamentosantiplaquetárioseantitrombóticos
+Hemotóraxem virtudedapunçãodaveiasubcláviaoudaartéria mamáriainterna
+Ectopiaventricularetaquicardiaem virtudedeirritaçãodaparedeventricularpeloeletrodoendocárdico
+Movimentaçãooudeslocamentodocaboposicionadoporviatransvenosa(perfuraçãodo miocárdio)
+Estimulaçãodo nervofrênico,diafragmática(osoluçopodeserum sinal),oudo músculoesqueléticoseocaboestiverdeslocadoouseaenergiaadministrada
+(mA)estiver con䌌㺃guradaalta. A ocorrênciadestacomplicaçãoéevitadapor testesduranteaimplantaçãododispositivo
+Perfuraçãocardíaca,queresultaem efusãopericárdicae, raramente, tamponamentocardíaco,quepodeocorrer naocasiãodaimplantaçãoou mesesdepois.
+Estacondiçãopodeser reconhecidapor meiodaalteração na morfologiadocomplexo QRS,estimulaçãodiafragmáticaouinstabilidade hemodinâmica
+Podeocorrer síndromedeTwiddlerquandoocliente manipulaogerador, causandodeslocamentodocabooufraturadocabo
+Síndromede marca-passo(instabilidade hemodinâmicacausadapelaregulaçãodoritmoventricularepelaperdadasincronia AV).
+Adaptado de Fuster V, Walsh RA, Harrington RA (Eds.). (2011). Hurst’s the heart (13th ed.). New York: McGraw­Hill; e Tracy
+CM, Epstein AE, Darbar D et al. ACCF/AHA/HRS focused update of the 2008 guidelines for device­based therapy of
+cardiac rhythm abnormalities: A report of the American College of Cardiology Foundation/American Heart Association Task
+Force on Practice Guidelines. Journal of the American College of Cardiology, 2012; 60(14), 1297­1313.
+TABELA 26.2 Avaliação domau funcionamento domarca-passo.
+Problema Possívelcausa Considerações de enfermagem
+Perdadecaptura:ocomplexonãosegueopicode
+regulaçãodoritmo
+Estímuloinadequado
+Deslocamentodecabo
+Fraturado 䌌㺃odocabo
+Mauposicionamentodocateter
+Descarregamentodabateria
+Quebradoisolamentoeletrônico
+Alteraçãode medicamento
+Isquemiado miocárdio
+Veri䌌㺃queasegurançadetodasas conexões;aumente
+a miliamperagem
+Reposicioneaextremidade; movimenteoclientepara
+oladoesquerdo
+Troqueabateria
+Troqueogerador
+Detecçãoinsu䌌㺃ciente:opicodaregulaçãodoritmo
+ocorre nointervalopré-con䌌㺃gurado,apesardo
+ritmointrínsecodocliente
+Sensibilidade muitoalta
+Interferênciaelétrica(p.ex.,porum ímã)
+Gerador com falha
+Diminuaasensibilidade
+Elimineainterferência
+Substituaogerador
+Detecçãoexcessiva:perdadoartefatoderegulação
+doritmo;aregulaçãodoritmo nãoocorre no
+intervalopré-con䌌㺃gurado,apesardaausênciade
+ritmointrínseco
+Sensibilidade muitobaixa
+Interferênciaelétrica
+Depleçãodabateria
+Alteração no medicamento
+Aumenteasensibilidade
+Elimineainterferência
+Troqueabateria
+Perdadaregulaçãodoritmo:ausênciatotaldepicos
+deregulaçãodoritmo
+Detecçãoexcessiva
+Depleçãodabateria
+Fios soltosoudesconectados
+Perfuração
+Troqueabateria
+Veri䌌㺃queasegurançadetodasas conexões
+Apliqueímãsobreogeradorpermanente
+ObtenhaECG de12derivaçõeseradiogra䌌㺃adetórax
+com aparelhoportátil
+Veri䌌㺃quese hásopros.Contateo médico
+Alteração noformatodocomplexo QRSdaregulação
+doritmo
+Perfuraçãoseptal ObtenhaECG de12derivaçõeseradiogra䌌㺃adetórax
+com aparelhoportátil
+Veri䌌㺃quese hásopros.Contateo médico
+Contraçãorítmicadiafragmáticaoudaparede
+torácica,ousoluços
+Produção muitoalta
+Perfuraçãodaparede miocárdica
+Diminuaa miliamperagem
+Desligueo marca-passo.Contateo médico
+imediatamente. Monitorecuidadosamenteem
+relaçãoàdiminuiçãododébitocardíaco
+ECG, eletrocardiograma.
+Adaptada de Calkins H, Kuck KH, Cappato R et al. 2012 HRS/EHRA/ECAS expert consensus statement on catheter and
+surgical ablation of atrial fibrillation: Recommendations for patient selection, procedural techniques, patient management
+and follow­up, definitions, endpoints, and research trial design. Heart Rhythm, 2012; 9(4), 632­696.
+Um cliente que apresenta mau funcionamento do marca­passo pode desenvolver bradicardia, bem como sinais e
+sintomas de diminuição do débito cardíaco. O grau no qual esses sintomas se tornam aparentes depende da
+gravidade do mau funcionamento, do nível de dependência do marca­passo do cliente e da condição de base do
+cliente. O mau funcionamento do marca­passo é diagnosticado pela análise do ECG. Pode ser necessária a
+manipulação dos eletrodos, a alteração das configurações do gerador ou a substituição do gerador ou dos cabos do
+marca­passo (ou de ambos).
+A inibição dos marca­passos permanentes ou a reversão para a regulação do ritmo de frequência fixa
+assíncrona podem ocorrer com a exposição a campos eletromagnéticos fortes (interferência eletromagnética [IEM]).
+Entretanto, a tecnologia recente de marca­passos possibilita que os clientes utilizem de modo seguro a maioria dos
+utensílios e dispositivos eletrônicos domiciliares (p. ex., fornos de micro­ondas, ferramentas elétricas). Os motores
+movidos a gás devem ser desligados antes de se trabalhar com eles. Objetos que contêm ímãs (p. ex., o fone de
+ouvido de um telefone, grandes alto­falantes estéreo, joias) não devem estar próximos do gerador por mais do que
+alguns segundos. Os clientes são aconselhados a posicionar telefones celulares digitais a no mínimo 15 a 30 cm de
+distância do gerador do marca­passo e a não transportá­los no bolso da camisa. Grandes campos eletromagnéticos,
+tais como aqueles produzidos por mapeamento por ressonância magnética, torres e linhas de transmissão de rádio e
+televisão, linhas de transmissão de energia (não as linhas de distribuição que trazem a eletricidade para o domicílio)
+e subestações elétricas podem causar interferência eletromagnética. Os clientes devem ser advertidos a evitar as
+referidas situações ou simplesmente se movimentar para longe da área se apresentarem tontura ou sensação de
+batimentos cardíacos rápidos ou irregulares (palpitações). Deve­se evitar o uso de soldas e de motosserras. Se tais
+ferramentas forem utilizadas, aconselham­se medidas de precaução, tais como a limitação da corrente da solda para
+uma variação de 60 a 130 amperes ou o uso de motosserras elétricas em vez de movidas a gasolina.
+Além disso, o metal do gerador de marca­passo pode acionar dispositivos antifurto de lojas e livrarias, bem
+como alarmes de segurança de aeroportos e edifícios; entretanto, esses sistemas de alarme em geral não interferem
+no funcionamento do marca­passo. Os clientes devem passar por esses dispositivos rapidamente e evitar ficar de pé
+dentro ou próximo deles. Os dispositivos de rastreamento manuais utilizados em aeroportos podem interferir no
+funcionamento do marca­passo. Os clientes devem ser advertidos a solicitar à equipe de segurança que realize uma
+busca manual em vez de usar o dispositivo de rastreamento manual. Os clientes também devem ser orientados a
+portar ou transportar identificação clínica para alertar a equipe em relação à presença do marca­passo.
+Verificação do marca­passo
+Os ambulatórios de marca­passos foram estabelecidos para monitorar os clientes e testar os geradores de pulso em
+relação à falha iminente da bateria do marca­passo. Um dispositivo computadorizado é mantido sobre o gerador
+para “interrogálo” com sinais de rádio indolores; ele detecta as configurações do gerador, o estado da bateria e a
+presença de ERI, o limiar de estimulação cardíaca, a função de detecção, a integridade dos cabos, os dados da
+regulação do ritmo (p. ex., número de eventos de regulação do ritmo) e outras informações armazenadas. Diversos
+fatores, como fratura de cabo, inibição muscular e ruptura de isolamento, também podem ser avaliados, dependendo
+do tipo de marca­passo e do equipamento disponível. Se indicado, o marca­passo é desligado por alguns segundos,
+com a utilização de um ímã ou um programador, enquanto o ECG é registrado para avaliar o ritmo cardíaco de base
+do cliente. A transmissão transtelefônica das informações do gerador é outro método de acompanhamento.
+Equipamentos especiais são utilizados para transmitir as informações a respeito do marca­passo do cliente pelo
+telefone para um sistema de recebimento em uma clínica de marca­passo. As informações são convertidas em tons;
+o equipamento na clínica converte esses tons em um sinal eletrônico e os registra em uma fita de ECG. A
+frequência do marca­passo e outros dados sobre a função do marca­passo são obtidos e avaliados por um
+cardiologista. Isso simplifica o diagnóstico de um gerador com falha, tranquiliza o cliente e melhora o tratamento
+quando o cliente está fisicamente longe das instalações de teste do marca­passo. A frequência das verificações do
+marca­passo varia com a idade e a condição subjacentes do cliente, o grau de dependência do marca­passo, a idade e
+o tipo do dispositivo e os resultados das verificações anteriores do marca­passo (Tracy, Epstein, Darbar et al.,
+2012). Um cronograma de acompanhamento (follow­up) típico é a cada 2 semanas no primeiro mês, a cada 4 a 8
+semanas por 3 anos, e a cada 4 semanas posteriormente.
+Desfibrilador cardioversor implantável
+O desfibrilador cardioversor implantável (DCI) é um dispositivo eletrônico que detecta e encerra episódios de
+taquicardia ou fibrilação potencialmente fatais, especialmente os de origem ventricular. Os clientes de alto risco de
+TV ou fibrilação ventricular e que se beneficiariam de um DCI são aqueles que sobreviveram à síndrome da morte
+súbita cardíaca, que habitualmente é causada por fibrilação ventricular, ou que apresentaram TV espontânea e
+sintomática (síncope secundária a TV) não em virtude de uma causa reversível (denominada intervenção de
+prevenção secundária). O Centers for Medicaid and Medicare Services (CMS, 2005) sugere que pessoas com DAC
+que estão no período de 40 dias após IAM com disfunção ventricular esquerda moderada a grave (fração de ejeção
+inferior ou igual a 35%) correm risco de morte súbita cardíaca e, portanto, indica­se um DCI (a chamada
+intervenção de prevenção primária). O CMS também aprovou a implantação de DCI em clientes que foram
+diagnosticados com miocardiopatia dilatada não isquêmica há no mínimo 9 meses e insuficiência cardíaca nas
+classes funcionais II ou III da NYHA (CMS, 2005). Os DCI também podem ser implantados em clientes com
+fibrilação atrial sintomática, recidivante e refratária a medicamentos. Um estudo recente indicou que o uso
+inadequado de DCI para fins de prevenção primária ocorreu com mais frequência em virtude da preferência do
+cliente, o que indica a necessidade de instruções aos clientes e do estudo das barreiras impostas pelo cliente ao
+consentimento desta intervenção que pode salvar vidas (Castellanos, Smith, Varosky et al., 2012).
+Tendo em vista que pode haver um período de espera para a implantação do DCI, aos clientes em risco de
+morte súbita cardíaca pode­se prescrever um desfibrilador automatizado semelhante a um colete, que pode ser
+vestido e atua justamente como um desfibrilador externo automático, de modo que ocorre um choque menos de 1
+min depois da detecção de um ritmo potencialmente fatal (Zishiri, Cronin, Williams et al., 2011) (Figura 26.31).
+Antes da administração do choque, o colete vibra e emite um alarme para anunciar que um choque está iminente. O
+colete pesa aproximadamente 450 g, é vestido sob as roupas do cliente e é conectado a um monitor com uma
+bateria, que é utilizado em um coldre ou em uma correia no ombro. O monitor baixa as informações
+automaticamente 1 vez/dia, normalmente no meio da noite. O colete deve ser utilizado em todas as ocasiões, mesmo
+se o cliente estiver hospitalizado e for colocado em um monitor de ECG, e somente deve ser retirado para o banho
+de chuveiro ou banheira. A bateria precisa ser trocada todos os dias. São fornecidas instruções ao cliente pelo
+fabricante do dispositivo. Entretanto, a enfermeira deve avaliar a compreensão do cliente a respeito das instruções
+fornecidas e quaisquer questões que possam evitar que o cliente o utilize.
+O DCI apresenta um gerador aproximadamente do tamanho de uma caixa de fósforos grande e apresenta no
+mínimo um cabo ventricular direito, que pode perceber a atividade elétrica intrínseca e administrar um impulso
+elétrico. O procedimento de implantação, os cuidados pós­implantação e a duração da estadia hospitalar são muito
+similares àqueles da inserção de um marca­passo (Figura 26.32). Os DCI são projetados para responder a dois
+critérios: frequência que excede um nível predeterminado e alteração em segmentos da linha isoelétrica. Quando
+ocorre arritmia, sensores de frequência requerem um período de tempo determinado para detectar a arritmia. Em
+seguida, o dispositivo carrega automaticamente; após a confirmação da arritmia, ele administra a carga programada
+através do cabo para o coração. O tempo desde a detecção da arritmia até a descarga elétrica depende do tempo de
+carregamento, que depende do nível de energia programado (Fuster, Walsh et al., 2011). Entretanto, em um CDI
+que tem a capacidade de fornecer terapias atriais, o dispositivo pode ser programado para ser ativado pelo cliente,
+proporcionando­lhe tempo para ativar a carga no momento e local de sua escolha. A vida da bateria de lítio é de
+aproximadamente 9 anos, mas varia conforme a utilização do DCI. A vigilância do DCI é semelhante à do marcapasso; entretanto, inclui o armazenamento de ECG endocárdicos, bem como informações a respeito do número e da
+frequência de choques que foram administrados.
+Figura 26.31 O colete desfibrilador cardioversor automático que pode ser vestido. (Cortesia de ZOLL LifeVest.)
+Figura 26.32 O desfibrilador cardioversor implantável é composto por um gerador e um eletrodo de detecção/regulação
+do ritmo/desfibrilação.
+Podem ser administrados agentes antiarrítmicos com esta tecnologia, para minimizar a ocorrência da
+taquiarritmia e para reduzir a frequência da descarga do DCI.
+Diversos tipos de dispositivos estão disponíveis e podem ser programados para diversos tratamentos (Fuster,
+Walsh et al., 2011). DCI, o nome genérico, é utilizado como a abreviação para esses diversos dispositivos. Cada
+dispositivo oferece uma sequência de administração diferente, mas todos são capazes de administrar desfibrilação
+de alta energia (alta intensidade) para tratar taquicardia (atrial ou ventricular). O dispositivo pode administrar até
+seis choques, se necessário.
+Alguns DCI podem responder com (1) regulação do ritmo antitaquicardia, no qual o dispositivo administra
+impulsos elétricos a uma frequência rápida como tentativa de interromper a taquicardia, (2) cardioversão de baixa
+energia (baixa intensidade), ou (3) desfibrilação; outros podem utilizar todas as três técnicas (Fuster, Walsh et al.,
+2011). A regulação do ritmo é utilizada para encerrar as taquicardias causadas por um distúrbio da condução
+denominado reentrada, que é a reestimulação repetitiva do coração pelo mesmo impulso. Um impulso, ou uma série
+de impulsos, é administrado para o coração pelo dispositivo a uma frequência rápida, para colidir com e parar os
+impulsos de condução de reentrada do coração e, portanto, interromper a taquicardia. Alguns DCI também
+apresentam capacidade de marca­passo se o cliente desenvolver bradicardia, que por vezes ocorre após o tratamento
+da taquicardia. Normalmente, o modo é VVI (V, regulação do ritmo do ventrículo; V, detecção da atividade
+ventricular; I, regulação do ritmo apenas se os ventrículos não despolarizarem). Alguns DCI também tratam a
+fibrilação atrial (Fuster, Rydén et al., 2011).
+Qual dispositivo é utilizado e como ele é programado depende da(s) arritmia(s) do cliente. O dispositivo pode
+ser programado de modo diferente para diferentes arritmias (p. ex., fibrilação ventricular, TV com frequência
+ventricular rápida e TV com frequência ventricular lenta). Assim como os marca­passos, há um código NASPE­
+BPEG para a comunicação das funções dos DCI (Bernstein et al., 2002). A primeira letra representa a(s) câmara(s)
+que recebem o choque elétrico (O, nenhuma; A, átrio; V, ventrículo; D, ambos, átrio e ventrículo). A segunda letra
+representa a câmara que pode ser submetida à regulação do ritmo antitaquicardia (O, A, V, D, significando o mesmo
+que a primeira letra). A terceira letra indica o método utilizado pelo gerador para detectar taquicardia (E,
+eletrograma; H, hemodinâmica). A última letra representa as câmaras que apresentam regulação do ritmo
+antibradicardia (O, A, V, D, significando o mesmo que a primeira e a segunda letra do código de DCI).
+As complicações da implantação do DCI são similares àquelas associadas à inserção de marca­passo. A
+complicação primária é a infecção relacionada com a cirurgia; seu risco aumenta com a substituição da bateria ou
+dos cabos (Fuster, Walsh et al., 2011). Poucas complicações estão associadas aos aspectos técnicos do
+equipamento, como aquelas dos marca­passos, como depleção prematura da bateria e deslocamento ou fratura dos
+cabos. A administração inadequada da terapia de DCI, normalmente em virtude de percepção excessiva ou
+taquicardias atriais e sinusais com uma resposta de frequência ventricular rápida, é a complicação mais frequente.
+Ela requer a reprogramação do dispositivo.
+Manejo de enfermagem
+Após a inserção de um dispositivo eletrônico permanente (marca­passo ou DCI), a frequência e o ritmo cardíacos
+do cliente são monitorados por ECG. As configurações do dispositivo são anotadas e comparadas aos registros do
+ECG para avaliar o funcionamento do dispositivo. Por exemplo, o mau funcionamento do marca­passo é detectado
+pela verificação da espícula do marca­passo e da sua relação com os complexos eletrocardiográficos adjacentes
+(Figura 26.33). Além disso, o débito cardíaco e a estabilidade hemodinâmica são avaliados para identificar a
+resposta do cliente à regulação do ritmo e a adequação da regulação do ritmo. O aspecto ou o aumento da frequência
+de arritmias é observado e relatado ao profissional primário. Se o cliente tiver um DCI e desenvolver TV ou
+fibrilação ventricular, o ECG deve ser registrado para observar o tempo entre o início da arritmia e o início do
+choque ou da regulação do ritmo antitaquicardia do dispositivo.
+O local de incisão no qual o gerador foi implantado é observado em relação a sangramentos, formação de
+hematomas ou infecção, que pode ser evidenciada por edema, sensibilidade incomum, drenagem ou aumento do
+calor. O cliente pode se queixar de latejamento ou dor contínuos. Esses sintomas são relatados ao médico.
+Uma radiografia de tórax é habitualmente obtida após o procedimento e antes da alta para documentar a posição
+dos cabos, além de assegurar que o procedimento não causou um pneumotórax. É necessário avaliar a função do
+dispositivo durante toda a sua vida útil e especialmente após alterações no esquema de medicamentos do cliente.
+Por exemplo, agentes antiarrítmicos, betabloqueadores e diuréticos podem aumentar o limiar de regulação do ritmo,
+enquanto corticosteroides e agentes alfa­adrenérgicos podem diminuir o limiar de regulação do ritmo; o efeito
+oposto ocorre quando o cliente interrompe esses medicamentos.
+O cliente também é avaliado em relação a ansiedade, depressão ou raiva, que podem ser manifestações de
+enfrentamento ineficaz da implantação. Além disso, o nível de conhecimento e as necessidades de instrução do
+cliente e da família e o histórico de adesão ao esquema terapêutico devem ser identificados. É especialmente
+importante incluir a família ao fornecer instruções e suporte.
+Nas fases per e pós­operatórias, a enfermeira observa cuidadosamente as respostas do cliente ao dispositivo e
+fornece ao cliente e à família instruções adicionais, conforme necessário (Boxe 26.8). A enfermeira também auxilia
+o cliente e a família na abordagem das preocupações e na tomada de decisões sobre os cuidados pessoais e as
+alterações no estilo de vida requeridas pela arritmia e pela implantação do dispositivo.
+Prevenção de infecções
+A enfermeira deve trocar o curativo conforme necessário e inspecionar o local de inserção em relação a rubor,
+edema, sensibilidade ou qualquer drenagem incomum. Qualquer alteração no aspecto do ferimento, aumento na
+temperatura do cliente ou aumento na contagem de leucócitos do cliente devem ser relatados ao profissional
+primário.
+•
+°
+°
+°
+°
+•
+°
+°
+°
+°
+°
+°
+°
+Figura 26.33 A. Regulação do ritmo ventricular na derivação V1 com perda de captura intermitente (espícula de regulação
+do ritmo não seguida por um complexo QRS). B. Regulação do ritmo ventricular com perda da detecção (espícula de
+regulação do ritmo que ocorre em momento inadequado). ↑, espícula de regulação do ritmo; *, perda de captura; P,
+complexo QRS induzido pelo marca­passo; I, complexo QRS intrínseco do cliente; F, fusão (complexo QRS formado por
+fusão do complexo QRS intrínseco do cliente e do complexo QRS induzido pelo marca­passo).
+Boxe
+26.8
+LISTA DE VERIFICAÇÃO DO CUIDADO DOMICILIAR
+Orientação do cliente comumdispositivo cardíaco implantável
+Ao concluíremas orientaçõessobre oscuidados domiciliares, o cliente e o cuidador familiar
+serão capazes de: CLIENTE CUIDADOR FAMILIAR
+Evitar infecções nolocaldeinserçãododispositivo:
+Deixaraincisãodescobertaeobservá-ladiariamenteem relaçãoarubor,aumentodeedemae
+calor.
+✓ ✓
+Aferiratemperatura no mesmo horáriotodososdias; relatarqualqueraumento. ✓ ✓
+Nãousar roupasapertadaserestritivas,quepodem friccionarolocaldeinserção. ✓
+Inicialmente,evitarasubmersãoem banheiraeloção, cremesoupós naáreadodispositivo. ✓
+Aderiràs restriçõesdasatividades:
+Restringiros movimentosdobraçoatéacicatrizaçãodaincisão; nãoelevarobraçoacimada
+cabeçapor2semanas.
+✓ ✓
+Evitar levantarpesoporalgumas semanas. ✓ ✓
+Discutirasegurançadasatividades (p.ex.,dirigir) com opro䌌㺃ssionalprimário. ✓ ✓
+Reconhecerque,emborapossademoraraté2a3semanasparaaretomadadasatividades
+normais,aatividadefísica nãoprecisa habitualmenteser restringida, com exceçãodeesportesde
+contato.
+✓ ✓
+Interferênciaeletromagnética: compreenderaimportânciadoquesegue:
+Evitargrandes campos magnéticos, tais comoaqueles criadosporaparelhosderessonância
+magnética,grandes motores, soldacom arcoelétrico, subestaçõeselétricas,eassim pordiante. Os
+campos magnéticospodem desativarodispositivo,anulandooseuefeitoem casodearritmia.
+✓ ✓
+Em portõesdesegurançaem aeroportos,edifíciosgovernamentais,ououtrasáreas seguras,
+mostrarocartãodeidenti䌌㺃caçãoesolicitarumabusca manual (nãocom dispositivo manual).
+✓ ✓
+°
+°
+•
+°
+°
+°
+°
+°
+°
+°
+•
+°
+°
+°
+Obterecarregar consigoumacartado médicocom estasolicitação.
+Algunsdispositivoselétricosepequenos motores,bem comoprodutosquecontêm ímãs (p.ex.,
+telefones celulares)podem interferir nofuncionamentododispositivocardíacoseodispositivo
+elétricoestiverposicionado muitopróximoaele.Nãoseinclinardiretamentesobregrandes
+dispositivoselétricosou motores,ouassegurarqueocontatosejadebreveduração;posicionaro
+telefonecelulardoladoopostoaodispositivocardíaco.
+✓ ✓
+Utensíliosdomésticos (p.ex., fornosde micro-ondas) nãodevem causarpreocupação. ✓ ✓
+Promoverasegurança:
+Descreveroquefazer se houver sintomas,e noti䌌㺃caro médicosequaisquerdescargasparecerem
+incomuns.
+✓ ✓
+Manterum registrodasdescargasdeum des䌌㺃brilador cardioversor implantável (DCI). Registraros
+eventosqueprecipitam asensaçãodechoque. Issofornecedados importantesparareajustedo
+esquemaclínico.
+✓ ✓
+Estimularos familiaresacomparecerem aumaaulasobrereanimaçãocardiopulmonar. ✓ ✓
+Ligarparao númerodeemergênciaseocorrer sensaçãodetontura. ✓ ✓
+Portar identi䌌㺃caçãoclínica(p.ex., Alerta médico)queincluainformações sobreo médico. ✓ ✓
+Evitarassustarafamíliaouosamigos com choques inesperadosdeum DCI,que nãoos farão mal.
+Informarafamíliaeosamigosque, casoelesestejam em contatocom oclientequandoum
+choqueforadministrado,eles também poderãosentirochoque.Éespecialmenteimportante
+advertirosparceiros sexuaisdessapossibilidade.
+✓ ✓
+Portar identi䌌㺃caçãoclínicacom o nomedo médico,eotipoeo númerodo modelododispositivo,
+nomedofabricantee hospital noqualodispositivofoi inserido.
+✓ ✓
+Cuidadosdeacompanhamento:
+Discutiras respostaspsicológicasàimplantaçãododispositivo, tais comoalterações na
+autoimagem,depressãoem virtudedeperdada mobilidadesecundáriaarestriçõesparadirigir,
+temordechoques,aumentodaansiedade,preocupaçõesdequeaatividadesexualpossaacionar
+odispositivoealterações narelaçãocom oparceiro.
+✓ ✓
+Aderiraosagendamentosquesãoprogramadospara monitorarodesempenhoeletrônicodo
+dispositivocardíaco. Issoéespecialmenteimportanteduranteoprimeiro mêsapósaimplantação
+epróximoao 䌌㺃naldavidaútildabateria.Lembrardelevaroregistrodedescargasdo DCIpara
+revisão
+com o médico.
+✓ ✓
+Paraclientes com marca-passos,veri䌌㺃caropulsodiariamente. Relatar imediatamentequalquer
+reduçãoouaumentosúbitodafrequênciadepulso. Issopodeindicar maufuncionamentodo
+marca-passo.
+✓ ✓
+Promoção do enfrentamento efetivo
+O cliente tratado com um dispositivo eletrônico apresenta não apenas alterações no estilo de vida e físicas, mas
+também alterações emocionais. Em diferentes ocasiões durante o processo de cicatrização, o cliente pode se sentir
+irritado, deprimido, temeroso, ansioso, ou ter uma combinação dessas emoções. Embora cada cliente use estratégias
+de enfrentamento individuais (p. ex., humor, prece, comunicação com outra pessoa significativa) para tratar a
+angústia emocional, algumas estratégias podem funcionar melhor que outras. As manifestações que podem indicar
+enfrentamento ineficaz incluem isolamento social, aumento ou prolongamento de irritabilidade ou depressão, e
+dificuldade nos relacionamentos.
+Para promover estratégias de enfrentamento eficazes, a enfermeira deve reconhecer as percepções do cliente e
+da família sobre a situação e seu estado emocional resultante e os auxiliar a explorar suas reações e seus
+sentimentos. Em virtude da descarga do DCI imprevisível e possivelmente dolorosa, os clientes com DCI são mais
+•
+•
+•
+•
+•
+vulneráveis aos sentimentos de desesperança, que levam à depressão. A enfermeira pode ajudar o cliente a
+identificar métodos positivos para lidar com as limitações reais ou percebidas e tratar quaisquer alterações
+necessárias no estilo de vida. A enfermeira pode auxiliar o cliente a identificar as alterações (p. ex., perda da
+capacidade de participar em esportes de contato), as respostas emocionais à alteração (p. ex., raiva) e como o cliente
+responde a essass emoções (p. ex., rapidamente se torna raivoso quando conversa com o cônjuge). A enfermeira
+pode tranquilizar o cliente, dizendo que essas respostas são normais, e auxiliá­lo a identificar objetivos realistas (p.
+ex., desenvolver interesse em outra atividade) e desenvolver um plano para alcançar esses objetivos. O cliente e a
+família devem ser estimulados a conversar a respeito das suas experiências e emoções entre si e com a equipe de
+saúde. A enfermeira pode encaminhar o cliente e a família a um grupo de apoio hospitalar, comunitário, ou online.
+A enfermeira também pode encorajar o uso de recursos espirituais. Com base nos interesses do cliente, a
+enfermeira também pode instruir o cliente a respeito de técnicas de redução do estresse (p. ex., exercícios de
+respiração profunda, relaxamento) para facilitar o enfrentamento. Orientar o cliente sobre o DCI pode ajudá­lo a
+lidar com as alterações resultantes da implantação do dispositivo (Boxe 26.8).
+Promoção dos cuidados domiciliar e comunitário
+Após a inserção do dispositivo, a estadia hospitalar do cliente pode ser por um dia ou menos, e é comum um
+acompanhamento em uma clínica ambulatorial ou consultório. A ansiedade e os sentimentos de vulnerabilidade do
+cliente podem interferir na capacidade de aprender as informações fornecidas. A enfermeira precisa incluir os
+cuidadores nas instruções e fornecer materiais impressos para utilização pelo cliente e pelo cuidador, estabelecendo
+as prioridades de aprendizado. As instruções podem incluir a importância do monitoramento periódico do
+dispositivo, promoção da segurança, cuidados do local cirúrgico, e modos de evitar IEM (Boxe 26.8). Além disso,
+o plano de instruções deve conter informações a respeito das atividades que são seguras e daquelas que podem ser
+perigosas. A enfermeira discute com o cliente e a família o que eles devem fazer quando um choque é administrado,
+e pode facilitar o treinamento em RCP para a família.
+Estudos eletrofisiológicos
+O estudo EF é um procedimento invasivo utilizado para avaliar e tratar diversas arritmias que causaram parada
+cardíaca ou sintomas significativos. Também é indicado para clientes com sintomas que sugerem arritmia que não
+foi detectada e que não foi diagnosticada por outros métodos. Tendo em vista que o estudo EF é invasivo, ele é
+realizado no hospital e pode requerer a internação do cliente. O estudo EF é realizado com os seguintes propósitos:
+Identificar a formação e a propagação de impulsos pelo sistema de condução elétrica cardíaca
+Avaliar a função ou a disfunção das áreas nodais SA e AV
+Identificar a localização (denominada mapeamento) e o mecanismo dos focos arritmogênicos (a capacidade de
+causar arritmias)
+Avaliar a eficácia dos medicamentos e dispositivos antiarrítmicos para o cliente com arritmia
+Tratar determinadas arritmias por meio da destruição das células causais (ablação).
+O procedimento EF é um tipo de cateterização cardíaca realizado em um laboratório de cateterismo cardíaco
+especialmente equipado por um eletrofisiologista, que é um cardiologista com treinamento especializado, auxiliado
+por outras equipes do laboratório de EF. O cliente fica consciente, porém levemente sedado. De modo geral um
+cateter com diversos eletrodos é inserido através de uma pequena incisão na veia femoral, inserido na veia cava
+superior e avançado em direção ao coração; entretanto, dependendo do tipo de estudo e das informações necessárias,
+um segundo cateter pode ser inserido na artéria femoral. Os eletrodos são posicionados no coração em locais
+específicos – por exemplo, no átrio direito, perto do nó sinoatrial, no seio coronariano, perto da valva tricúspide, e
+no ápice do ventrículo direito. O número e o posicionamento dos eletrodos dependem do tipo de estudo que está
+sendo conduzido. Esses eletrodos possibilitam que o sinal elétrico seja registrado de no coração (intracardiograma).
+Os eletrodos também possibilitam que o clínico introduza um estímulo de regulação do ritmo na área
+intracardíaca em um intervalo e a uma frequência com programação precisa, estimulando, assim, a área
+(estimulação programada). Uma área do coração pode ser submetida à regulação do ritmo a uma frequência muito
+mais rápida do que a frequência normal da automaticidade, a frequência na qual os impulsos são formados
+espontaneamente (p. ex., no nó sinoatrial). Isso possibilita que o marca­passo se torne um foco artificial de
+automaticidade e assuma o controle (supressão de sobremarcha). Em seguida, o marca­passo é subitamente
+interrompido, e o tempo que demora para que o nó sinoatrial retome o controle é avaliado. Um tempo prolongado
+indica disfunção do nó sinoatrial.
+Uma das principais finalidades da estimulação programada é avaliar a capacidade da área adjacente ao eletrodo
+de causar arritmia de reentrada. Uma série de impulsos prematuros é administrada a uma área como tentativa de
+causar a taquiarritmia. Tendo em vista que a localização precisa da área suspeita e o momento específico da
+regulação do ritmo necessário são desconhecidos, o eletrofisiologista utiliza diversas técnicas diferentes para causar
+a arritmia durante o estudo. Se a arritmia puder ser produzida por estimulação programada, é denominada induzível.
+Após a indução de uma arritmia, um plano de tratamento é determinado e implementado. Se, no estudo EF de
+acompanhamento, a taquiarritmia não puder ser induzida, o tratamento então é determinado como efetivo.
+Diferentes medicamentos podem ser administrados e combinados com os dispositivos elétricos (marca­passo, DCI)
+para determinar o tratamento mais efetivo para suprimir a arritmia.
+Os cuidados do cliente, as instruções ao cliente e as complicações correlatas de um estudo EF são similares
+aos da cateterização cardíaca (ver Capítulo 25). O estudo normalmente tem duração de 2 h; entretanto, se o
+eletrofisiologista conduzir não apenas um procedimento diagnóstico, mas também um tratamento, o estudo pode
+demorar até 6 h. Durante o procedimento, o cliente se beneficia de uma abordagem calma e tranquilizadora.
+Os clientes que devem ser submetidos a um estudo EF podem ficar ansiosos a respeito do procedimento e de
+seu resultado. Normalmente o procedimento é discutido detalhadamente com o cliente, a família e o
+eletrofisiologista, para assegurar que o cliente pode fornecer o consentimento livre e esclarecido e para reduzir a sua
+ansiedade a respeito do procedimento. Antes de iniciar, o cliente deve receber instruções sobre o procedimento e a
+sua duração habitual, o ambiente no qual o procedimento é realizado, e as suas expectativas. Embora um estudo EF
+não seja doloroso, causa desconforto e pode ser cansativo. Também pode causar sensações da arritmia que ocorreu
+no passado. Além disso, os clientes são informados sobre o que será esperado deles (p. ex., permanecer imóvel
+durante o procedimento, relatar sintomas ou preocupações).
+O cliente também deve saber que pode ocorrer arritmia durante o procedimento. Com frequência, ela cessa por
+si própria; caso contrário, é administrado tratamento para restaurar o ritmo normal do cliente. A arritmia pode
+precisar ser interrompida com a utilização de cardioversão ou desfibrilação, mas essas são realizadas sob
+circunstâncias mais controladas do que em uma emergência.
+Os cuidados pós­procedimentais são similares àqueles da cateterização cardíaca, incluindo restrição das
+atividades para promover a hemostasia no local de inserção. Para identificar quaisquer complicações e para
+assegurar a cicatrização, os sinais vitais do cliente e o aspecto do local de inserção são avaliados com frequência.
+Tendo em vista que nem sempre são utilizadas artérias, há uma incidência mais baixa de complicações vasculares
+do que com outros procedimentos de cateterização. Pode ocorrer parada cardíaca, mas a incidência é baixa (inferior
+a 1%) (Fuster, Walsh et al., 2011).
+Cirurgia de condução cardíaca
+As taquicardias atriais e ventriculares que não respondem aos medicamentos e que não são adequadas para a
+regulação do ritmo antitaquicardia podem ser tratadas por métodos que incluem um procedimento de labirinto e
+ablação. É necessário hospitalização para ambos os procedimentos.
+Procedimento de labirinto
+O procedimento de labirinto é um procedimento cirúrgico cardíaco aberto para a fibrilação atrial refratária.
+Pequenas incisões transmurais são realizadas em todo o átrio. A formação de tecido cicatricial resultante previne a
+condução de reentrada do impulso elétrico. Como o procedimento requer tempo significativo e bypass
+cardiopulmonar, a sua aplicação é reservada apenas para aqueles clientes que são submetidos à cirurgia cardíaca por
+outro motivo (p. ex., bypass de artéria coronária) (Fuster, Walsh et al., 2011). Além disso, alguns clientes precisam
+de marca­passo permanente após a cirurgia.
+Terapia de ablação por cateter
+A ablação por cateter destrói as células específicas que são a causa ou a via de condição central de uma
+taquiarritmia. É realizada junto ou após um estudo EF. As indicações habituais para a ablação são TRNAV, arritmia
+atrial recidivante (especialmente fibrilação atrial), ou TV não responsiva à terapia anterior (ou cuja terapia produziu
+efeitos colaterais significativos).
+A ablação também é indicada para eliminar vias AV acessórias ou tratos de desvio que existem nos corações de
+clientes com síndromes de pré­excitação, tais como WPW. Durante o desenvolvimento embrionário normal, todas
+as conexões entre os átrios e os ventrículos desaparecem, com exceção daquela entre o nó AV e o feixe de His. Em
+algumas pessoas, as conexões embrionárias do músculo cardíaco normal entre os átrios e os ventrículos
+permanecem, fornecendo uma via ou um trato acessório através dos quais o impulso elétrico pode se desviar do nó
+AV. Essas vias podem estar localizadas em diferentes áreas. Se o cliente desenvolver fibrilação atrial, o impulso
+pode ser desviado da condução lenta no nó AV e ser diretamente conduzido para dentro do ventrículo a uma
+frequência de 300 vezes por minuto ou mais, o que pode levar à fibrilação ventricular e à morte súbita cardíaca. As
+síndromes de pré­excitação são identificadas por achados ECG específicos (Thanavaro e Thanavaro, 2010). Por
+exemplo, na síndrome de WPW, há um intervalo PR abreviado, empastamento (denominado onda delta) da
+deflexão do complexo QRS inicial e prolongamento da duração do complexo QRS (Figura 26.34).
+A ablação é realizada com mais frequência por meio de radiofrequência (RF), que envolve o posicionamento de
+um cateter na origem da arritmia ou próximo a ela. Ondas de som de alta frequência e baixa energia são
+transmitidas pelo cateter, causando lesão térmica e alterações celulares que resultam em destruição e fibrose
+localizada. A lesão tecidual é mais específica para o tecido arrítmico, com menos traumatismo no tecido cardíaco
+adjacente do que ocorre com a ablação elétrica. Embora a ablação por RF apresente menor risco de causar bloqueio
+atrioventricular (BAV), ela foi associada a perfuração do miocárdio e tamponamento cardíaco. A ablação também
+pode ser realizada com um cateter especial diferente para aplicar temperatura extremamente fria para destruir as
+células cardíacas selecionadas, a chamada crioablação. A crioablação causa menos irritação endocárdica e
+trombose, mas também demora mais (Calkins et al., 2012). Durante o procedimento de ablação, pás de
+desfibrilação, um manguito de pressão arterial automático e um oxímetro de pulso são utilizados, e um cateter
+urinário permanente é inserido. O cliente normalmente recebe sedação moderada (ver Capítulo 18). É realizado um
+estudo EF para induzir a arritmia. O cateter de ablação é posicionado na origem da arritmia, e o procedimento de
+ablação é realizado. Podem ser necessárias diversas ablações. A ablação é bem­sucedida quando não é mais possível
+induzir a arritmia. O cliente é monitorado por mais 30 a 60 min e em seguida é novamente testado para assegurar
+que a arritmia não recidive.
+Os cuidados pós­procedimentais em uma unidade intermediária são semelhantes aos do estudo EF, exceto que
+o cliente é monitorado mais cuidadosamente, dependendo do tempo necessário para a recuperação da sedação. Os
+principais riscos da ablação de cateter incluem tamponamento pericárdico, lesão do nervo frênico, acidente vascular
+encefálico, estenose de veia pulmonar e fístulas atrioesofágicas (Fuster, Rydén et al., 2011).

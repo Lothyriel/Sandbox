@@ -1,0 +1,1826 @@
+A expressão distúrbios vasculares encefálicos é uma designação abrangente que se refere a uma anormalidade
+funcional do sistema nervoso central (SNC), que ocorre quando há interrupção da irrigação sanguínea para o
+encéfalo. O acidente vascular encefálico (AVE) é o principal distúrbio vascular encefálico nos EUA e a quarta causa
+principal de morte após cardiopatia, câncer e doenças crônicas das vias respiratórias inferiores. Nos EUA,
+aproximadamente 795 mil indivíduos sofrem um AVE a cada ano. Cerca de 610 mil desses casos são novos,
+enquanto 185 mil são recorrentes (Roger, Go, Lloyd­Jones et al., 2012). Cerca de 6,2 milhões de sobreviventes de
+AVE não institucionalizados estão atualmente vivos (National Center for Health Statistics, 2012). Nos EUA, o AVE
+é uma importante causa de incapacidade de grave a longo prazo. Seu impacto financeiro é profundo, com custos
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+diretos e indiretos estimados em 34,3 bilhões de dólares em 2008 (Roger et al., 2012).
+1
+O AVE pode ser classificado em duas categorias principais: isquêmico (aproximadamente 87% dos casos), em
+que ocorrem oclusão vascular e hipoperfusão significativa; e hemorrágico (aproximadamente 13%), em que ocorre
+extravasamento de sangue no encéfalo ou no espaço subaracnóideo (Hickey, 2009). Embora haja algumas
+semelhanças entre esses dois tipos, são observadas diferenças em sua etiologia, fisiopatologia, manejo clínico,
+manejo cirúrgico e cuidados de enfermagem. A Tabela 67.1 fornece uma comparação entre o AVE isquêmico e o
+hemorrágico.
+Acidente vascular encefálico isquêmico
+Um acidente vascular encefálico (AVE) isquêmico, também conhecido como “ataque cerebral”, refere­se a uma
+perda súbita da função em consequência da ruptura do suprimento sanguíneo para determinada parte do encéfalo. O
+termo ataque cerebral tem sido usado para sugerir aos profissionais de saúde e ao público que um AVE é um
+problema urgente de saúde, semelhante a um infarto do miocárdio. Com a aprovação da terapia trombolítica para o
+tratamento do AVE isquêmico agudo, em 1996, houve uma revolução nos cuidados aos clientes após sua ocorrência.
+O tratamento precoce com trombolíticos para o AVE isquêmico resulta em menos sintomas desse distúrbio e em
+menor perda da função (National Institute of Neurologic Disorders and Stroke [NINDS], 1995). A única terapia
+trombolítica aprovada pela agência norte­americana U.S. Food and Drug Administration (FDA) tem uma janela
+terapêutica de 3 h após o início do AVE, e as publicações científicas endossaram o seu uso ampliado para até 4,5 h
+(Del Zoppo, Saver, Jauch et al., 2009). Embora o tempo disponível para iniciar o tratamento tenha sido estendido
+em alguns centros, é necessário urgência por parte do público e dos profissionais de saúde para o rápido transporte
+do cliente a um hospital para avaliação e administração do medicamento.
+TABELA 67.1 Comparação dos principaistipos de acidente vascular encefálico.
+Tipos de AVE Causas
+Principaissintomas de
+apresentação Recuperação funcional
+Isquêmico
+Trombosedegrandesartérias
+Trombosedepequenasartérias
+penetrantes
+Emboliacardiogênica
+Criptogênica(nenhumacausa
+conhecida)
+Outras
+Dormênciaoufraquezadaface,braço
+ouperna,particularmenteem um
+dos ladosdocorpo
+Estabiliza-se habitualmenteem 6
+meses
+Hemorrágico
+Hemorragiaintracerebral
+Hemorragiasubaracnóidea
+Aneurismacerebral
+Malformaçãoarteriovenosa
+“Cefaleiaexplosiva”
+Níveldeconsciênciadiminuído
+Mais lenta,estabiliza-se
+habitualmentecom cercade18
+meses
+Os AVEs isquêmicos são subdivididos em cinco tipos diferentes, com base em sua causa: trombóticos em
+artérias de grande calibre (20%), trombóticos em pequenas artérias penetrantes (25%), embólicos cardiogênicos
+(20%), criptogênicos (30%) e outros (5%) (ver Tabela 67.1). Os AVEs trombóticos em artérias de grande calibre
+são causados por placas ateroscleróticas nos grandes vasos sanguíneos do encéfalo. A formação de trombos e a
+oclusão no local da aterosclerose resultam em isquemia e infarto (necrose tecidual em uma área privada de
+irrigação sanguínea) (Hickey, 2009).
+Os AVEs trombóticos em pequenas artérias penetrantes afetam um ou mais vasos e constituem o tipo mais
+comum de AVE isquêmico. Os AVEs trombóticos em pequenas artérias também são denominados AVEs lacunares,
+por causa da cavidade criada depois da morte do tecido cerebral infartado (American Association of Neuroscience
+Nurses [AANN], 2011; Hickey, 2009).
+Os AVEs embólicos cardiogênicos estão associados a arritmias cardíacas, habitualmente à fibrilação atrial. Os
+AVE embólicos também podem estar associados a valvopatia cardíaca e trombos no ventrículo esquerdo. Os
+êmbolos originam­se do coração e circulam até a vasculatura cerebral, mais comumente a artéria cerebral média
+esquerda, resultando em AVE, que se for do tipo embólico pode ser evitado com o uso de anticoagulante em
+clientes com fibrilação atrial.
+As últimas duas classificações dos AVEs isquêmicos são os criptogênicos, que não têm nenhuma origem
+conhecida, e os de outras causas, como uso de drogas ilícitas, coagulopatias, enxaqueca, dissecção espontânea das
+artérias carótida ou vertebral.
+Fisiopatologia
+Em um ataque cerebral isquêmico, ocorre interrupção do fluxo sanguíneo cerebral, dada a obstrução de um vaso
+sanguíneo. Essa interrupção do fluxo sanguíneo desencadeia uma complexa série de eventos metabólicos celulares,
+conhecidos como cascata isquêmica (Figura 67.1).
+A cascata isquêmica começa quando o fluxo sanguíneo cerebral diminui para menos de 25 mℓ por 100 g de
+sangue por minuto. Nesse ponto, os neurônios não são mais capazes de manter a respiração aeróbica. As
+mitocôndrias precisam passar, então, para a respiração anaeróbica, que produz grandes quantidades de ácido láctico,
+causando alteração no pH. Essa mudança para a respiração anaeróbica menos eficiente também torna o neurônio
+incapaz de produzir quantidades suficientes de trifosfato de adenosina (ATP) para preservar os processos de
+despolarização. As bombas da membrana que mantêm o equilíbrio eletrolítico começam a falhar, e as células param
+de funcionar.
+No início da cascata, há uma área de baixo fluxo sanguíneo cerebral, conhecida como região de penumbra, em
+torno da área do infarto, a qual consiste em tecido cerebral isquêmico, que pode se recuperado com intervenção no
+momento apropriado. A cascata isquêmica ameaça as células na penumbra, visto que a despolarização da membrana
+da parede celular leva a um aumento do cálcio intracelular e à liberação de glutamato. O influxo de cálcio e a
+liberação de glutamato, se forem continuados, ativam diversas vias causadoras de lesão, que resultam na destruição
+da membrana celular, liberação de mais cálcio e mais glutamato, vasoconstrição e produção de radicais livres. Esses
+processos aumentam a área do infarto na penumbra, ampliando o AVE. Uma pessoa geralmente perde 1,9 milhão de
+neurônios a cada minuto no AVE não tratado, e o encéfalo isquêmico envelhece 3,6 anos a cada hora sem tratamento
+(Saver, 2006).
+•
+•
+•
+•
+•
+Figura 67.1 Alguns dos processos que contribuem para a lesão isquêmica das células cerebrais.
+Cada etapa da cascata isquêmica representa uma oportunidade de intervenção para limitar a extensão da lesão
+cerebral secundária causada pelo AVE. A área de penumbra pode ser revitalizada pela administração do ativador de
+plasminogênio tecidual (t­PA). Os medicamentos que protegem o encéfalo contra a lesão secundária são
+denominados neuroprotetores. Diversos ensaios clínicos em andamento estão se concentrando no desenvolvimento
+de medicamentos neuroprotetores e de estratégias para melhorar a recuperação e a sobrevida nos AVE (Fisher,
+2011).
+Manifestações clínicas
+Um AVE isquêmico pode causar ampla variedade de déficits neurológicos, dependendo da localização da lesão
+(quais os vasos sanguíneos que estão obstruídos), do tamanho da área de perfusão inadequada e da quantidade fluxo
+sanguíneo colateral (secundário ou acessório). (Ver discussão sobre a anatomia e a irrigação sanguínea cerebral no
+Capítulo 65.) O cliente pode apresentar qualquer um dos seguintes sinais e sintomas:
+Dormência ou fraqueza da face, do braço ou da perna, particularmente em um lado do corpo
+Confusão ou alteração do estado mental
+Dificuldade de falar ou de compreender a fala
+Distúrbios visuais
+Dificuldade de caminhar, tontura ou perda do equilíbrio ou da coordenação
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Cefaleia intensa e súbita.
+As funções motoras, sensoriais, dos nervos cranianos, cognitivas e outras funções podem estar
+comprometidas. A Tabela 67.2 fornece uma revisão dos déficits neurológicos, frequentemente observados em
+clientes com AVE. A Tabela 67.3 compara os sintomas e comportamentos observados nos AVEs do hemisfério
+direito com os que ocorrem no hemisfério esquerdo.
+TABELA 67.2 Dé䍀䗑cits neurológicos do acidente vascular encefálico |Manifestações e implicações para a enfermagem.
+Dé䍀䗑cit neurológico Manifestação Implicações para a enfermagem/Aplicações na orientação ao cliente
+Dé䍀䗑cits do campo visual
+Hemianopsia(perdade metadedo
+campovisual) homônima
+Ausênciadeconsciênciadas
+pessoasoudosobjetosdoladoda
+perdavisual
+Negligênciadeum dos ladosdo
+corpo
+Di䍀䗑culdade naavaliaçãode
+distâncias
+Colocarosobjetosdentrodocampointactodavisão.
+Abordaroclientepeloladodocampointactodavisão.
+Instruir/lembraroclienteparaviraracabeça nadireçãodaperdavisualpara
+compensaraperdadocampovisual.
+Estimularousodeóculos,quandodisponível.
+Quandofororientarocliente, fazê-lodentrodeseucampovisual intacto.
+Perdadavisãoperiférica
+Di䍀䗑culdadeem enxergarà noite
+Ausênciadeconsciênciade
+objetosoudasbordasdesses
+Colocarosobjetos nocentrodocampovisual intactodocliente.
+Incentivarousodeumabengalaoudeoutrodispositivoparaidenti䍀䗑carobjetos
+naperiferiadocampovisual.
+É necessárioavaliaracapacidadededirigir.
+Diplopia
+Visãodupla
+Explicaraoclientealocalizaçãodeum objetoquandocolocadopróximo.
+Colocar, com coerência,osobjetospessoaisdocliente no mesmolugar.
+Dé䍀䗑citsmotores
+Hemiparesia
+Fraquezadaface,braçoeperna
+do mesmolado(por causade
+lesãodo hemisfériooposto)
+Colocarobjetosaoalcancedocliente nolado nãoafetado.
+Instruiroclientesobrea necessidadedefazerexercícioseaumentaraforçado
+lado nãoafetado.
+Hemiplegia
+Paralisiadeface,braçoepernado
+mesmolado(por causadelesão
+do hemisfériooposto)
+Estimularoclientearealizarexercíciosdeamplitudede movimento nolado
+afetado.
+Proporcionar imobilização,quando necessário,doladoafetado.
+Manteroalinhamentodocorpo naposiçãofuncional.
+Exercitaro membro nãoafetadoparaaumentara mobilidade,aforçaeouso.
+Ataxia
+Marchacambaleanteeinstável
+Incapacidadede manterospés
+juntos; necessidadedebase
+amplaparapermanecerem pé
+Apoiaroclienteduranteafasededeambulaçãoinicial.
+Proporcionarum dispositivodesuporteparaadeambulação(andador,bengala).
+Instruiroclientea nãocaminhar sem assistênciaoudispositivodeapoio.
+Disartria
+Di䍀䗑culdadeem formarpalavras
+Ofereceraocliente métodosalternativosdecomunicação.
+Proporcionaraoclientetemposu䍀䗑cientepararesponderàcomunicaçãoverbal.
+Apoiaroclienteeseus familiaresparaaliviarafrustraçãorelacionadacom a
+di䍀䗑culdadedecomunicação.
+Disfagia
+Di䍀䗑culdade nadeglutição
+Testaros re䍋䗑exos faríngeosdoclienteantesdeofereceralimentosoulíquidos.
+Ajudaroclientecom as refeições.
+Colocaroalimento nolado nãoafetadodaboca.
+Proporcionar temposu䍀䗑cienteparacomer.
+Dé䍀䗑citssensoriais
+Parestesia(ocorre noladoopostoda Instruiroclientesobreofatodequeasensaçãopodesealterar.
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+lesão)
+Sensaçãodedormência,
+formigamentoou“agulhadas”
+Di䍀䗑culdadedepropriocepção
+Proporcionaramplitudede movimentodasáreasafetadaseaplicardispositivos
+corretivos,quando necessário.
+Dé䍀䗑citsverbais
+Afasiaexpressiva
+Incapacidadedeformarpalavras
+compreensíveis;possibilidadede
+falardandorespostas
+monossilábicas
+Incentivaroclientearepetiros sonsdoalfabeto.
+Exploraracapacidadedoclientedeescrever como meioalternativode
+comunicação.
+Afasiareceptiva
+Incapacidadedecompreendera
+palavrafalada;possibilidadede
+falar, maspodeser sem sentido
+Falar lentaeclaramenteparaajudaroclienteaformaros sons.
+Exploraracapacidadedoclientedeler como meioalternativodecomunicação.
+Afasiaglobal (mista)
+Combinaçãodeafasiareceptivae
+expressiva
+Falar claramenteecom frases simples;usargestosou 䍀䗑gurasquandofor capaz.
+Estabelecer meiosalternativosdecomunicação.
+Dé䍀䗑citscognitivos
+Perdade memóriadecurtoea
+longoprazo
+Diminuiçãodotempodeatenção
+Comprometimentodacapacidade
+deconcentração
+Raciocínioabstratode䍀䗑ciente
+Alteraçãodojulgamento
+Reorientar com frequênciaoclientequantoaotempo,aoespaçoeàsituação.
+Usarpistasverbaiseauditivasparaorientarocliente.
+Oferecerobjetos familiares (fotogra䍀䗑asdafamília,objetos favoritos).
+Usar linguagem simples.
+Fazer corresponderas tarefasvisuais com umapistaverbal; segurarumaescova
+dedentes, simularaescovaçãodosdentesenquantodiz: “eugostariaque
+vocêescovasseosdentesagora”.
+Reduzirao mínimoos ruídoseasvisõesquecausam distraçãoenquantoestiver
+orientandoocliente.
+Repetirereforçar frequentementeas instruções.
+Dé䍀䗑cits emocionais
+Perdadoautocontrole
+Labilidadeemocional
+Tolerânciadiminuídaasituações
+estressantes
+Depressão
+Isolamento
+Medo, hostilidadeeraiva
+Sentimentosdeisolamento
+Apoiaroclientedurantecrises incontroláveis.
+Explicaraoclienteeaseus familiaresofatodequeas crises sãocausadaspelo
+processopatológico.
+Estimularoclienteaparticipardeatividadesem grupo.
+Motivarocliente.
+Controlar situaçõesestressantes, sepossível.
+Oferecerambienteseguro.
+Incentivaroclienteaexpressar sentimentosefrustrações relacionados com o
+processopatológico.
+TABELA 67.3 Comparação entre acidente vascular encefálico do hemisfério esquerdo e do direito.
+AVE do hemisfério esquerdo AVE do hemisfério direito
+Paralisiaoufraqueza noladodireitodocorpo Paralisiaoufraqueza noladoesquerdodocorpo
+Dé䍀䗑citdocampovisualdireito Dé䍀䗑citdocampovisualesquerdo
+Afasia(expressiva, receptivaouglobal) Dé䍀䗑citsperceptivosespaciais
+Alteraçãodacapacidadeintelectual Aumentodacapacidadededistração
+Comportamentolentoecauteloso Comportamentoimpulsivoejulgamentode䍀䗑ciente
+Faltadepercepçãodosdé䍀䗑cits
+Adaptada de Hickey JV. The clinical practice of neurological nursing (6th ed., p. 600). Philadelphia: Lippincott Williams &
+Wilkins, 2009.
+•
+•
+•
+Perda motora
+O AVE é uma lesão do neurônio motor superior, que resulta em perda do controle voluntário sobre os movimentos
+motores. Como os neurônios motores superiores sofrem decussação (cruzamento), a ocorrência de um distúrbio do
+controle motor voluntário em um lado do corpo pode refletir a lesão aos neurônios motores superiores no lado
+oposto do encéfalo. A disfunção motora mais comum é a hemiplegia (paralisia de um lado do corpo ou de parte
+dele) causada por lesão no lado oposto do encéfalo. A hemiparesia ou fraqueza de um lado do corpo ou de parte
+dele constitui outro sinal. O conceito de lesão dos neurônios motores superiores e inferiores é descrito de modo
+mais detalhado na Tabela 65.4.
+No estágio inicial do AVE, as manifestações clínicas iniciais podem consistir em paralisia flácida e perda ou
+diminuição dos reflexos tendinosos profundos. Quando esses reflexos profundos reaparecem (habitualmente em 48
+h), observa­se um aumento do tônus, juntamente com espasticidade (aumento anormal do tônus muscular) dos
+membros no lado afetado.
+Perda da comunicação
+Outras funções cerebrais afetadas pelo AVE são a linguagem e a comunicação. De fato, o AVE constitui a causa
+mais comum de afasia (incapacidade de se expressar ou de compreender a linguagem). As disfunções da linguagem
+e da comunicação são as seguintes:
+Disartria (dificuldade em falar), causada pela paralisia dos músculos responsáveis pela produção da fala
+Disfagia (comprometimento da fala) ou afasia, que pode consistir em afasia expressiva (incapacidade de se
+expressar), afasia receptiva (incapacidade de compreender a linguagem) ou afasia global (mista) (ver Tabela
+65.5)
+Apraxia (incapacidade de realizar ação aprendida anteriormente), como a que pode ser observada quando um
+cliente faz substituições verbais para sílabas ou palavras desejadas.
+Distúrbios perceptivos
+A percepção é a capacidade de interpretar a sensação. O AVE pode resultar em disfunções perceptivas visuais,
+distúrbios nas relações visuoespaciais e perda sensorial.
+As disfunções perceptivas visuais são causadas por distúrbios nas vias sensoriais primárias entre o olho e o
+córtex visual. A hemianopsia (cegueira em metade do campo visual) homônima pode ocorrer em virtude de um
+AVE e pode ser temporária ou permanente. O lado da visão afetado corresponde ao lado paralisado do corpo.
+Os distúrbios das relações visuoespaciais (percepção da relação entre dois ou mais objetos em áreas espaciais)
+são frequentemente observados em clientes com lesão do hemisfério direito.
+Perda sensorial
+As perdas sensoriais em decorrência de AVE podem se apresentar como um comprometimento leve do toque, ou
+podem ser mais graves, com perda da propriocepção (capacidade de perceber a posição e o movimento de partes do
+corpo), bem como dificuldade na interpretação dos estímulos visuais, táteis e auditivos. As agnosias são déficits na
+capacidade de reconhecer objetos anteriormente familiares percebidos por um ou mais dos sentidos (ver Tabela
+65.6).
+Comprometimento cognitivo e efeitos psicológicos
+Caso tenha ocorrido lesão ao lobo frontal, pode haver comprometimento da capacidade de aprendizagem, da
+memória ou de outras funções intelectuais corticais superiores. Essa disfunção pode refletir­se em redução do
+tempo de atenção, dificuldades na compreensão, esquecimento e falta de motivação. Essas alterações podem fazer
+com que o cliente se torne facilmente frustrado durante a reabilitação. A depressão é comum e pode ser exacerbada
+pela resposta natural do cliente a esse evento catastrófico. Podem ocorrer labilidade emocional, hostilidade,
+frustração, ressentimento, falta de cooperação e outros problemas psicológicos.
+Avaliação e achados diagnósticos
+Em todo cliente com déficits neurológicos, é preciso obter uma história cuidadosa e realizar um exame físico e
+neurológico completo. A avaliação inicial concentra­se na permeabilidade das vias respiratórias, que pode estar
+comprometida pela perda dos reflexos do vômito, ou da tosse, ou pela alteração do padrão respiratório; no estado
+cardiovascular (incluindo pressão arterial, frequência e ritmos cardíacos, sopro carotídeo); e nos déficits
+neurológicos evidentes.
+Os clientes podem chegar à instituição de cuidados críticos com sintomas neurológicos temporários. Um
+ataque isquêmico transitório (AIT) é um déficit neurológico, geralmente com menos de 1 h de duração. O AIT
+manifesta­se por perda súbita das funções motora, sensorial ou visual. Os sintomas resultam da isquemia
+temporária (comprometimento do fluxo sanguíneo) de uma região específica do encéfalo; entretanto, quando são
+realizados exames de imagem do encéfalo, não há sinais de isquemia. O AIT pode servir como alerta de acidente
+vascular encefálico (AVE) iminente. Cerca de 15% de todos os casos de AVE são precedidos de AIT (Roger et al.,
+2012). A falta de avaliação e tratamento de um cliente que sofreu AITs prévios pode resultar em AVE e déficits
+irreversíveis.
+O exame complementar inicial para o AVE consiste habitualmente em uma tomografia computadorizada (TC)
+sem contraste, a qual deve ser realizada em 25 min ou menos após a chegada do cliente no serviço de emergência
+(SE) para determinar se o evento é isquêmico ou hemorrágico (a categoria de AVE determina o tratamento). A
+investigação diagnóstica adicional para o AVE isquêmico envolve a tentativa de identificar a fonte dos trombos ou
+êmbolos. Os exames padrão consistem em um eletrocardiograma (ECG) de 12 derivações e em uma
+ultrassonografia das carótidas. Outros exames podem incluir angitomografia computadorizada ou perfusão por TC;
+ressonância magnética (RM) e angiorressonância magnética dos vasos cerebrais e do pescoço; Doppler
+transcraniano; ecocardiografia transtorácica ou transesofágica; TC intensificada com xenônio; e tomografia
+computadorizada por emissão de fóton único (Jauch, Cucchiara, Adeoye et al., 2010; Jauch, Saver, Adams et al.,
+2013; Summers, Leonard, Wentworth et al., 2009).
+Prevenção
+A prevenção primária do AVE isquêmico continua sendo a melhor abordagem. Um estilo de vida saudável,
+incluindo não fumar, manter um peso saudável, seguir uma dieta saudável (inclusive consumo modesto de bebidas
+alcoólicas) e exercícios regulares, pode reduzir o risco de AVE (Towfight, 2011). A possibilidade de ocorrer
+coronariopatia e AVE diminuiu tanto em homens quanto em mulheres com a dieta Dietary Approaches to Stop
+Hypertension (DASH), a qual é rica em frutas e vegetais, moderada em produtos derivados do leite com baixo teor
+de gordura e pobre em proteínas animais (apresenta quantidade substancial de proteínas vegetais oriundas de
+legumes e castanhas). Há evidências amplas para a incorporação de uma orientação sobre a dieta DASH nos
+programas de risco do AVE (Satterfield, Anderson, e Moore, 2012).
+As triagens para risco de AVE proporcionam uma oportunidade ideal para reduzir o risco desse distúrbio,
+identificando pessoas ou grupos de pessoas que correm alto risco de AVE e orientando os clientes e a comunidade
+sobre o reconhecimento e a prevenção do AVE. Os achados de pesquisa sugerem que o ácido acetilsalicílico em
+baixa dose pode reduzir o risco de um primeiro AVE em pessoas com fatores de risco (Goldstein, Bushnell, Adams
+et al., 2011).
+A idade, o gênero e a raça constituem fatores de risco não modificáveis bem conhecidos para o AVE. Os
+grupos de alto risco incluem pessoas com mais de 55 anos de idade, e a incidência de AVE aumenta mais que o
+dobro a cada década sucessiva. Os homens apresentam uma taxa ajustada para a idade de AVE mais alta que as
+mulheres. Entretanto, a magnitude do AVE nas mulheres não deve ser subestimada; 1 em cada 6 mulheres morre de
+AVE, em comparação com 1 em 25 por câncer de mama (Ennen, 2013; Goldstein et al., 2011). Outro grupo de alto
+risco é o dos afrodescendentes; a incidência do primeiro AVE nesses indivíduos é quase duas vezes maior que a de
+pessoas de raça branca (Roger et al., 2012).
+São muitos os fatores de risco para o AVE isquêmico (Boxe 67.1). Para pessoas que correm alto risco,
+intervenções que alterem os fatores modificáveis, como tratamento da hipertensão arterial e da hiperglicemia e
+suspensão do tabagismo, reduzem o risco de AVE.
+Outras condições passíveis de tratamento, que aumentam o risco de AVE, incluem a doença falciforme e
+valvopatias (p. ex., endocardite, próteses de valvas cardíacas). A doença periodontal também foi ligada ao risco de
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+AVE. A associação entre a doença periodontal e o AVE pode resultar da resposta inflamatória do hospedeiro e da
+infecção bacteriana crônica, porém o mecanismo exato envolvido ainda não está totalmente elucidado. A doença
+periodontal é uma condição passível de tratamento e prevenção. O lúpus eritematoso sistêmico e a artrite
+reumatoide são outras condições inflamatórias crônicas que foram associadas a um risco aumentado de AVE
+(Goldstein et al., 2011).
+Boxe
+67.1
+FATORES DE RISCOMODIFICÁVEIS
+Acidente vascular encefálico isquêmico
+Hipertensãoarterial (ocontroleda hipertensãoarterial,oprincipal fatorderisco,éessencialparaaprevençãodo AVE)
+Fibrilaçãoatrial
+Dislipidemia
+Diabetes melito(associadoàaterogêneseacelerada)
+Tabagismo
+Estenoseassintomáticadacarótida
+Obesidade
+Sedentarismo
+Apneiadosono
+Consumoexcessivodebebidasalcoólicas
+Doençaperiodontal
+Adaptado de Goldstein L, Bushnell C, Adams R et al. (2011) Guidelines for the primary prevention of stroke: A guideline for
+healthcare professionals from the American Heart Association/American Stroke Association. Stroke, 42(2), 517­584.
+Foram identificados diversos métodos de prevenção de AVE recorrente para clientes com AIT ou com AVE
+isquêmico. Os clientes com estenose moderada a grave da carótida são tratados com endarterectomia de carótida
+(EAC) ou angioplastia da carótida e colocação de stent. Nos clientes com fibrilação atrial, que aumenta o risco de
+embolia, a administração de um anticoagulante que inibe a formação de coágulos pode impedir os AVE tanto
+trombóticos quanto embólicos (Furie, Kasner, Adams et al., 2011).
+Manejo clínico
+Os clientes que sofrem AIT ou AVE devem receber manejo clínico para prevenção secundária. Aqueles com
+fibrilação atrial (ou AVE cardioembólicos) são tratados com varfarina com doses ajustadas, tendo como alvo uma
+razão normalizada internacional (RNI) de 2 a 3. Outros anticoagulantes mais recentes, que podem ser prescritos
+como fármacos alternativos, incluem dabigatrana ou rivaroxabana, a não ser que estejam contraindicados. Se o uso
+de anticoagulantes estiver contraindicado, o ácido acetilsalicílico é a melhor opção, embora outros medicamentos
+possam ser usados se ambos estiverem contraindicados (Furie, Goldstein, Albers et al., 2012; Furie et al., 2011).
+Os medicamentos inibidores das plaquetas, incluindo ácido acetilsalicílico, o dipiridamol de liberação
+prolongada mais ácido acetilsalicílico e o clopidogrel, diminuem a incidência de infarto cerebral em clientes que
+sofreram AIT e AVE em consequência de causas embólicas ou trombóticas suspeitas. O medicamento específico
+utilizado baseia­se na história de saúde do cliente.
+As pesquisas sugerem que os medicamentos conhecidos como estatinas reduzem os eventos coronarianos e a
+ocorrência de AVE, particularmente em clientes que também apresentam diabetes melito (de Vries, Denig, Pauwels
+et al., 2012). Os benefícios observados foram independentes dos níveis de colesterol, e, hoje em dia, esses
+medicamentos são amplamente usados para a prevenção do AVE. A FDA incluiu indicações para as estatinas, como
+a sinvastatina, para incluir a prevenção secundária do AVE. Após o período crítico do AVE, são também utilizados
+medicamentos anti­hipertensivos, quando indicados, para a prevenção secundária do AVE (Furie et al., 2011).
+Uma pesquisa em andamento está se concentrando nos diversos aspectos do manejo clínico do AVE isquêmico
+agudo (Jauch et al., 2013). A FDA aprovou dispositivos de recuperação de coágulo, que dilatam a artéria bloqueada
+e restabelecem o fluxo sanguíneo para o encéfalo. Esses dispositivos incluem um específico cujo formato se
+•
+•
+•
+•
+•
+•
+•
+assemelha a um minúsculo saca­rolha, um outro que utiliza aspiração e um terceiro que usa um stent para
+comprimir e aprisionar o coágulo.
+Terapia trombolítica
+São utilizados agentes trombolíticos para tratar o AVE isquêmico por meio de dissolução do coágulo sanguíneo que
+está bloqueando o fluxo sanguíneo para o encéfalo. O t­PA recombinante é um tipo de t­PA (uma substância
+trombolítica produzida naturalmente pelo corpo) obtido por engenharia genética (Karch, 2012). Atua por meio de
+sua ligação à fibrina e conversão do plasminogênio em plasmina, que estimula a fibrinólise do coágulo. O rápido
+diagnóstico de AVE e a instituição da terapia trombolítica (em 3 h) em clientes com AVE isquêmico levam a
+diminuição no tamanho do AVE e a melhora global do resultado funcional após 3 meses (Jauch et al., 2013;
+NINDS, 1995). A meta consiste na administração de t­PA por via intravenosa (IV) no intervalo de 60 min após a
+chegada do cliente ao SE (Jauch et al., 2010). A administração intra­arterial de t­PA é uma alternativa para a sua
+administração por via parenteral. Esse tipo de administração pode possibilitar a administração direta de uma
+concentração maior do fármaco ao coágulo, e a janela de tempo para o tratamento pode ser ampliada para 6 h. Os
+clientes não elegíveis para administração por via intravenosa podem ser elegíveis para a via intra­arterial, e esses
+métodos também podem ser combinados. O tratamento com a via intra­arterial precisa ser realizado em centros
+especializados com acesso à angiografia cerebral de urgência e centros cirúrgicos intervencionistas (Jauch et al.,
+2013; Summers et al., 2009). Ensaios clínicos em andamento continuam investigando a eficácia de outros agentes
+trombolíticos.
+Para obter todo o potencial da terapia trombolítica, é necessária uma orientação comunitária direcionada para o
+reconhecimento precoce dos sinais do AVE e a obtenção de cuidados de urgência apropriados para assegurar o
+rápido transporte do cliente a um hospital e o início da terapia no período recomendado de 3 h (que pode se estender
+para 4,5 h em alguns centros de AVE) (Del Zoppo et al., 2009). Os atrasos tornam o cliente não elegível para a
+terapia trombolítica, visto que a revascularização do tecido necrótico (que se desenvolve depois de 3 h) aumenta o
+risco de edema e hemorragias cerebrais.
+Melhora do diagnóstico imediato
+Após ter sido notificado pela equipe do serviço médico de urgência, o SE entra em contato com a equipe apropriada
+(neurologista, neurorradiologista, departamento de radiologia, equipe de enfermagem, técnicos de ECG e
+laboratório) e os informa da chegada iminente do cliente ao hospital. Muitas instituições contam com equipes de
+AVE agudo que respondem rapidamente, assegurando a instituição do tratamento dentro do período estabelecido
+(AANN, 2011).
+O manejo inicial exige o diagnóstico definitivo de AVE isquêmico por meio de exame de imagem cerebral e
+história cuidadosa para determinar se o cliente preenche os critérios para a terapia com t­PA (Boxe 67.2). A meta é
+que os resultados diagnósticos dos exames de imagem sejam obtidos 25 min após a chegada do cliente ao SE
+(Jauch et al., 2010). Algumas das contraindicações da terapia trombolítica incluem o início dos sintomas com mais
+de 3 h antes da admissão (que pode se estender para 4,5 h em alguns centros), cliente em uso de anticoagulante
+(com RNI acima de 1,7) ou cliente que recentemente apresentou algum tipo de patologia intracraniana (p. ex., AVE
+prévio, traumatismo cranioencefálico, traumatismo).
+Boxe
+67.2
+Critérios de elegibilidade para a administração de ativador do plasminogênio tecidual
+Idade ≥ 18anos
+Diagnósticoclínicodeacidentevascularencefálico(AVE) isquêmico
+O momentodeiníciodo AVEéconhecidoeestádeacordocom asdiretrizesdocentro
+Pressãoarterial sistólica ≤ 185 mmHg;diastólica ≤ 110 mmHg
+Nãosetratade AVEde menorgravidade, nem deresoluçãorápida
+Ausênciadeconvulsão noiníciodo AVE
+Nãofazusodevarfarina
+•
+•
+•
+•
+•
+•
+•
+Tempodeprotrombina ≤ 15sourazão normalizadainternacional ≤ 1,7
+Nãorecebeu heparina nasúltimas48 h com tempodetromboplastinaparcialprolongado
+Contagem deplaquetas ≥ 100.000/mm
+3
+Ausênciade hemorragiaintracraniana, neoplasia, malformaçãoarteriovenosaouaneurisma
+Nãofoi submetidoa nenhum procedimentocirúrgicodegrandeporte nosúltimos14dias
+Nãoapresentou AVE, traumatismocranioencefálicograveoucirurgiaintracraniana nosúltimos3 meses
+Ausênciadesangramentogastrintestinalouurinário nosúltimos21dias
+Adaptado de Adams HP, Zoppo G, Alberts MJ et al. (2007) Guidelines for the early management of patients with ischemic
+stroke. A guideline from the American Heart Association/American Stroke Association Stroke Council, Clinical Cardiology
+Council, Cardiovascular Radiology and Intervention Council, and the Atherosclerotic Peripheral Vascular Disease and
+Quality of Care Outcomes in Research Interdisciplinary Working Groups. Stroke, 38(5), 1655­1711.
+Antes de receber o t­PA, o cliente é avaliado utilizando a National Institutes of Health Stroke Scale (NIHSS),
+uma ferramenta padronizada que ajuda a mensurar a gravidade do AVE (Tabela 67.4). Os escores totais da NIHSS
+variam de 0 (normal) a 42 (grave). A certificação na administração da escala é recomendada e está disponível para
+enfermeiras e outros profissionais de saúde.
+2
+Dosagem e administração
+O cliente é pesado para determinar a dosagem de t­PA. Em geral, são estabelecidos dois ou mais locais IV antes da
+administração do t­PA (um para o t­PA e o outro para a administração de soluções intravenosas). A dose de t­PA é
+de 0,9 mg/kg, com dose máxima de 90 mg. São administrados 10% da dose calculada como bolus IV durante 1
+min. A dose remanescente (90%) é administrada por via intravenosa durante 1 h por meio de uma bomba de infusão
+(Summers et al., 2009).
+O cliente é admitido na unidade de terapia intensiva ou em uma unidade de AVE agudo, na qual são realizados
+monitoramento cardíaco contínuo e avaliações neurológicas frequentes. Os sinais vitais são obtidos com frequência,
+dispensando atenção particular para a pressão arterial (com a meta de reduzir o risco de hemorragia intracraniana).
+Um exemplo de protocolo padrão seria obter os sinais vitais a cada 15 min nas primeiras 2 h, a cada 30 min nas 6 h
+seguintes e, em seguida, a cada hora até 24 h após o tratamento. A pressão arterial deve ser mantida com uma
+pressão sistólica inferior a 180 mmHg e uma pressão diastólica abaixo de 105 mmHg (Summers et al., 2009). O
+manejo das vias respiratórias é instituído, com base na condição clínica do cliente e nos valores da gasometria
+arterial.
+Efeitos colaterais
+Uma vez estabelecido o cliente como candidato para a terapia com t­PA, nenhum agente anticoagulante deve ser
+administrado nas próximas 24 h. O sangramento constitui o efeito colateral mais comum da administração de t­PA,
+e o cliente é rigorosamente monitorado para qualquer sangramento (locais de inserção intravenosa, local do cateter
+urinário, tubo endotraqueal, tubo nasogástrico, urina, fezes, vômitos, outras secreções). Recomenda­se adiar em 24
+h a colocação de tubo nasogástrico, cateteres urinário e de pressão intra­arterial. O sangramento intracraniano
+constitui uma importante complicação, que ocorreu em aproximadamente 6,4% dos clientes no estudo inicial do tPA (NINDS, 1995). Diversos fatores estão associados à ocorrência de sangramento intracraniano sintomático: idade
+acima dos 70 anos, escore basal de NIHSS superior a 20, concentração sérica de glicose de 300 mg/dℓ ou mais, e
+edema ou efeito de massa observado na TC inicial do cliente (NINDS, 1995).
+Terapia para clientes com acidente vascular encefálico isquêmico que não recebem
+ativador do plasminogênio tecidual
+Nem todos os clientes são candidatos à terapia com t­PA. Em alguns centros, outros tratamentos podem incluir a
+administração de anticoagulantes (heparina intravenosa ou heparina de baixo peso molecular). Em razão dos riscos
+associados à anticoagulação, seu uso geral não é mais recomendado para clientes com AVE isquêmico agudo (Jauch
+et al., 2013).
+A manutenção cuidadosa da hemodinâmica cerebral para manter a perfusão cerebral é de suma importância
+•
+•
+•
+•
+•
+•
+1a.
+1b.
+após a ocorrência de AVE. É possível que a pressão intracraniana (PIC) se eleve em consequência de edema e
+complicações associadas após um AVE isquêmico de grande proporção. As intervenções durante esse período
+incluem medidas para reduzir a PIC, como a administração de um diurético osmótico (p. ex., manitol) e a
+manutenção da pressão parcial de dióxido de carbono arterial (PaCO2) dentro de uma faixa ligeiramente mais baixa
+de 30 a 35 mmHg. Outras medidas terapêuticas incluem as seguintes:
+Administração de oxigênio suplementar, se a saturação de oxigênio for inferior a 92%
+Elevação da cabeceira do leito a 25 a 30° para ajudar o cliente a eliminar as secreções orais e diminuir a pressão
+intracraniana
+Possível realização de hemicraniectomia para a PIC elevada em consequência de edema cerebral em um AVE
+muito de grande proporção
+Entubação com tubo endotraqueal para estabelecer uma via respiratória pérvia, quando necessário
+Monitoramento hemodinâmico contínuo (as metas para a pressão arterial permanecem controvertidas para o
+cliente que não recebeu terapia trombolítica; o tratamento anti­hipertensivo pode ser suspenso, a não ser que a
+pressão arterial sistólica ultrapasse 220 mmHg, ou a pressão arterial diastólica exceda 120 mmHg)
+Avaliação neurológica frequente para determinar se o AVE está evoluindo, e se há desenvolvimento de outras
+complicações críticas. (Essas podem incluir convulsões, sangramento em consequência do uso de
+anticoagulantes, ou bradicardia induzida por medicamentos, que pode resultar em hipotensão e diminuição
+subsequente do débito cardíaco e da pressão de perfusão cerebral.)
+Manejo de complicações potenciais
+O fluxo sanguíneo cerebral adequado é essencial para a oxigenação do cérebro. Quando o fluxo sanguíneo cerebral é
+inadequado, a quantidade de oxigênio suprida para o encéfalo diminui, com consequente isquemia tecidual. A
+oxigenação adequada começa com cuidados pulmonares, manutenção de uma via respiratória pérvia e administração
+de oxigênio suplementar, quando necessário. Não se pode superestimar a importância da troca gasosa adequada
+nesses clientes, visto que muitos deles correm risco de pneumonia por aspiração.
+Outras possíveis complicações após um AVE incluem infecções urinárias, arritmias cardíacas (ectopia
+ventricular, taquicardia e bloqueio cardíaco) e complicações da imobilidade. A hiperglicemia tem sido associada a
+resultados neurológicos precários no AVE agudo e deve ser tratada se o nível de glicemia for superior a 140 mg/dℓ
+(Summers et al., 2009).
+Prevenção cirúrgica do acidente vascular encefálico isquêmico
+O principal procedimento cirúrgico para clientes selecionados com AIT e AVE leve é a EAC, que constitui, na
+atualidade, o procedimento vascular não cardíaco realizado com mais frequência. A EAC consiste na remoção de
+uma placa aterosclerótica ou trombo da artéria carótida para impedir a ocorrência de AVE em clientes com doença
+oclusiva das artérias cerebrais extracranianas (Figura 67.2). Essa cirurgia está indicada para clientes com sintomas
+de AIT ou AVE leve (ou para aqueles sem sintomas) que apresentam estenose grave da artéria carótida (70 a 99%)
+ou estenose moderada (50 a 69%) com outros fatores de risco significativos.
+TABELA 67.4 Resumo da escala de acidente vascular encefálico de National Institutes of Health.
+Categoria Descrição Escore
+NDC
+Alerta
+Passíveldeserativadoporestímulo mínimo
+Obnubilado, necessidadedeestimulaçãofortepararesponder
+Nãoresponsivo,ourespostas re䍋䗑exasapenas
+0
+1
+2
+3
+Perguntas sobreoNDC(mês, idade)
+Respondecorretamenteaambas
+Respondecorretamenteaapenasuma
+Ambas incorretas
+0
+1
+2
+1c.
+2.
+3.
+4.
+5a.
+5b.
+6a.
+6b.
+ComandosdoNDC(abrir, fecharosolhos; cerraropunho,abrira
+mão)
+Obedeceaambos corretamente
+Obedeceaapenasum corretamente
+Ambos incorretos
+0
+1
+2
+Melhorolhar (olhosabertos – oclienteacompanhadodedooua
+facedoexaminador)
+Normal
+Paralisiaparcialdoolhar
+Desvioforçado
+0
+1
+2
+Visual (introduzirum estímulovisual/ameaçaaosquadrantesdos
+camposvisuaisdocliente)
+Não háperdavisual
+Hemianopsiaparcial
+Hemianopsiacompleta
+Hemianopsiabilateral
+0
+1
+2
+3
+Paralisiafacial (mostrarosdentes,elevaras sobrancelhasefechar
+osolhos com força)
+Normal
+Mínima
+Parcial
+Completa
+0
+1
+2
+3
+Motor;braço – esquerdo(elevaro membroa90°e marcar
+desvio/movimento)
+Ausênciadedesvio
+Desvia,porém mantém obraço noar
+Incapazde manterobraço noar
+Nenhum esforçocontragravidade
+Ausênciade movimento
+Amputação, fusãoarticular (explicar)
+0
+1
+2
+3
+4
+N/A
+Motor;braço – direito(elevaro membroa90°e marcar
+desvio/movimento)
+Ausênciadedesvio
+Desvia,porém mantém obraço noar
+Incapazde manterobraço noar
+Nenhum esforçocontragravidade
+Ausênciade movimento
+Amputação, fusãoarticular (explicar)
+0
+1
+2
+3
+4
+N/A
+Motor;perna – esquerda(elevaro membroa30°e marcar
+desvio/movimento)
+Ausênciadedesvio
+Desvia,porém mantém aperna noar
+Incapazde manteraperna noar
+Nenhum esforçocontragravidade
+Ausênciade movimento
+Amputação, fusãoarticular (explicar)
+0
+1
+2
+3
+4
+N/A
+Motor;perna – direita(elevaro membroa30°e marcar
+desvio/movimento)
+Ausênciadedesvio
+Desvia,porém mantém aperna noar
+Incapazde manteraperna noar
+Nenhum esforçocontragravidade
+Ausênciade movimento
+0
+1
+2
+3
+7.
+8.
+9.
+10.
+11.
+Amputação, fusãoarticular (explicar) 4
+N/A
+Ataxiados membros (testededo-narizecalcanhar-canela)
+Ausente
+Presenteem um membro
+Presenteem ambosos membros
+0
+1
+2
+Sensorial (pontaagudadoabaixadordelíngua,agulha naface,
+braço, troncoeperna – compararum ladocom ooutro)
+Normal
+Perdalevea moderada
+Perdagraveatotal
+0
+1
+2
+Melhor linguagem (citar itens,descreveruma 䍀䗑guraeler frases)
+Sem afasia
+Afasialevea moderada
+Afasiagrave
+Mudo
+0
+1
+2
+3
+Disartria(avaliaraclarezadafalafazendooclienterepetirpalavras)
+Normal
+Disartrialevea moderada
+Disartriagrave,principalmenteininteligíveloupior
+Entubadoououtrabarreirafísica
+0
+1
+2
+N/A
+Extinçãoedesatenção(usarainformaçãodeexamespréviosparaa
+pontuação)
+Sem anormalidades
+Extinçãovisual, tátil,auditivaoudeoutrotipoparaestimulaçãobilateral
+simultânea
+Hemiatençãoprofundaouextinçãoa maisdeuma modalidade
+0
+1
+2
+Escoretotal
+NDC, nível de consciência; N/A, não aplicável.
+Adaptada da versão disponível em National Institute of Neurological Disorders and Stroke, National Institutes of Health,
+Bethesda, MD 20892, www.ninds.nih.gov/doctors/NIH_Stroke_Scale.pdf. Recomenda­se que seja usada a escala
+completa com todas as instruções.
+A colocação de stent na carótida, com ou sem angioplastia, é um procedimento menos invasivo, que é utilizado
+para clientes selecionados com estenose grave. Recentemente, os resultados obtidos com a colocação de stent na
+artéria carótida foram comparados com a EAC em um estudo que incluiu clientes com sintomas de AIT ou de AVE
+e aqueles sem sintomas (2.502 participantes). Esse estudo demonstrou resultados semelhantes a curto e a longo
+prazo em ambos os grupos. Os clientes jovens tiveram resultados ligeiramente melhores com o stent na carótida,
+enquanto os clientes de mais idade obtiveram resultados melhores com a EAC. Foi também constatado que
+ocorreram mais casos de AVE após o uso de stent, enquanto houve mais infartos do miocárdio após a EAC
+(Mantese, Timaran, Chiu et al., 2010).
+Manejo de enfermagem
+As principais complicações da EAC consistem em AVE, lesões de nervos cranianos, infecção ou hematoma na
+incisão e ruptura da artéria carótida. É importante manter níveis adequados de pressão arterial no período pósoperatório imediato. A hipotensão é evitada para impedir a ocorrência de isquemia e trombose cerebrais. A
+hipertensão não controlada pode precipitar hemorragia cerebral, edema, hemorragia na incisão cirúrgica ou ruptura
+da reconstrução arterial. São utilizados medicamentos para reduzir a pressão arterial para os níveis anteriores. É
+necessário realizar um monitoramento cardíaco rigoroso, visto que esses clientes frequentemente apresentam doença
+da artéria coronária concomitante.
+Após a EAC, utiliza­se um fluxograma neurológico (ver Figura 66.6) para monitorar e documentar os
+parâmetros de avaliação de todos os sistemas orgânicos, com atenção especial para o estado neurológico. O
+cirurgião é notificado imediatamente se houver desenvolvimento de déficit neurológico. Deve­se suspeitar de
+formação de um trombo no local da endarterectomia de carótida se houver um súbito início recente de déficits
+neurológicos, como fraqueza em um dos lados do corpo. O cliente deve estar preparado para repetir a
+endarterectomia de carótida.
+Figura 67.2 A placa, que constitui uma fonte potencial de embolia no ataque isquêmico transitório e no AVE, é
+cirurgicamente removida da artéria carótida.
+A dificuldade na deglutição, a ocorrência de rouquidão ou outros sinais de disfunção dos nervos cranianos
+devem ser considerados. A enfermeira concentra­se na avaliação dos seguintes nervos cranianos: nervo facial (VII),
+vago (X), espinal acessório (XI) e hipoglosso (XII). Deve­se esperar a formação de algum edema no pescoço após
+a cirurgia; todavia, o edema extenso e a formação de hematoma podem causar obstrução das vias respiratórias.
+Deve­se dispor de suprimentos de via respiratória de urgência, incluindo aqueles necessários para uma
+traqueostomia. A Tabela 67.5 fornece mais informações sobre as possíveis complicações da cirurgia de carótida.
+TABELA 67.5 Complicaçõesselecionadas da endarterectomia de carótida (EAC) e intervenções de enfermagem.
+Complicações Características Intervenções de enfermagem
+Hematoma naincisão Ocorreem 5,5%dos clientes. Os hematomasgrandesederápida
+expansãoexigem tratamentodeurgência.Se houver
+obstruçãodasvias respiratóriaspelo hematoma,aincisão
+podeser realizadaàbeiradoleito.
+Monitorarodesconfortocervicaleaexpansãodaferida. Relatar
+aocorrênciadeedema, sensaçãosubjetivadepressão no
+pescoço,di䍀䗑culdadederespirar.
+Hipertensão A hipertensão mal controladaaumentaoriscodecomplicações O riscoé maior nasprimeiras48 h apósacirurgia. Veri䍀䗑cara
+•
+•
+•
+•
+•
+•
+•
+pós-operatórias, incluindo hematomaesíndromede
+hiperperfusão. Observa-seumaincidênciaaumentadade
+comprometimento neurológicoe morteem consequênciade
+hemorragiaintracerebral.Podeestar relacionadacom
+anormalidades induzidas cirurgicamenteàsensibilidadedos
+barorreceptores caróticos.
+pressãoarterial com frequênciaerelatarquaisquerdesvios
+em relaçãoaosvaloresbasais. Observarerelatardé䍀䗑cits
+neurológicosdeiníciorecente.
+Hipotensãopós-operatória Ocorreem aproximadamente5%dos clientes. O tratamento
+consiste nainfusãodelíquidosefenilefrinaem baixadose.
+Regride habitualmenteem 24a48 h. Os clientes com
+hipotensãodevem realizareletrocardiogramas seriadospara
+excluirapossibilidadedeinfartodo miocárdio.
+Monitorarapressãoarterialeobservaràprocuradesinaise
+sintomasde hipotensão.
+Síndromede hiperperfusão Ocorrequandoaautorregulaçãodosvasos cerebrais falha. As
+artériasacostumadasao 䍋䗑uxosanguíneodiminuídopodem
+䍀䗑carpermanentementedilatadas;o 䍋䗑uxosanguíneo
+aumentadoapósaendarterectomiadecarótidaassociadoà
+vasoconstriçãoinsu䍀䗑cienteresultaem lesãoaoleitocapilar,
+edemae hemorragia.
+Observarquantoàocorrênciadecefaleiaunilateral intensa,que
+melhoracom aposiçãosentadaouem pé.
+Hemorragiaintracerebral Ocorreraramente; todavia,éfrequentementefatal (60%)ou
+resultaem gravecomprometimento neurológico.Podeser
+consequênciadasíndromede hiperperfusão. O riscoé
+aumentadocom idadeavançada, hipertensão,presençade
+estenosedealtograu, 䍋䗑uxocolateralde䍀䗑cientee 䍋䗑uxolento
+naregiãodaartériacerebral média.
+Monitoraroestado neurológicoerelatar imediatamente
+quaisqueralteraçõesdoestado mentaloudafunção
+neurológica.
+O manejo após a colocação de stent na carótida também exige monitoramento do estado neurológico e avaliação
+quanto à formação de hematoma (no local de cateterismo). O cateterismo é necessário para avaliação dos pulsos
+bilaterais distalmente ao local de cateterismo. Em geral, os clientes recebem alta no dia seguinte à colocação do
+stent, se não houver nenhuma complicação (Custer, 2009).
+PROCESSO DEENFERMAGEM
+Clientequeserecuperadeum acidentevascularencefálicoisquêmico
+A fase crítica de um AVE isquêmico pode durar de 1 a 3 dias, porém o monitoramento contínuo de todos os
+sistemas corporais é essencial enquanto o cliente necessitar de cuidados. O cliente que sofreu um AVE corre
+risco de múltiplas complicações, incluindo descondicionamento e outros problemas musculoesqueléticos,
+dificuldades na deglutição, disfunção intestinal e vesical, incapacidade de realizar o autocuidado e ruptura da
+pele. O manejo de enfermagem concentra­se no início imediato da reabilitação para quaisquer déficits.
+Avaliação
+Durante a fase crítica, deve­se manter um fluxograma neurológico para fornecer dados sobre as seguintes
+medidas importantes do estado clínico do cliente:
+Alteração no nível de consciência ou na responsividade, conforme evidenciado pelo movimento, resistência a
+mudanças de posição e resposta à estimulação; orientação quanto a tempo, lugar e pessoas
+Presença ou ausência de movimentos voluntários ou involuntários dos membros; tônus muscular; postura
+corporal; e posição da cabeça
+Abertura dos olhos, tamanho comparativo das pupilas, reações pupilares à luz e posição ocular
+Coloração da face e dos membros; temperatura e umidade da pele
+Qualidade e frequência do pulso e da respiração; valores da gasometria arterial, quando indicada; temperatura
+corporal e pressão arterial
+Capacidade de falar
+Volume de líquidos ingeridos ou administrados; volume de urina excretada a cada 24 h
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Presença de sangramento
+Manutenção da pressão arterial dentro dos parâmetros desejados.
+Após a fase crítica, a enfermeira avalia o estado mental (memória, duração de atenção, percepção,
+orientação, afeto, fala/linguagem), sensação/percepção (o cliente pode apresentar uma percepção diminuída da
+dor e da temperatura), controle motor (movimento dos membros superiores e inferiores), capacidade de
+deglutição, estado nutricional e de hidratação, integridade da pele, tolerância à atividade e funções intestinal e
+vesical. A avaliação de enfermagem contínua deve manter o foco em qualquer comprometimento na função das
+atividades diárias do cliente, visto que a qualidade de vida após a ocorrência de AVE está estreitamente
+relacionada com o estado funcional do cliente.
+Diagnóstico
+Diagnósticos de enfermagem
+Com base nos dados de avaliação, os principais diagnósticos de enfermagem podem incluir os seguintes:
+Mobilidade física prejudicada relacionada com hemiparesia, perda do equilíbrio e da coordenação,
+espasticidade e lesão cerebral
+Dor aguda (ombro doloroso) relacionada com hemiplegia e desuso
+Déficits de autocuidado (banho, higiene, ir ao banheiro, vestir­se, arrumar­se e alimentar­se) relacionados
+com as sequelas do AVE
+Conforto físico prejudicado relacionado com alteração da recepção, transmissão e/ou integração sensorial
+Deglutição prejudicada
+Eliminação urinária prejudicada relacionada com bexiga flácida, instabilidade do detrusor, confusão mental ou
+dificuldade de comunicação
+Constipação intestinal relacionada com alteração do estado mental ou dificuldade de comunicação
+Confusão aguda relacionada com infarto cerebral
+Comunicação verbal prejudicada relacionada com lesão cerebral
+Risco de integridade da pele prejudicada relacionado com hemiparesia, hemiplegia ou mobilidade diminuída
+Processos familiares interrompidos relacionados com doença catastrófica e sobrecarga dos cuidadores
+familiares
+Disfunção sexual relacionada com déficits neurológicos ou medo de fracasso.
+Problemas colaborativos/complicações potenciais
+As complicações potenciais podem incluir as seguintes:
+Diminuição do fluxo sanguíneo cerebral, em decorrência da PIC elevada
+Aporte inadequado de oxigênio ao encéfalo
+Pneumonia.
+Planejamento e metas
+Embora a reabilitação comece no dia em que o cliente sofreu AVE, o processo é intensificado durante a
+convalescença e exige os esforços coordenados da equipe. É útil para a equipe saber como o cliente era antes do
+AVE: suas doenças, capacidades, estado mental e emocional, características comportamentais e atividades de
+vida diária. É também útil para os profissionais de saúde conhecer a importância relativa dos preditores dos
+resultados do AVE (idade, escore NIHSS e nível de consciência por ocasião da admissão), a fim de fornecer
+metas realistas aos sobreviventes de um AVE e suas famílias (Jauch et al., 2013).
+As principais metas para o cliente (e a sua família) podem consistir em melhorar a mobilidade, evitar a dor
+no ombro, realizar o autocuidado, aliviar o desconforto, evitar a aspiração, obter a continência intestinal e
+vesical, diminuir a confusão, conseguir um meio de comunicação, manter a integridade da pele, restaurar as
+funções familiares, melhorar o desempenho sexual e não apresentar complicações.
+Intervenções de enfermagem
+Os cuidados de enfermagem assumem um impacto significativo sobre a recuperação do cliente. Com frequência,
+muitos sistemas orgânicos estão comprometidos em decorrência do AVE, e o cuidado consciencioso e as
+intervenções oportunas podem evitar complicações debilitantes. Durante e após a fase crítica, as intervenções de
+enfermagem concentram­se na pessoa como um todo. Além de proporcionar cuidados físicos, a enfermeira
+incentiva e promove a recuperação, escutando o cliente e fazendo perguntas para avaliar o significado da
+experiência do AVE.
+Melhora da mobilidade e prevenção das deformidades articulares
+O cliente com hemiplegia apresenta paralisia unilateral (paralisia em um dos lados do corpo). Quando há perda
+do controle dos músculos voluntários, os músculos flexores fortes exercem o controle sobre os extensores. O
+braço tende a ficar em adução (os músculos adutores são mais fortes que os abdutores) e a sofrer rotação
+interna. O cotovelo e o punho tendem a permanecer em flexão, a perna afetada tende a apresentar rotação externa
+na articulação do quadril e flexão no joelho, e o pé na articulação do tornozelo está em supinação e tende à flexão
+plantar.
+O posicionamento correto é importante para evitar as contraturas; são utilizadas medidas para aliviar a
+pressão, ajudar na manutenção do bom alinhamento do corpo e impedir neuropatias compressivas,
+particularmente dos nervos ulnar e fibular. Como os músculos flexores são mais fortes que os extensores, uma
+tala colocada à noite no membro afetado pode evitar a flexão e manter o posicionamento correto durante o sono.
+(Ver mais informações no Capítulo 10.)
+Prevenção da adução do ombro. Para evitar a adução do ombro afetado enquanto o cliente está no leito,
+usa­se um travesseiro sob a axila quando existe rotação externa limitada; isso mantém o braço afastado do tórax.
+Um travesseiro é colocado sob o braço, que fica na posição neutra (em ligeira flexão), com as articulações
+distais posicionadas em um nível mais elevado que as articulações mais proximais (i. e., o cotovelo é
+posicionado mais alto que o ombro, e o punho é, por sua vez, posicionado mais alto que o cotovelo). Isso ajuda
+a evitar a incidência de edema e fibrose articular resultante que limitarão a amplitude de movimento, se o cliente
+readquirir o controle do braço (Figura 67.3).
+Posicionamento da mão e dos dedos. Os dedos são posicionados de modo a ficar pouco flexionados. A
+mão é posicionada em leve supinação (as palmas para cima), que é a posição mais funcional. Se o membro
+superior estiver flácido, pode­se utilizar uma tala para apoiar o punho e a mão em uma posição funcional. Se o
+membro superior estiver espástico, não se utiliza um rolo de mão, visto que este estimula o reflexo de preensão.
+Nessa situação, uma tala dorsal para o punho é útil para deixar a palma da mão livre de pressão. Todos os
+esforços são envidados para evitar o edema da mão.
+A espasticidade, principalmente na mão, pode constituir uma complicação incapacitante após a ocorrência de
+AVE. Foi constatado que a toxina botulínica do tipo A, quando injetada por via intramuscular nos músculos do
+punho e dos dedos, é efetiva para reduzir essa espasticidade (embora o efeito seja temporário, tipicamente com
+duração de 2 a 4 meses) (Teasell, Foley, Pereira et al., 2012). Outros tratamentos para a espasticidade podem
+incluir alongamento, aplicação de tala e medicamentos orais, como o baclofeno.
+Figura 67.3 Posicionamento correto para evitar a adução do ombro.
+Mudança de posição. O cliente deve ser trocado de posição a cada 2 h. Para posicionar o cliente em decúbito
+lateral (deitado de lado), coloca­se um travesseiro entre as pernas antes de o cliente ser virado. Para promover o
+retorno venoso e evitar o edema, a parte superior da coxa não deve ser flexionada em ângulo agudo. O cliente
+pode ser virado de um lado para outro; todavia, se a sensação estiver comprometida, o tempo permanecido sobre
+o lado afetado deve ser limitado.
+Quando possível, o cliente é posicionado em decúbito ventral por 15 a 30 min, várias vezes ao dia. Um
+pequeno travesseiro ou apoio é colocado sob a pelve, estendendo­se do nível do umbigo até o terço superior da
+coxa (Figura 67.4). Essa posição ajuda a promover a hiperextensão das articulações do quadril, que é essencial
+para a marcha normal e que ajuda a evitar as contraturas de flexão dos joelhos e dos quadris. O decúbito ventral
+também ajuda a drenar as secreções brônquicas e evita as deformidades contraturais dos ombros e dos joelhos.
+Durante o posicionamento, é importante reduzir a pressão e mudar a posição com frequência para evitar a
+formação de úlceras de pressão.
+Estabelecimento de um programa de exercícios. Os membros afetados são exercitados passivamente e
+movimentados em sua amplitude de movimento total 4 a 5 vezes/dia, a fim de manter a mobilidade articular,
+readquirir o controle motor, impedir as contraturas no membro paralisado, evitar maior deterioração do sistema
+neuromuscular e melhorar a circulação. Os exercícios são úteis para a prevenção da estase venosa, que pode
+predispor o cliente a trombose e embolia pulmonar.
+A repetição de uma atividade leva a novas vias no SNC e, por conseguinte, estimula novos padrões de
+movimento. No início, os membros estão habitualmente flácidos. Se houver retesamento em qualquer área, os
+exercícios de amplitude de movimento devem ser realizados com mais frequência (ver Capítulo 10).
+O cliente é observado à procura de sinais e sintomas que possam indicar embolia pulmonar ou carga de
+trabalho cardíaca excessiva durante o exercício; incluem dispneia, dor torácica, cianose e frequência do pulso
+crescente com o exercício. Períodos curtos e frequentes de exercícios são sempre preferíveis a períodos mais
+longos com intervalos infrequentes. A regularidade no exercício é o aspecto mais importante. A melhora na força
+muscular e a manutenção da amplitude de movimento só podem ser alcançadas com exercícios realizados
+diariamente.
+O cliente é incentivado e lembrado de exercitar o lado não afetado a intervalos durante todo o dia. É útil
+elaborar um horário por escrito para lembrar o cliente das atividades físicas. A enfermeira supervisiona e apoia o
+cliente durante essas atividades. O cliente pode ser instruído a colocar a perna não afetada sob a perna afetada
+para ajudá­la a se mover quando virar e se exercitar. Os exercícios de flexibilidade, fortalecimento, coordenação,
+resistência e equilíbrio preparam o cliente para a deambulação. Os exercícios isométricos do músculo quadríceps
+e dos músculos glúteos (ver Boxe 41.3) são iniciados precocemente para melhorar a força muscular necessária
+para a deambulação; são realizados pelo menos 5 vezes/dia durante 10 min de cada vez.
+Figura 67.4 A posição de decúbito ventral com travesseiro como apoio ajuda a impedir a flexão dos quadris.
+Preparação para a deambulação. Tão logo seja possível, o cliente é auxiliado a sair do leito e a iniciar um
+programa de reabilitação ativo. O cliente é inicialmente instruído a manter o equilíbrio enquanto se senta e, em
+seguida, aprende a se equilibrar quando estiver em pé. Se o cliente tiver dificuldade de se equilibrar em pé, podese utilizar uma mesa inclinável, que traz o cliente lentamente a uma posição ereta. As mesas inclináveis são
+particularmente úteis para clientes que estiveram em repouso no leito por um período prolongado e apresentam
+alterações ortostáticas da pressão arterial.
+Se o cliente precisar de uma cadeira de rodas, o tipo dobrável com freios manuais é o mais prático, visto
+que possibilita ao cliente manipular a cadeira. A cadeira deve ser baixa o suficiente para possibilitar que o cliente
+a impulsione com o pé não afetado, e estreita o suficiente para viabilizar seu uso em casa. Quando o cliente é
+transferido da cadeira de rodas para outro lugar, os freios devem ser aplicados e travados de ambos os lados da
+cadeira.
+O cliente geralmente está pronto para deambular tão logo alcance o equilíbrio em pé. As barras paralelas são
+úteis nesses primeiros esforços. Uma cadeira comum ou uma cadeira de rodas deve estar facilmente disponível,
+caso o cliente se sinta subitamente fatigado ou tenha tontura.
+Os períodos de treinamento para deambulação devem ser curtos e frequentes. À medida que o cliente ganha
+força e confiança, uma bengala ajustável pode ser usada para apoio. Em geral, uma bengala de 3 ou 4 apoios
+fornece um suporte estável nas fases iniciais de reabilitação.
+Prevenção da dor no ombro
+Até 84% dos clientes que sofreram AVE apresentam dor no ombro (Kalichman e Ratmansky, 2011). Essa dor
+pode impedir que eles aprendam novas habilidades e pode afetar sua qualidade de vida. A função do ombro é
+essencial para alcançar o equilíbrio e realizar transferência e atividades de autocuidado. Os problemas que podem
+surgir incluem distúrbios do manguito rotador, espasticidade dos músculos do ombro, ombro dolorido,
+subluxação do ombro e síndrome ombro­mão. O desenvolvimento de uma condição conhecida como síndrome de
+dor central também pode contribuir para a ocorrência da dor no ombro após um AVE.
+Uma articulação do ombro flácido pode ser hiperestendida pelo uso de força excessiva ao virar o cliente ou
+em consequência de um movimento excessivamente vigoroso do braço e do ombro. Para evitar a dor do ombro, a
+enfermeira nunca deve levantar o cliente pelo ombro flácido, nem tracionar o braço ou o ombro afetado. Deve­se
+evitar também o uso de polias acima da cabeça. Se o braço estiver paralisado, pode ocorrer subluxação (luxação
+incompleta) no ombro em consequência da hiperdistensão da cápsula articular e da musculatura pela força da
+gravidade quando o cliente senta ou fica em pé nos estágios iniciais após a ocorrência do AVE. Isso provoca dor
+intensa. A síndrome ombro­mão (ombro doloroso e tumefação generalizada da mão) pode causar ombro
+congelado e, por fim, atrofia dos tecidos subcutâneos. Quando o ombro se torna rígido, habitualmente está
+dolorido.
+Muitos problemas do ombro podem ser evitados pelo movimento e posicionamento apropriados do cliente.
+O braço flácido é posicionado em uma mesa ou com travesseiros enquanto o cliente está sentado. Alguns
+médicos defendem o uso de uma tipoia corretamente colocada quando o cliente começa a deambular pela
+primeira vez, a fim de evitar que o ombro superior paralisado penda sem apoio. Os exercícios de amplitude de
+movimento são importantes na prevenção do ombro dolorido. Os movimentos excessivamente vigorosos do
+braço são evitados. O cliente é orientado a entrelaçar os dedos, colocar as palmas das mãos unidas e empurrar as
+mãos entrelaçadas lentamente para a frente, trazendo as escápulas também para a frente; em seguida, eleva ambas
+as mãos acima da cabeça. Isso deve ser repetido durante todo o dia. O cliente é instruído a flexionar o punho
+afetado a determinados intervalos e a mover todas as articulações dos dedos afetados. É incentivado a tocar,
+massagear, esfregar e observar ambas as mãos. É útil pressionar a parte posterior da mão firmemente contra uma
+superfície. A elevação do braço e da mão também é importante para evitar o edema pendente da mão. Os clientes
+com dor contínua após tentativas de movimento e posicionamento podem necessitar de acréscimo de analgesia à
+terapia. Outros tratamentos podem incluir injeção na articulação do ombro com corticosteroides ou toxina
+botulínica tipo A, tipoia para ombro, estimulação elétrica, calor ou gelo e massagem dos tecidos moles (Kumar,
+Kalita, Kumar et al., 2009).
+Os medicamentos são frequentemente úteis no manejo da dor que ocorre após o AVE. Pode­se prescrever
+amitriptilina; além disso, foi constatado que os medicamentos anticonvulsivantes lamotrigina e pregabalina são
+efetivos para a dor após um AVE, podendo servir como alternativas para clientes que não podem tolerar a
+amitriptilina (Kim, Bashford, Murphy et al., 2011; Kumar et al., 2009).
+Melhora do autocuidado
+Tão logo possa se sentar, o cliente é incentivado a participar nas atividades de higiene pessoal. Ele será auxiliado
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+no estabelecimento de metas realistas; se possível, uma nova tarefa é acrescentada diariamente. A primeira etapa
+consiste em realizar todas as atividades de autocuidado no lado não afetado. Pentear o cabelo, escovar os dentes,
+barbear­se com um barbeador elétrico, tomar banho e comer são exemplos de atividades que podem ser
+realizadas com uma das mãos e devem ser estimuladas. Embora o cliente possa se sentir desajeitado
+inicialmente, essas habilidades motoras podem ser aprendidas pela repetição, e o lado não afetado se tornará
+mais forte com o uso. A enfermeira precisa se certificar de que o cliente não negligencia o lado afetado.
+Dispositivos de assistência ajudarão a compensar alguns dos déficits do cliente (Boxe 67.3). Uma pequena
+toalha é mais fácil de manusear para se secar depois do banho, e usar caixas de lenços de papel é mais prático
+que um rolo de papel higiênico.
+O retorno da capacidade funcional é importante para a recuperação após a ocorrência de um AVE. No
+planejamento da equipe e no estabelecimento de metas para o cliente, é importante efetuar uma avaliação inicial
+basal da capacidade funcional com um instrumento, como a Functional Independence Measure (FIM),
+amplamente utilizada na reabilitação do AVE, que proporcione informações valiosas sobre as funções motora,
+social e cognitiva. O moral do cliente pode melhorar se as atividades de deambulação forem realizadas com
+roupas de sair. A família é instruída a trazer roupas que sejam, de preferência, um número maior que o tamanho
+habitualmente utilizado. As roupas com fechos frontais ou laterais, ou com fechos de Velcro
+®
+, são as mais
+apropriadas. O cliente tem melhor equilíbrio se a maior parte das atividades de se vestir for realizada enquanto
+estiver sentado.
+Problemas de percepção podem fazer com que o cliente tenha dificuldade em se vestir sem ajuda, dada a
+incapacidade de adequar a roupa às partes do corpo. Para ajudar o cliente, a enfermeira pode tomar providências,
+a fim de manter o ambiente organizado e sem desordem, visto que o cliente com problema perceptivo se distrai
+com facilidade. As roupas são colocadas do lado afetado, na ordem em que vão ser vestidas. Um espelho grande
+para se vestir promove o reconhecimento do que o cliente está vestindo no lado afetado. O cliente precisa fazer
+muitos movimentos compensatórios ao se vestir; os quais podem produzir fadiga e torções dolorosas dos
+músculos intercostais. Devem­se proporcionar apoio e estímulo para evitar que o cliente fique excessivamente
+fatigado e desanimado. Mesmo com um treinamento intensivo, nem todos os clientes conseguem ser
+independentes para se vestir.
+Boxe
+67.3
+Dispositivos auxiliares paramelhorar o autocuidado após acidente vascular encefálico
+Dispositivos para se alimentar
+Toalhaantiderrapanteparaestabilizarospratos
+Pratos com bordaaltaparaevitarqueosalimentos saiam doprato
+Utensíliosdecabolongoparaacomodarumapreensãofraca
+Dispositivos para tomar banho e se arrumar
+Esponjaparabanhocom cabolongo
+Barrasparaapoio, tapetesantiderrapantes, chuveiros manuais
+Barbeadoreselétricos com cabeçaa90°para manuseio
+Assentosparachuveiroebanheira,estacionáriosoucom rodas
+Dispositivo para o vaso sanitário
+Assentodovasosanitárioelevado
+Barras lateraispróximasaovasosanitário
+Dispositivos para se vestir
+Fechos com Velcro
+®
+Sapatos com cadarçoselásticos
+Calçadeiradecabolongo
+•
+•
+Dispositivos paramobilidade
+Bengalas,andadores, cadeirasderodas
+Dispositivosdetransferência, comopranchasdetransferênciaecintos
+Adaptação do cliente às alterações físicas
+Os clientes com campo de visão reduzido devem ser abordados pelo lado em que a percepção visual está intacta.
+Todos os estímulos visuais (p. ex., relógio, calendário, televisão) devem ser colocados desse lado. O cliente
+pode ser orientado a virar a cabeça na direção do campo visual deficiente para compensar essa perda. A
+enfermeira deve estabelecer contato ocular com o cliente e chamar sua atenção para o lado afetado, estimulando­o
+a mover a cabeça. Ela também pode ficar de pé em uma posição que estimule o cliente a se mover ou a se virar
+para visualizar quem está no quarto. O aumento da iluminação natural ou artificial no quarto e o uso de óculos
+são importantes para auxiliar a melhorar a visão.
+O cliente com hemianopsia homônima vira­se em direção oposta ao lado afetado do corpo e tende a
+negligenciar esse lado e o seu respectivo espaço; isso é conhecido como amorfossíntese. Nesses casos, o cliente
+não consegue ver o alimento em metade da bandeja, e somente metade do quarto é visível. É importante que a
+enfermeira lembre constantemente o cliente sobre a existência do outro lado do corpo, mantenha o alinhamento
+dos membros e, se possível, posicione os membros de modo que o cliente possa vê­los.
+Auxílio na nutrição
+O AVE pode resultar em disfagia (dificuldade na deglutição), dado o comprometimento da função da boca,
+língua, palato, laringe, faringe ou parte superior do esôfago. Os clientes devem ser observados quanto à
+ocorrência de paroxismos de tosse, alimentos escorrendo ou acumulando­se de um lado da boca, alimentos
+retidos por um longo período na boca ou regurgitação nasal ao deglutir líquidos. Por causa das dificuldades de
+deglutição, o cliente corre risco de aspiração, pneumonia, desidratação e desnutrição.
+Deve­se efetuar a avaliação da capacidade de deglutição, o mais cedo possível após a chegada do cliente ao
+SE (de preferência nas primeiras 24 h) e antes de qualquer ingestão. Um fonoaudiólogo examinará a capacidade
+de deglutição do cliente, porém a enfermeira também pode realizar uma avaliação utilizando um instrumento
+validado (Summers et al., 2009).
+Se estiver parcialmente comprometida, a função de deglutição pode retornar com o passar do tempo, ou o
+cliente pode ser orientado sobre técnicas alternativas de deglutição, aconselhado a ingerir porções menores de
+alimento e orientado quanto aos tipos de alimentos mais fáceis de deglutir. Pode ser iniciada uma dieta líquida
+espessa ou pastosa, visto que esses alimentos são mais fáceis de deglutir que os líquidos ralos. Deve­se colocar
+o cliente na posição sentada ereta, de preferência fora do leito, em uma cadeira, e instruí­lo a baixar o queixo em
+direção ao tórax ao deglutir, pois isso ajudará a evitar a aspiração. A dieta pode ser avançada à medida que o
+cliente se torna mais habilidoso na deglutição. Caso não se consiga retomar a ingestão, coloca­se um tubo de
+alimentação gastrintestinal para alimentações contínuas e administração de medicamentos.
+Os tubos enterais podem ser nasogástricos (posicionadas no estômago) ou nasoenterais (colocadas no
+duodeno) para reduzir o risco de aspiração. As responsabilidades de enfermagem na alimentação incluem a
+elevação da cabeceira do leito a pelo menos 30° para evitar a aspiração, verificar a posição do tubo antes da
+alimentação, garantir que o balão do tubo de traqueostomia (se estiver em posição) esteja inflado e administrar
+lentamente a alimentação pelo tubo. O tubo é aspirado periodicamente para assegurar que os alimentos estejam
+passando para o trato gastrintestinal. Os alimentos retidos ou residuais aumentam o risco de aspiração. Os
+clientes com alimentos retidos podem beneficiar­se da colocação de um tubo de gastrostomia ou de um tubo de
+gastrostomia endoscópica percutânea. No cliente com tubo nasogástrico, o tubo de alimentação deve ser
+posicionada no duodeno para reduzir o risco de aspiração. Para alimentações a longo prazo, prefere­se um tubo
+de gastrostomia. (Ver informações sobre o manejo de clientes que recebem nutrição enteral no Capítulo 45.)
+Obtenção do controle intestinal e vesical
+Após sofrer um AVE, o cliente pode apresentar incontinência urinária transitória, em decorrência de confusão
+mental, impossibilidade de comunicar suas necessidades e incapacidade de usar o urinol ou a comadre, dado o
+comprometimento do controle motor e postural. Em certas ocasiões, após um AVE, a bexiga torna­se atônica,
+com comprometimento da sensação em resposta ao enchimento da bexiga. Algumas vezes, há perda ou
+diminuição do controle do esfíncter urinário externo. Durante esse período, efetua­se o cateterismo intermitente
+com técnica estéril. Quando o tônus muscular aumenta, e os reflexos tendinosos profundos retornam, o tônus
+vesical aumenta, e pode haver desenvolvimento de espasticidade da bexiga. Como a percepção do cliente está
+alterada, a incontinência ou a retenção urinária persistente podem constituir um sintoma de lesão cerebral
+bilateral. O padrão de micção é analisado, e o urinol ou comadre é oferecido de acordo com o padrão ou horário
+observado. A postura ereta e a posição de pé são úteis para os homens durante esse aspecto da reabilitação.
+Os clientes podem ter problemas com o controle intestinal, particularmente constipação intestinal. A não ser
+que haja alguma contraindicação, devem ser fornecidas uma dieta rica em fibras e uma ingestão adequada de
+líquidos (2 a 3 ℓ/dia), e deve­se estabelecer um horário regular (habitualmente depois do desjejum) para o uso do
+banheiro. (Ver informações mais detalhadas sobre o controle intestinal e vesical no Capítulo 10.)
+Melhora dos processos de pensamento
+Após sofrer um AVE, o cliente pode apresentar problemas com déficits cognitivos, comportamentais e
+emocionais relacionados com a lesão cerebral. Todavia, em muitos casos, é possível recuperar um grau
+considerável de função, visto que nem todas as áreas do encéfalo estão igualmente danificadas; algumas
+permanecem mais intactas e funcionais que outras.
+Após a avaliação que delineia os déficits do cliente, o neuropsicólogo, em colaboração com o médico, o
+psiquiatra, a enfermeira e outros profissionais, organiza um programa de treinamento utilizando o retreinamento
+cognitivo­perceptivo, visualização orientada, orientação quanto à realidade e procedimentos de fornecimento de
+pistas para compensar as perdas.
+A enfermeira, cuja função é de apoio, faz uma revisão dos resultados dos exames neuropsicológicos;
+observa o desempenho e o progresso do cliente; fornece um feedback positivo; e, o que é mais importante,
+transmite uma atitude de confiança e esperança. As intervenções capitalizam as forças pessoais do cliente e suas
+habilidades remanescentes, tentando ao mesmo tempo melhorar o desempenho das funções afetadas. Outras
+intervenções assemelham­se àquelas para melhorar a função cognitiva após um traumatismo cranioencefálico
+(ver Capítulo 68).
+Melhora da comunicação
+A afasia, que prejudica a capacidade do cliente de se expressar e de compreender o que está sendo dito, pode
+tornar­se evidente de diversas maneiras. A área cortical, responsável pela integração das numerosas vias
+necessárias para a compreensão e a formulação da linguagem, é denominada, área de Broca. Localizada em uma
+convolução adjacente à artéria cerebral média, essa área é responsável pelo controle das combinações dos
+movimentos musculares necessários para articular cada palavra. Por sua proximidade à área motora esquerda,
+um distúrbio na área motora frequentemente afeta a área da fala. Isso explica por que muitos clientes que estão
+paralisados do lado direito (por causa de dano ou lesão ao lado esquerdo do encéfalo) não podem falar, enquanto
+aqueles que são paralisados do lado esquerdo têm menos probabilidade de apresentar distúrbios da fala.
+O fonoaudiólogo avalia as necessidades de comunicação do cliente acometido por AVE, descreve o déficit
+preciso e sugere o melhor método global de comunicação. A maioria das estratégias de intervenção de linguagem
+pode ser individualizada para cada cliente. Espera­se que o cliente tenha uma participação ativa no
+estabelecimento das metas.
+A pessoa com afasia pode tornar­se deprimida. A incapacidade de conversar ao telefone, responder a uma
+pergunta ou participar da conversa frequentemente provoca raiva, frustração, medo do futuro e desamparo. As
+intervenções de enfermagem incluem estratégias para tornar a atmosfera propícia à comunicação. Isso inclui ser
+sensível às reações e necessidades do cliente e responder a essas de maneira apropriada, tratando sempre o
+cliente como um adulto. A enfermeira deve fornecer um forte apoio emocional e compreensão para aliviar a
+ansiedade e a frustração do cliente.
+Um erro comum que pode ser cometido pela enfermeira ou outro profissional de saúde é completar os
+pensamentos ou as frases do cliente. Isso deve ser evitado, visto que faz com que o cliente fique mais frustrado
+em não poder falar, e pode prejudicar seus esforços em elaborar pensamentos e completar frases. Um horário
+consistente, rotinas e repetições ajudam o cliente a funcionar, apesar dos déficits significativos. Uma cópia por
+escrito dos horários de todos os dias, um folheto com informações pessoais (data de nascimento, endereço,
+•
+•
+•
+•
+•
+•
+•
+•
+nomes dos familiares), listas de verificação e uma lista em fita de áudio ajudam a melhorar a memória e a
+concentração do cliente. O cliente também pode beneficiar­se de um quadro para comunicação, que tenha figuras
+sobre necessidades comuns e frases, e possa ser traduzido em qualquer língua.
+Ao conversar com o cliente, é importante que a enfermeira obtenha sua atenção, fale devagar e mantenha a
+linguagem das instruções consistente. Uma instrução deve ser transmitida de cada vez, dando tempo para que o
+cliente possa processar o que foi dito. O uso de gestos pode melhorar a compreensão. Falar é pensar alto, e a
+ênfase é no pensamento. Ouvir e separar as mensagens recebidas exige esforço mental; o cliente precisa lutar
+contra a inércia mental e necessita de tempo para organizar uma resposta.
+Ao trabalhar com clientes com afasia, a enfermeira precisa se lembrar de conversar com eles durante as
+atividades de cuidado. Isso proporciona contato social ao cliente. O Boxe 67.4 descreve os aspectos a serem
+lembrados na comunicação com o cliente portador de afasia.
+Manutenção da integridade da pele
+O cliente que sofreu AVE pode correr risco de ruptura da pele e dos tecidos, devido à sensação alterada e
+incapacidade de responder à pressão e ao desconforto mudando de posição ou movimentando­se. A prevenção da
+ruptura da pele e dos tecidos exige uma avaliação frequente da pele com ênfase nas áreas ósseas e partes
+pendentes do corpo. Durante a fase crítica, pode­se utilizar um leito especial (p. ex., um leito com baixa perda de
+ar) até que o cliente possa se mover independentemente ou ajudar no movimento.
+Deve­se estabelecer um horário de mudança de posição (p. ex., a cada 2 h), mesmo quando são utilizados
+dispositivos de alívio de pressão para evitar a ruptura da pele e dos tecidos. Quando o cliente é posicionado ou
+virado, deve­se ter cuidado para reduzir ao mínimo as forças de cisalhamento e atrito, que causam lesão aos
+tecidos e predispõem a pele à ruptura.
+A pele do cliente deve ser mantida limpa e seca; a massagem suave da pele saudável (não avermelhada) e a
+nutrição adequada são outros fatores que ajudam a manter a integridade da pele e dos tecidos (ver Capítulo 10).
+Boxe
+67.4
+Comunicação comcliente portador de afasia
+Ficardefrenteparaoclienteeestabelecer contatoocular
+Falarde maneira habitualeem um tom normal
+Usar frases curtasefazerpausasentreas frasesparapossibilitarqueoclientetenhatempodecompreenderoqueestásendodito
+Limitaraconversaçãoaassuntospráticoseconcretos
+Usargestos, 䍀䗑guras,objetoseescrita
+Quandooclienteusare manusearum objeto, nomearoobjeto. Issoajudaaassociaraspalavras com oobjetoouaação
+Ser coerente nousodas mesmaspalavrasegestos todavezquefornecer instruçõesou 䍀䗑zerumapergunta
+Manteros ruídosesonsestranhosem nível mínimo. Um fundo muitoruidosopodedistrairoclienteoudi䍀䗑cultaroentendimentoda mensagem queestá
+sendotransmitida.
+Melhora do enfrentamento familiar
+Os membros da família desempenham um importante papel na recuperação do cliente e são incentivados a
+participar nas sessões de ensino e a usar sistemas de apoio que ajudarão a controlar o estresse físico emocional
+associado aos cuidados do cliente. Envolver outras pessoas nos cuidados ao cliente e fornecer instruções sobre
+técnicas de controle do estresse e métodos de manutenção da saúde pessoal também facilitam o enfrentamento da
+família.
+A família pode ter dificuldade em aceitar a incapacidade do cliente e pode não ser realista em suas
+expectativas. Os familiares recebem informações sobre os resultados esperados e são aconselhados a evitar
+realizar atividades que o cliente é capaz de fazer sozinho. São assegurados de que seu amor e interesse fazem
+parte da terapia do cliente.
+A família precisa ser informada de que a reabilitação do cliente hemiplégico exige muitos meses, e que o
+progresso pode ser lento. Os ganhos alcançados pelo cliente no hospital ou na unidade de reabilitação precisam
+ser mantidos. Todos os cuidadores devem abordar o cliente com uma atitude otimista e de apoio, concentrando­
+se nas capacidades remanescentes do cliente. A equipe de reabilitação, a equipe médica e de enfermagem, o
+cliente e sua família devem estar, todos, envolvidos no estabelecimento de metas passíveis de serem alcançadas
+pelo cliente em casa.
+A maioria dos parentes de clientes com AVE lida melhor com alterações físicas que com os aspectos
+emocionais dos cuidados. A família deve estar preparada para esperar episódios ocasionais de labilidade
+emocional. O cliente pode rir ou chorar facilmente, e pode ficar irritado e exigente ou deprimido e confuso. A
+enfermeira pode explicar aos familiares que o riso do cliente não significa necessariamente felicidade; nem o
+choro, tristeza; e que a labilidade emocional habitualmente melhora com o passar do tempo.
+Auxílio ao cliente para enfrentar a disfunção sexual
+O desempenho sexual pode ser profundamente alterado pelo AVE. Embora as pesquisas nessa área de manejo do
+AVE sejam limitadas, parece que os clientes que sofreram um AVE consideram importante a função sexual, e
+muitos deles apresentam disfunção sexual, a qual é atribuída a diversos fatores após a ocorrência de AVE.
+Podem existir razões clínicas para a disfunção (déficits neurológicos e cognitivos, doenças prévias,
+medicamentos), bem como vários fatores psicossociais, incluindo depressão. Um AVE é uma enfermidade tão
+catastrófica que o cliente vivencia a perda da autoestima e de seu valor como pessoa no que refere a sua vida
+sexual. Esses fatores psicossociais desempenham um importante papel na determinação do estímulo, da
+atividade e da satisfação sexuais após um AVE.
+As enfermeiras no ambiente de reabilitação desempenham um papel fundamental ao iniciar um diálogo entre
+o cliente e seu parceiro, ou sua parceira, a respeito da sexualidade após um AVE. As avaliações em profundidade
+para determinar a história sexual antes e depois do AVE devem ser seguidas de intervenções apropriadas. As
+intervenções para o cliente e parceiro, ou parceira, enfocam o fornecimento de informações relevantes,
+orientação, tranquilização, ajuste dos medicamentos, aconselhamento sobre as habilidades de enfrentamento,
+sugestões para posições sexuais alternativas e meio de expressão e satisfação sexuais.
+Monitoramento e manejo de complicações potenciais
+A diminuição do fluxo sanguíneo cerebral devido à PIC elevada, com consequente aporte de oxigênio inadequado
+ao encéfalo e pneumonia, constituem possíveis complicações em qualquer cliente que tenha sofrido AVE
+isquêmico. Quanto mais grave o AVE (i. e., mais alto o valor do NIHSS), maior o risco de complicações.
+Durante a fase crítica dos cuidados, utiliza­se um fluxograma neurológico (ver Figura 66.6) para monitorar
+e documentar os parâmetros de avaliação. As alterações na pressão arterial, no pulso e na respiração são
+clinicamente importantes, visto que sugerem elevação da PIC, e devem ser relatadas imediatamente. Se houver
+desenvolvimento de sinais e sintomas de pneumonia, são obtidas culturas para identificar os microrganismos, de
+modo a administrar os antibióticos apropriados.
+Promoção dos cuidados domiciliar e comunitário
+Orientação do cliente sobre autocuidados. A orientação do cliente e de sua família representa um
+componente fundamental na recuperação de um AVE. A enfermeira fornece instruções sobre o AVE, suas causas
+e prevenção, bem como sobre o processo de reabilitação. Tanto nas instituições de cuidados críticos quanto nas
+de reabilitação, o foco é orientar o cliente a retomar o autocuidado máximo possível. Isso pode incluir o uso de
+dispositivos auxiliares ou a modificação do ambiente domiciliar para ajudar o cliente a conviver com uma
+incapacidade.
+O terapeuta ocupacional pode ser valioso para avaliar o ambiente domiciliar e recomendar modificações, a
+fim de ajudar o cliente a tornar­se mais independente. Por exemplo, um chuveiro é mais conveniente que uma
+banheira para o cliente com hemiplegia, visto que a maioria dos clientes não tem força suficiente para sentar­se e
+levantar­se em uma banheira. Sentar em um banco de altura média com pés de borracha com ventosas possibilita
+que o cliente se banhe com mais facilidade. Uma escova de banho de cabo longo com recipiente de sabão é útil
+para o cliente em que apenas uma das mãos é funcional. Se não houver disponibilidade de chuveiro, pode ser
+posto um banco na banheira e pode­se acoplar um chuveirinho manual à torneira. Barras para apoio das mãos
+podem ser colocadas ao longo da banheira e do vaso sanitário. Outros dispositivos auxiliares incluem utensílios
+especiais para comer, arrumar­se, vestir­se e escrever (ver Boxe 67.3).
+Um programa de fisioterapia pode ser benéfico, podendo ser realizado no próprio domicílio ou em um
+ambulatório. Pesquisas recentes concentraram­se em técnicas que utilizam a robótica e a terapia de movimento
+induzido por contenção (prática de movimentos repetitivos). A terapia de movimento induzido por contenção
+envolve a contenção do membro superior menos afetado com uma luva e treinamento intenso do membro mais
+afetado. A terapia assistida por robô utiliza o treinamento sensorimotor do membro superior, que possibilita ao
+cliente treinar sem um terapeuta presente. Ambos os métodos demonstraram produzir alguma melhora na função
+motora dos braços após um AVE. A estimulação elétrica funcional é outra técnica que pode ser utilizada para
+melhorar a função (Miller, Murray, Richards et al., 2010).
+Cuidados contínuos. O processo de recuperação e reabilitação após um AVE pode ser longo e requer
+paciência e perseverança por parte do cliente e da família. Dependendo dos déficits neurológicos específicos
+decorrentes do AVE, o cliente em casa pode necessitar dos serviços de vários profissionais de saúde. Com
+frequência, a enfermeira coordena os cuidados domiciliares para o cliente e considera as numerosas necessidades
+educacionais dos cuidadores familiares e dos clientes. A família (frequentemente o cônjuge) também necessita de
+orientação, bem como assistência no planejamento e fornecimento dos cuidados.
+A família é avisada de que o cliente pode se cansar facilmente, pode ficar irritado e contrariado com
+pequenos eventos e pode ter menos interesse por eventos que o esperado. Os problemas emocionais associados
+ao AVE frequentemente estão relacionados com a disfunção da fala e a frustração de não ser capaz de se
+comunicar. O fonoaudiólogo viabiliza o envolvimento da família e oferece instruções práticas aos familiares para
+ajudar o cliente entre as sessões de terapia.
+A depressão é um problema grave e comum no cliente que sofreu AVE e sua incidência nesses casos varia
+de 25 a 79%. Os fatores de risco incluem isolamento social, gênero (mais prevalente em mulheres), história de
+depressão e comprometimento cognitivo ou físico. As enfermeiras em todos os ambientes de cuidados devem
+identificar os clientes que podem correr risco de sintomas depressivos (Miller et al., 2010) (Boxe 67.5). Na
+residência ou no ambiente de reabilitação, as enfermeiras podem estar envolvidas nos cuidados de coordenação e
+de encaminhamento de clientes e da família a recursos apropriados. A família pode ajudar continuando a oferecer
+apoio ao cliente e fornecer reforço positivo em relação ao progresso realizado. A terapia com antidepressivos
+pode ser útil se a depressão dominar a vida do cliente.
+Os grupos de apoio comunitários para clientes que sofreram AVE podem possibilitar que o cliente e sua
+família aprendam com outros que passaram por problemas semelhantes e compartilhem suas experiências. Os
+grupos de apoio se dão por meio de encontros pessoais, bem como programas de apoio pela internet. O cliente é
+incentivado a continuar praticando seus hobbies e atividades recreativos e de lazer e a manter contato com os
+amigos para evitar o isolamento social. Todas as enfermeiras que lidam com o cliente devem incentivá­lo a
+manter­se ativo, aderir ao programa de exercícios e permanecer o mais autossuficiente possível (Shaughnessy,
+Michael e Resnick, 2012).
+A enfermeira deve reconhecer os efeitos potenciais do papel de cuidador familiar sobre a família. Nem todas
+as famílias têm habilidades para o enfrentamento adaptativo e a estrutura psicológica adequada necessárias para
+os cuidados a longo prazo de outra pessoa. O cônjuge do cliente pode ser mais velho, com suas próprias
+preocupações de saúde; em algumas situações, o cliente pode ter sido o prestador de cuidados ao cônjuge. O
+cônjuge pode ter de assumir novos papéis e responsabilidades na relação e nos cuidados da casa. Ele também
+pode sentir uma sensação de perda (de liberdade e de tempo de lazer, bem como da relação conjugal).
+A depressão é comum nos cuidadores familiares de sobreviventes de AVE. As enfermeiras devem avaliar
+esses cuidadores quanto a sinais de depressão, pois esses, quando deprimidos, têm mais probabilidade de infligir
+abusos físicos ou emocionais ao cliente e interná­lo em uma clínica de repouso.
+Os cuidadores familiares podem necessitar de lembretes para atender às suas próprias preocupações de
+saúde e bem­estar. Mesmo os saudáveis podem considerar difícil manter um horário que contemple sua
+disponibilidade o dia inteiro. A enfermeira incentivará a família a procurar serviços de cuidados temporários
+(cuidados planejados a curto prazo para aliviar a família dos cuidados contínuos durante 24 h), que podem estar
+disponíveis em um centro de cuidados diários para adultos. Alguns hospitais também oferecem cuidados
+temporários nos fins de semana, que podem proporcionar aos cuidadores familiares um tempo necessário para
+cuidarem de si próprios. A enfermeira envolvida nos cuidados domiciliares e contínuos também precisa lembrar
+ao cliente e à sua família da necessidade de cuidados temporários, bem como da promoção contínua da saúde e
+1.
+a.
+b.
+c.
+d.
+2.
+a.
+b.
+3.
+4.
+5.
+de práticas de triagem.
+Boxe
+67.5
+PESQUISA DEENFERMAGEM
+Compressão dossintomas de depressão após acidente vascular encefálico
+Klinedinst JN, DunbarSB,ClarkPC. (2012)Strokesurvivorandinformal caregiverperceptionsofpoststrokedepressivesymptoms. Journalof Neuroscience
+Nursing,44(2),72-81.
+Finalidade
+Asenfermeirasdevem avaliaros clientesquantoàpresençadesintomasdedepressão noperíodocríticoapósum AVE,aqualocorrefrequentemente nos
+primeiros3a6 mesesquesucedem oacidente. A capacidadederelataracuradamenteos sintomasdedepressãoaospro䍀䗑ssionaisdesaúdeereconhecê-losé
+importante nãoapenasparaos sobreviventesde AVE, comotambém paraos cuidadores familiaresquefrequentementetentam defendê-los comodesua
+responsabilidade(equepodem reconhecer sintomasqueosobreviventeéincapazdefazê-lo). A 䍀䗑nalidadedesteestudofoiadeexaminaroconhecimento,a
+identi䍀䗑caçãoeapercepçãodos sintomasdedepressãoem sobreviventesde AVEedeseus cuidadores familiares noperíodode3a6 mesesapósaocorrênciado
+AVE.
+Metodologia
+Esseestudoutilizouum modelodescritivotransversal.Sobreviventesde AVEeseus cuidadores familiares foram recrutadosdesete hospitaisouclínicasde
+reabilitação.Todosos sobreviventes tinham pelo menos50anosdeidadee haviam sofrido AVE(hemorrágicoouisquêmico) há3a6 meses.Nenhum deles
+apresentavaafasia,etodosdemonstraram capacidadecognitivadeentenderosquestionáriosaplicados. O estudoutilizouumasériedequestionáriosvalidados
+paracoletardadosedeterminarapercepçãodos sintomasdedepressãoem 44sobreviventesecuidadores familiares.
+Achados
+Os cuidadores familiaresesobreviventesdemonstraram terum conhecimento moderadodos sintomasdedepressão,porém apresentaram alguns conceitos
+errôneos (incluindoainterpretaçãode“quedados cabelos” comosintomadedepressão). Os cuidadores familiares tiveram di䍀䗑culdadeem identi䍀䗑car sintomas
+como“di䍀䗑culdadedelembrar coisas”e“sentimentosdeinutilidade”. Os sobreviventes tiveram maiordi䍀䗑culdadeem identi䍀䗑car “di䍀䗑culdadedelembrar coisas”,
+“di䍀䗑culdadedeconcentração”, “di䍀䗑culdadeem tomardecisões”, “sentimentodeculpa”e“pensar muitoem morrer” comosintomaspotenciaisdedepressão.
+Vinteecincopor centodos sobreviventesde AVEapresentaram altos níveisdesintomasdedepressão.Setentaecincopor centodos sobreviventesde AVEcom
+altos níveisdesintomasdepressivos identi䍀䗑caram oconjuntodesintomas comoumapossíveldepressão. Um importanteachadoéque75%dos sobreviventes
+de AVE nãoselembraram deterem recebidoqualquer informaçãoporescritosobreapossívelocorrênciadedepressãopós-AVE nos cuidados críticosou no
+ambientedereabilitação.
+Implicações para a enfermagem
+Esseestudo mostraa necessidadedesededicar maisesforço naorientaçãodos clientesedos cuidadores familiares sobreos sintomasdedepressãoapósum
+AVE. Asenfermeiras noambiente hospitalaredereabilitaçãoprecisam fornecerorientaçõesaos clientes sobreadepressãoqueocorreapóso AVEeajudara
+esclarecer conceitoserrôneos. Asenfermeiraspodem incentivaros sobreviventesde AVEeseus cuidadores familiaresarelataros sintomasdedepressãoao
+médico. Umavezqueesses sejam relatados,otratamentodadepressãopodeterum impactopositivosobreaqualidadedevidados sobreviventes.
+Reavaliação
+Entre os resultados esperados estão:
+O cliente obtém melhor mobilidade.
+Evita deformidades (contraturas e queda do pé).
+Participa de programas de exercícios prescritos.
+Obtém o equilíbrio sentado.
+Utiliza o lado não afetado para compensar a perda de função do lado hemiplégico.
+O cliente relata ausência de dor no ombro.
+Apresenta mobilidade do ombro; exercita o ombro.
+Eleva o braço e a mão a determinados intervalos.
+O cliente realiza o autocuidado; realiza os cuidados de higiene; utiliza equipamento auxiliar.
+O cliente demonstra as técnicas para compensar o desconforto dos déficits sensoriais, como virar a cabeça
+para ver as pessoas e os objetos.
+O cliente mostra deglutição segura.
+6.
+7.
+8.
+9.
+a.
+b.
+10.
+a.
+b.
+c.
+11.
+12.
+a.
+b.
+O cliente obtém padrão habitual de eliminação intestinal e vesical.
+O cliente participa do programa de melhora cognitiva.
+O cliente demonstra melhor comunicação.
+O cliente mantém a pele intacta, sem ruptura.
+Apresenta turgor cutâneo dentro dos limites normais.
+Participa nas atividades de mudança de posição e de posicionamento.
+Os familiares demonstram atitudes e mecanismos de enfrentamento positivos.
+Incentivam o cliente no programa de exercícios.
+Participam ativamente no processo de reabilitação.
+Contatam programas de serviços temporários ou se organizam entre si para assumir algumas
+responsabilidades dos cuidados.
+O cliente desenvolve abordagens alternativas para a expressão sexual.
+O cliente não tem complicações.
+Apresenta valores da PIC nos limites normais.
+Não apresenta sinal ou sintoma de pneumonia.
+Acidente vascular encefálico hemorrágico
+Os AVE hemorrágicos respondem por 15 a 20% dos distúrbios vasculares encefálicos e são principalmente
+causados por hemorragia intracraniana ou subaracnóidea, tendo como origem um sangramento dentro do tecido
+cerebral, nos ventrículos ou no espaço subaracnóideo. A hemorragia intracerebral primária em consequência de uma
+ruptura espontânea de pequenos vasos é responsável por aproximadamente 80% dos casos de AVE hemorrágico e é
+motivada principalmente pela hipertensão não controlada. A hemorragia subaracnóidea resulta da ruptura de um
+aneurisma intracraniano (discutido mais adiante, neste capítulo) em cerca de 50% dos casos (Hickey, 2009).
+Outra causa comum de hemorragia intracerebral no indivíduo idoso é a angiopatia amiloide cerebral, que
+envolve uma lesão causada pelo depósito de proteína beta­amiloide nos vasos sanguíneos de pequeno e de médio
+calibre do encéfalo. A hemorragia intracerebral secundária está associada a malformações arteriovenosas (MAV),
+aneurismas intracranianos, neoplasias intracranianas ou determinados medicamentos (p. ex., agentes
+anticoagulantes, anfetaminas). Foi relatada uma taxa de mortalidade elevada de até 50% no período de 30 dias após
+a ocorrência de hemorragia intracraniana (Adeoye, Ringer, Hornung et al., 2010). Clientes que sobrevivem à fase
+crítica dos cuidados habitualmente apresentam déficits mais graves e uma etapa de recuperação mais longa, em
+comparação com clientes que sofreram AVE isquêmico.
+Fisiopatologia
+A fisiopatologia do AVE hemorrágico depende da causa e do tipo de distúrbio vascular encefálico. Ocorrem
+sintomas quando a hemorragia primária, o aneurisma ou a MAV exerce pressão sobre os nervos cranianos ou o
+tecido cerebral adjacentes, ou, de maneira mais dramática, quando o aneurisma ou a MAV sofre ruptura, causando
+hemorragia subaracnóidea (hemorragia dentro do espaço subaracnóideo craniano). O metabolismo encefálico normal
+é interrompido pela exposição do encéfalo ao sangue; pelo elevação da PIC em consequência da súbita entrada de
+sangue dentro do espaço subaracnóideo, que comprime e lesiona o tecido encefálico; ou por isquemia secundária do
+encéfalo, em consequência de redução da pressão de perfusão e do vasospasmo que frequentemente acompanham a
+hemorragia subaracnóidea.
+Hemorragia intracerebral
+A hemorragia intracerebral ou sangramento dentro do tecido cerebral é mais comum em clientes que apresentam
+hipertensão arterial e aterosclerose cerebral, visto que as alterações degenerativas dessa doenças causam ruptura do
+vaso sanguíneo. Uma hemorragia intracerebral também pode ocorrer em consequência de certos tipos de patologia
+arterial, tumores cerebrais e uso de medicamentos (p. ex., agentes anticoagulantes orais, anfetaminas e uso de
+drogas ilícitas).
+O sangramento ocorre mais comumente nos lobos cerebrais, nos núcleos da base, no tálamo, no tronco
+encefálico (principalmente na ponte) e no cerebelo (Hickey, 2009). Em certas ocasiões, o sangramento rompe a
+parede do ventrículo lateral e provoca hemorragia intraventricular, que é frequentemente fatal.
+Aneurisma intracraniano (cerebral)
+O aneurisma intracraniano (cerebral) consiste em uma dilatação das paredes de uma artéria cerebral, que se
+desenvolve em consequência da fraqueza da parede arterial. A causa dos aneurismas não é conhecida, embora haja
+pesquisas em andamento. O aneurisma pode ser decorrente de aterosclerose, que resulta em um defeito da parede do
+vaso, com fraqueza subsequente da parede; de um defeito congênito da parede do vaso, doença vascular
+hipertensiva; de traumatismo cranioencefálico; ou de idade avançada.
+Qualquer artéria no encéfalo pode constituir o local de aneurisma cerebral; todavia, essas lesões ocorrem
+habitualmente nas bifurcações das grandes artérias no círculo de Willis (Figura 67.5). As artérias cerebrais mais
+comumente afetadas por um aneurisma são a artéria carótida interna, a artéria cerebral anterior, a artéria
+comunicante anterior, a artéria comunicante posterior, a artéria cerebral posterior e a artéria cerebral média. Não é
+rara a ocorrência de múltiplos aneurismas cerebrais.
+Malformações arteriovenosas
+As MAVs são causadas, em sua maioria, por uma anormalidade no desenvolvimento embrionário, que leva a um
+emaranhamento de artérias e veias no encéfalo, que carece de leito capilar (ver Figura 67.5). A ausência de um leito
+capilar leva à dilatação das artérias e das veias, e, por fim, à ruptura. A MAV constitui uma causa comum de AVE
+hemorrágico em pessoas jovens (Bader e Littlejohns, 2010).
+Figura 67.5 Locais comuns de aneurismas intracranianos e uma malformação arteriovenosa.
+Hemorragia subaracnóidea
+Pode ocorrer hemorragia subaracnóidea (hemorragia dentro do espaço subaracnóideo) em consequência de MAV,
+aneurisma intracraniano, traumatismo ou hipertensão. As causas mais comuns consistem em aneurisma
+extravasante na área do círculo de Willis e MAV congênita do encéfalo (Bader e Littlejohns, 2010).
+Manifestações clínicas
+O cliente com AVE hemorrágico pode apresentar ampla variedade de déficits neurológicos, à semelhança do cliente
+com AVE isquêmico. O cliente consciente relata mais comumente a ocorrência de cefaleia intensa. A realização de
+uma avaliação abrangente revela a extensão dos déficits neurológicos. Muitas das mesmas funções motoras,
+sensoriais, cognitivas, dos nervos cranianos e outras que são interrompidas após a ocorrência de AVE isquêmico
+também são alteradas após um AVE hemorrágico. A Tabela 67.2 fornece uma revisão dos déficits neurológicos
+frequentemente observados em clientes com AVE. A Tabela 67.3 compara os sintomas observados no AVE do
+hemisfério direito com os observados no AVE do hemisfério esquerdo. Outros sintomas que podem ser observados
+com mais frequência em clientes com hemorragia intracerebral aguda (em comparação com o AVE isquêmico)
+consistem em vômitos, alteração precoce e súbita do nível de consciência e, possivelmente, convulsões focais, dado
+o comprometimento frequente do tronco encefálico (Hickey, 2009).
+Além dos déficits neurológicos (semelhantes aos observados no AVE isquêmico), o cliente com aneurisma
+intracraniano ou MAV pode apresentar algumas manifestações clínicas singulares. A ruptura de aneurisma ou MAV
+produz habitualmente cefaleia súbita e extremamente intensa e, com frequência, perda da consciência por um
+período variável. Podem estar presentes dor e rigidez da parte posterior do pescoço (rigidez de nuca) e da coluna
+vertebral, em decorrência de irritação meníngea. Ocorrem distúrbios visuais (perda visual, diplopia, ptose) se o
+aneurisma for adjacente ao nervo oculomotor. Além disso, pode haver zumbidos, tontura e hemiparesia.
+Algumas vezes, o aneurisma ou a MAV extravasa sangue, levando à formação de um coágulo que veda o local
+de ruptura. Nessa situação, o cliente pode exibir pouco déficit neurológico. Em outros casos, ocorre sangramento
+grave, resultando em lesão cerebral, seguida rapidamente de coma e morte.
+O prognóstico depende da condição neurológica do cliente, da idade, da presença de doenças associadas, assim
+como da extensão e localização da hemorragia ou do aneurisma intracraniano. A hemorragia subaracnóidea em
+consequência de aneurisma é um evento catastrófico, com morbidade e mortalidade significativas.
+Avaliação e achados diagnósticos
+Qualquer cliente com suspeita de AVE deve se submeter a uma TC ou RM para definir tipo de AVE, tamanho e
+localização do hematoma e presença ou ausência de sangue no ventrículo e de hidrocefalia. A angiografia cerebral
+confirma o diagnóstico de aneurisma intracraniano ou MAV. Esses exames mostram a localização e o tamanho da
+lesão, e igualmente fornecem informações sobre as artérias, veias, vasos adjacentes e ramos vasculares afetados.
+Efetua­se punção lombar se não houver sinais de elevação da PIC, se os resultados da TC forem negativos e se
+houver necessidade de confirmação da hemorragia subaracnóidea. A punção lombar realizada na presença de PIC
+elevada pode resultar em herniação do tronco encefálico ou sangramento recorrente. Quando se estabelece o
+diagnóstico de AVE hemorrágico em um cliente com menos de 40 anos de idade, alguns médicos solicitam triagem
+toxicológica para uso de drogas ilícitas.
+Prevenção
+A prevenção primária do AVE hemorrágico constitui o melhor método e consiste no manejo da hipertensão e na
+melhora de outros fatores de risco significativos. O controle da hipertensão pode reduzir o risco de AVE
+hemorrágico. Outros fatores de risco incluem idade avançada, gênero masculino e consumo excessivo de bebidas
+alcoólicas (Bader e Littlejohns, 2010). As triagens para risco de AVE proporcionam uma oportunidade ideal para
+reduzir o risco de AVE hemorrágico ao identificar pessoas ou grupos de alto risco e ao fornecer orientação aos
+clientes e à comunidade sobre seu reconhecimento e prevenção.
+Complicações
+As possíveis complicações do AVE hemorrágico consistem em sangramento recorrente ou expansão do hematoma;
+vasospasmo cerebral, resultando em isquemia cerebral; hidrocefalia aguda, que ocorre quando o sangue livre obstrui
+a reabsorção do líquido cerebrospinal (LCS) pelas vilosidades aracnóideas; e convulsões.
+Hipoxia cerebral e fluxo sanguíneo diminuído
+As complicações imediatas do AVE hemorrágico consistem em hipoxia cerebral, diminuição do fluxo sanguíneo
+cerebral e extensão da área de lesão. A hipoxia cerebral é minimizada pelo fornecimento de oxigenação adequada de
+sangue ao encéfalo. A função cerebral depende do aporte de oxigênio aos tecidos. A administração de oxigênio
+suplementar e a manutenção da hemoglobina e do hematócrito em níveis aceitáveis ajudam a manter a oxigenação
+tecidual.
+O fluxo sanguíneo cerebral depende da pressão arterial, do débito cardíaco e da integridade dos vasos
+sanguíneos cerebrais. Deve­se assegurar uma hidratação adequada (soluções intravenosas) para reduzir a
+viscosidade do sangue e melhorar o fluxo sanguíneo cerebral. É necessário evitar picos de hipertensão ou de
+hipotensão para impedir alterações no fluxo sanguíneo cerebral e o potencial de estender a área de lesão.
+A ocorrência de convulsão também pode comprometer o fluxo sanguíneo cerebral, resultando em maior lesão
+ao encéfalo. A observação de atividade convulsiva e o início do tratamento apropriado constituem importantes
+componentes dos cuidados posteriores à ocorrência de AVE hemorrágico.
+Vasospasmo
+O desenvolvimento de vasospasmo cerebral (estreitamento do lúmen do vaso sanguíneo craniano acometido)
+representa uma grave complicação da hemorragia subaracnóidea, assim como constitui importante causa de
+morbidade e mortalidade em clientes que sobrevivem à hemorragia subaracnóidea inicial. Entre os clientes que
+apresentam vasospasmo cerebral, 15 a 20% morrem (Wuchner, Bakas, Adams et al., 2012). O mecanismo
+responsável pelo vasospasmo não está bem esclarecido; todavia, está associado a quantidades crescentes de sangue
+nas cisternas subaracnóideas e nas fissuras cerebrais, como visualizado na TC. O monitoramento à procura de
+vasospasmo pode ser realizado pelo uso de ultrassonografia transcraniana com Doppler ou angiografia cerebral de
+acompanhamento à cabeceira do leito (AANN, 2009).
+O vasospasmo ocorre mais frequentemente entre 7 e 10 dias após a hemorragia inicial (Connolly, Rabinstein,
+Carhuapoma et al., 2012), quando o coágulo sofre lise (dissolução), e a probabilidade de novo sangramento é
+aumentada. Provoca resistência vascular elevada, o que impede o fluxo sanguíneo cerebral e causa isquemia
+(isquemia cerebral tardia) e infarto cerebrais. Os sinais e sintomas observados refletem as áreas do encéfalo
+envolvidas. Com frequência, o vasospasmo é anunciado por um agravamento da cefaleia, diminuição do nível de
+consciência (confusão mental, letargia e desorientação) ou déficit neurológico focal recente (afasia, hemiparesia).
+O manejo do vasospasmo continua sendo difícil e controvertido. Acredita­se que a cirurgia precoce para a
+aplicação de clipe no aneurisma possa evitar o sangramento recorrente e que a remoção do sangue das cisternas
+basais ao redor das artérias cerebrais principais possa evitar o vasospasmo.
+Os medicamentos podem ser efetivos no tratamento do vasospasmo. Com base na teoria de que o vasospasmo
+é causado por um influxo aumentado de cálcio na célula, a terapia farmacológica pode ser usada para bloquear ou
+antagonizar essa ação e impedir ou reverter a ação do vasospasmo, se este já estiver presente. O bloqueador dos
+canais de cálcio usado com mais frequência é o nimodipino, cuja prescrição, pelas diretrizes atuais, é recomendada
+a todos os clientes com hemorragia subaracnóidea (Connolly et al., 2012). Na atualidade, trata­se do único fármaco
+aprovado pela FDA para a prevenção e o tratamento do vasospasmo na hemorragia subaracnóidea (AANN, 2009).
+Outra terapia para o vasospasmo e a isquemia cerebral tardia resultante, designada como terapia do triplo H,
+tem por objetivo reduzir ao mínimo os efeitos deletérios da isquemia cerebral associada e consiste em: (1)
+expansores do volume de líquidos (hipervolemia); (2) hipertensão arterial induzida; e (3) hemodiluição. Entretanto,
+as pesquisas e diretrizes atuais defendem a euvolemia para a prevenção da isquemia cerebral tardia e a hipertensão
+arterial induzida para o tratamento da isquemia cerebral tardia (Connolly et al., 2012).
+Pressão intracraniana elevada
+Uma elevação da PIC pode suceder um AVE isquêmico ou hemorrágico; todavia, quase sempre ocorre após uma
+hemorragia subaracnóidea, habitualmente por causa do distúrbio da circulação do LCS causado pela presença de
+sangue nas cisternas basais. São realizadas avaliações neurológicas com frequência, e, se houver sinais de
+deterioração em consequência da PIC elevada (em decorrência de edema cerebral, herniação, hidrocefalia ou
+vasospasmo), pode­se efetuar drenagem do LCS por meio de drenagem com cateter ventricular (Morgenstern,
+Hemphill, Anderson et al., 2010). Pode­se administrar manitol para reduzir a PIC. Quando esse é utilizado como
+medida a longo prazo para controle da PIC, pode haver desidratação e distúrbios no equilíbrio eletrolítico
+(hiponatremia ou hipernatremia; hipopotassemia ou hiperpotassemia). O manitol retira água do tecido cerebral por
+osmose e diminui a água corporal total por meio de diurese. O equilíbrio hídrico do cliente é monitorado
+continuamente e avaliado quanto a sinais de desidratação e elevação de rebote da PIC. Outras intervenções podem
+incluir elevação da cabeceira do leito, sedação, hiperventilação e uso de soro fisiológico hipertônico (Freeman e
+Aguilar, 2012).
+Hipertensão arterial
+A hipertensão arterial constitui a causa mais comum de hemorragia intracerebral, e seu tratamento é de importância
+crítica. As metas específicas para o manejo da pressão arterial, que são individualizadas por cliente, permanecem
+controversas e podem depender da presença de PIC elevada. Atualmente há ensaios clínicos em curso para
+investigar melhor o controle da pressão arterial na hemorragia intracerebral (Morgenstern et al., 2010). A pressão
+arterial sistólica pode ser reduzida para impedir o aumento do hematoma. Se a pressão arterial estiver elevada,
+pode­se prescrever a terapia anti­hipertensiva (labetalol, nicardipino, nitroprusseto, hidralazina). Durante a
+administração de anti­hipertensivos, o monitoramento hemodinâmico é importante para detectar e evitar queda
+precipitada da pressão arterial, que pode provocar isquemia cerebral. São usados emolientes fecais para evitar o
+esforço à defecação, que pode elevar a pressão arterial.
+Manejo clínico
+As metas do tratamento clínico para o AVE hemorrágico consistem em possibilitar que o encéfalo se recupere da
+agressão inicial (sangramento), em evitar ou reduzir ao mínimo o risco de sangramento recorrente e em impedir ou
+tratar as complicações. O manejo pode consistir em repouso no leito com sedação, a fim de evitar a agitação ou o
+estresse, manejo do vasospasmo e tratamento clínico ou cirúrgico para impedir novo sangramento. Quando o
+sangramento é causado por anticoagulação com varfarina, a RNI pode ser corrigida com plasma fresco congelado e
+vitamina K. A reversão do efeito anticoagulante dos anticoagulantes mais recentes é mais complicada. Os
+protocolos podem incluir hemodiálise, uso de carvão ativado por via oral, administração de concentrados de
+complexo protrombínico ou administração do fator VII ativado recombinante (Kaatz, Kouides, Garcia et al., 2012).
+Quando ocorrem, as convulsões são tratadas com agentes anticonvulsivantes, como a fenitoína (Bader e Littlejohns,
+2010). A hiperglicemia também deve ser tratada, e recomenda­se a normoglicemia. O cliente utiliza dispositivos de
+compressão sequencial ou meias de compressão elástica para evitar a trombose venosa profunda (TVP). Se o cliente
+ainda estiver imóvel 1 a 4 dias após o início da hemorragia, e a interrupção do sangramento for documentada,
+podem ser prescritos medicamentos para a prevenção da TVP (heparina de baixo peso molecular ou heparina não
+fracionada) (Morgenstern et al., 2010). Podem ser prescritos analgésicos para a dor na cabeça e no pescoço. A
+febre deve ser tratada com paracetamol, aplicações diretas de soro fisiológico gelado e dispositivos como cobertores
+de resfriamento (Bader e Littlejohns, 2010). Após a alta, a maioria dos clientes necessita de anti­hipertensivos para
+diminuir o risco de outra hemorragia intracerebral.
+Manejo cirúrgico
+Em muitos casos, a hemorragia intracerebral primária não é tratada cirurgicamente. Entretanto, se o cliente
+apresentar sinais de agravamento no exame neurológico, PIC elevada ou sinais de compressão do tronco encefálico,
+recomenda­se, então, a evacuação cirúrgica para o cliente com hemorragia cerebelar (Morgenstern et al., 2010). A
+evacuação cirúrgica é mais frequentemente realizada por meio de craniotomia (ver Capítulo 66).
+O cliente com aneurisma intracraniano é preparado para intervenção cirúrgica tão logo sua condição seja
+considerada estável. O tratamento cirúrgico do cliente com aneurisma não roto é uma opção. A meta da cirurgia
+consiste em evitar sangramento em um aneurisma não roto ou maior sangramento em um aneurisma que já sofreu
+ruptura. Esse objetivo é alcançado isolando o aneurisma de sua circulação ou fortalecendo a parede arterial. O
+aneurisma pode ser excluído da circulação cerebral por meio de ligadura ou clipe através de seu colo. Caso isso não
+seja anatomicamente possível, o aneurisma pode ser reforçado se for envolvido com alguma substância para
+proporcionar suporte e induzir a cicatrização.
+Os avanços na tecnologia levaram à introdução da neurorradiologia intervencionista para o tratamento dos
+aneurismas. Na atualidade, essas técnicas estão sendo usadas com mais frequência. As técnicas endovasculares
+podem ser utilizadas em clientes selecionados para ocluir o fluxo sanguíneo da artéria que alimenta o aneurisma
+com molas ou outras técnicas para ocluir o próprio aneurisma. Se o aneurisma for muito grande ou muito amplo no
+colo, pode­se utilizar um dispositivo semelhante a um stent feito de uma rede muito fina para desviar o fluxo
+sanguíneo do aneurisma. A escolha da técnica empregada baseia­se em muitos fatores (características do cliente e
+do aneurisma) e deve ser feita por especialistas endovasculares experientes (Connolly et al., 2012).
+As complicações pós­operatórias são raras, porém podem ocorrer. As possíveis complicações incluem
+sintomas psicológicos (desorientação, amnésia, síndrome de Korsakoff [distúrbio caracterizado por psicose,
+desorientação, delirium, insônia, alucinações, alterações da personalidade]), embolização intraoperatória ou ruptura
+de artéria, oclusão pós­operatória da artéria, distúrbios hidreletrolíticos (em consequência da disfunção do sistema
+neuro­hipofisário) e sangramento gastrintestinal.
+PROCESSO DEENFERMAGEM
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Clientecom acidentevascularencefálico hemorrágico
+Avaliação
+Uma avaliação neurológica completa deve ser realizada inicialmente e incluir a verificação dos seguintes itens:
+Nível de consciência alterado
+Reação pupilar lenta
+Disfunção motora e sensorial
+Déficits de nervos cranianos (movimentos extraoculares do olho, queda facial, presença de ptose)
+Dificuldades da fala e distúrbio visual
+Cefaleia e rigidez de nuca ou outros déficits neurológicos.
+Todos os clientes devem ser monitorados na unidade de terapia intensiva após a ocorrência de hemorragia
+intracerebral ou subaracnóidea. Os achados da avaliação neurológica são documentados e relatados, quando
+indicado. A frequência dessas avaliações varia, dependendo da condição do cliente. Quaisquer alterações na
+condição do cliente exigem reavaliação e documentação completa; as alterações devem ser relatadas
+imediatamente.
+Alerta de domínio do conceito
+A alteração no nível de consciência frequentemente constitui o sinalmais precoce de deterioração no cliente comAVE hemorrágico.Como têm
+contatomaisconstante como cliente, as enfermeiras estão emmelhor posição para detectar alteraçõessutis.Sonolência e fala ligeiramente
+arrastada podemconstituirsinais precoces de que o nível de consciência está se deteriorando.
+Diagnóstico
+Diagnósticos de enfermagem
+Com base nos dados da avaliação, os principais diagnósticos de enfermagem podem incluir os seguintes:
+Perfusão tissular (cerebral) ineficaz relacionada com sangramento ou vasospasmo
+Ansiedade relacionada com a doença e/ou restrições impostas pelo médico (precauções para aneurisma)
+Problemas colaborativos/complicações potenciais
+As complicações potenciais podem incluir as seguintes:
+Vasospasmo
+Convulsões
+Hidrocefalia
+Sangramento recorrente
+Hiponatremia.
+Planejamento e metas
+As metas para o cliente podem consistir em melhora da perfusão tissular do cérebro, alívio da ansiedade e
+ausência de complicações.
+Intervenções de enfermagem
+Otimização da perfusão tissular cerebral
+O cliente é rigorosamente monitorado à procura de deterioração neurológica em consequência de sangramento
+recorrente, elevação da PIC ou vasospasmo. Um fluxograma neurológico é mantido. A pressão arterial, o pulso,
+o nível de consciência (um indicador de perfusão cerebral), as respostas pupilares e a função motora são
+verificados de hora em hora. O estado respiratório é monitorado, visto que uma redução do oxigênio em áreas do
+encéfalo com comprometimento da autorregulação aumenta a probabilidade de infarto cerebral. Quaisquer
+alterações devem ser relatadas imediatamente.
+Implementação das precauções para o aneurisma. As precauções para o aneurisma cerebral são
+implantadas em clientes com diagnóstico de aneurisma para proporcionar um ambiente não estimulante, evitar
+elevação da PIC e impedir a ocorrência de maior sangramento. O cliente é colocado em repouso imediato ou
+absoluto no leito em um ambiente tranquilo e não estressante, visto que a atividade, a dor e a ansiedade elevam a
+pressão arterial, o que aumenta o risco de sangramento. As visitas, com exceção da família, são restringidas
+(AANN, 2009).
+A cabeceira do leito é elevada entre 15 e 30° para promover a drenagem venosa e reduzir a PIC. Entretanto,
+alguns neurologistas preferem que o cliente permaneça deitado na horizontal para aumentar a perfusão cerebral.
+Qualquer atividade capaz de elevar subitamente a pressão arterial ou causar obstrução do retorno venoso é
+evitada. Isso inclui a manobra de Valsalva, o esforço para defecar, o espirro forçado, o esforço para se
+movimentar no leito, a flexão ou rotação aguda da cabeça e do pescoço (o que compromete as veias jugulares) e
+o tabagismo. Qualquer atividade que exija esforço está contraindicada. O cliente é instruído a expirar pela boca
+durante a micção ou a defecação para diminuir o esforço. Não são permitidos enemas, porém são prescritos
+emolientes fecais e laxantes leves. Deve­se evitar a constipação intestinal, o que poderia causar elevação da PIC,
+assim como os enemas. Uma iluminação fraca é útil, visto que a fotofobia (intolerância visual à luz) é comum. O
+café e o chá, a não ser os descafeinados, são habitualmente eliminados.
+Podem­se prescrever meias de compressão elástica ou dispositivos de compressão sequencial para diminuir
+a incidência de TVP em consequência da imobilidade. As pernas são observadas quanto a sinais e sintomas de
+TVP (hipersensibilidade, rubor, tumefação, calor e edema), e os achados anormais são relatados.
+A enfermeira implementa todos os cuidados pessoais. O cliente é alimentado e banhado para evitar qualquer
+esforço que possa elevar a pressão arterial. Os estímulos externos são mantidos ao mínimo, incluindo os
+provenientes de televisão, rádio e leitura. As visitas são restritas em um esforço de manter o cliente o mais
+calmo possível. Essa precaução deve ser individualizada, com base na condição do cliente e na sua resposta a
+visitas. Deve­se colocar um aviso sobre essa restrição na porta do quarto, e as restrições devem ser discutidas
+com o cliente e sua família. A finalidade das precauções para o aneurisma deve ser explicada detalhadamente
+tanto ao cliente (se possível) quanto à família.
+Alívio da ansiedade
+A estimulação sensorial é mantida ao mínimo para clientes com precauções para aneurisma. Para os clientes que
+estão despertos, alertas e orientados, uma explicação sobre as restrições ajuda a reduzir a sensação de isolamento
+do cliente. A orientação da realidade é fornecida para ajudar a manter a orientação.
+Manter o cliente bem informado sobre o plano de cuidados proporciona tranquilização e auxilia na redução
+do nível de ansiedade. A tranquilização apropriada também ajuda a aliviar os medos e a ansiedade do cliente. A
+família também necessita de informações e apoio.
+Monitoramento e manejo de complicações potenciais
+Vasospasmo. O cliente é avaliado à procura de sinais de possível vasospasmo: cefaleias intensificadas,
+diminuição no nível de responsividade (confusão mental, desorientação, letargia) ou evidências de afasia ou
+paralisia facial. Esses sinais podem surgir vários dias após a cirurgia ou no início do tratamento e precisam ser
+relatados imediatamente. Deve­se administrar nimodipino, um bloqueador dos canais de cálcio, para a prevenção
+do vasospasmo, e podem ser também prescritos expansores do volume de líquidos (Connolly et al., 2012).
+Convulsões. As precauções das convulsões são mantidas para todo cliente com risco de atividade convulsiva.
+Caso ocorra uma convulsão, as principais metas consistem em manter a via respiratória e impedir a lesão. A
+terapia farmacológica é iniciada nesse momento.
+Hidrocefalia. A presença de sangue no espaço subaracnóideo ou nos ventrículos impede a circulação do LCS,
+resultando em hidrocefalia. Uma TC indicando dilatação dos ventrículos confirma o diagnóstico. Pode ocorrer
+hidrocefalia nas primeiras 24 h (aguda) após a hemorragia subaracnóidea, ou por vários dias (subaguda) ou
+várias semanas (tardia) depois. Os sintomas variam de acordo com o momento do início e podem ser
+inespecíficos. A hidrocefalia aguda caracteriza­se pelo início súbito de estupor ou coma, e o manejo consiste em
+dreno de ventriculostomia para diminuir a PIC. Os sintomas da hidrocefalia subaguda e tardia incluem início
+gradual de sonolência, alterações comportamentais e marcha atáxica. Uma derivação ventriculoperitoneal é
+cirurgicamente colocada para tratar a hidrocefalia crônica. As alterações na responsividade do cliente são
+1.
+a.
+b.
+c.
+d.
+2.
+relatadas imediatamente.
+Novo sangramento. A taxa anual de hemorragia recorrente é de aproximadamente 2,1 a 3,7% por cliente
+após uma hemorragia intracerebral primária (Morgenstern et al., 2010). A hipertensão constitui o fator de risco
+mais grave e modificável, mostrando a importância do tratamento anti­hipertensivo apropriado.
+O novo sangramento do aneurisma ocorre mais frequentemente durante as primeiras 2 semanas após a
+hemorragia inicial e é considerado uma complicação importante. Os sintomas de sangramento recorrente incluem
+cefaleia intensa e súbita, náuseas, vômitos, nível diminuído de consciência e déficit neurológico. O novo
+sangramento é confirmado por TC. A pressão arterial é cuidadosamente mantida com medicamentos. O
+tratamento preventivo mais efetivo consiste em fixar o aneurisma se o cliente for candidato à cirurgia ou
+tratamento endovascular.
+Hiponatremia. Após a hemorragia subaracnóidea, verifica­se o desenvolvimento de hiponatremia em até 50%
+dos clientes (AANN, 2009). Os dados laboratoriais precisam ser verificados com frequência, e a hiponatremia
+(definida como uma concentração sérica de sódio inferior a 135 mEq/ ℓ ) deve ser identificada o mais cedo
+possível. O médico do cliente precisa ser notificado sobre a persistência de um nível sérico baixo de sódio por
+24 h ou mais. Em seguida, o cliente é avaliado quanto à suspeita de síndrome de secreção inapropriada de
+hormônio antidiurético (SIHAD [descrita no Capítulo 13]) ou de síndrome cerebral perdedora de sal. Esta última
+síndrome ocorre quando os rins são incapazes de conservar o sódio, resultando em depleção de volume. O
+tratamento mais frequente consiste no uso de soro fisiológico hipertônico a 3% por via intravenosa.
+Promoção dos cuidados domiciliar e comunitário
+Orientação do cliente sobre autocuidados. O cliente e sua família recebem orientações que os
+capacitarão a cooperar com os cuidados e as restrições necessárias durante a fase crítica do AVE hemorrágico,
+bem como os prepararão para o retorno à casa. A orientação ao cliente e à sua família incluem informações sobre
+as causas do AVE hemorrágico e suas possíveis consequências. Além disso, são informados sobre os
+tratamentos clínicos que estão sendo implementados, incluindo intervenção cirúrgica, se necessário, bem como a
+razão de intervenções realizadas para evitar e detectar as complicações (i. e., precauções para o aneurisma,
+monitoramento rigoroso do cliente). Dependendo da presença e da gravidade do comprometimento neurológico e
+de outras complicações resultantes do AVE, o cliente pode ser transferido para uma unidade ou centro de
+reabilitação para orientação adicional do cliente e da família sobre estratégias para readquirir a capacidade de
+autocuidado. A orientação aborda o uso de dispositivos auxiliares ou a realização de modificações no ambiente
+domiciliar para ajudar o cliente a viver com a incapacidade. Podem ser necessárias modificações na residência
+para proporcionar um ambiente seguro.
+Cuidados contínuos. A fase crítica e de reabilitação dos cuidados concentra­se nas necessidades, nas
+questões e nos déficits evidentes para o cliente com AVE hemorrágico. O cliente e sua família são lembrados da
+razão de seguir as recomendações para evitar outro AVE hemorrágico e de manter as consultas de
+acompanhamento com profissionais de saúde para monitorar os fatores de risco. O encaminhamento para
+cuidado domiciliar pode ser necessário para avaliar o ambiente domiciliar e a capacidade do cliente, assim como
+para certificar­se de que tanto o cliente quanto a sua família são capazes de realizar o tratamento no domicílio.
+As visitas domiciliares oferecem oportunidades para monitorar o estado físico e psicológico do cliente e a
+capacidade da família de enfrentar quaisquer alterações no estado do cliente. Além disso, a enfermeira de
+cuidado domiciliar reitera ao cliente e à sua família a razão de continuar a promoção da saúde e as práticas de
+triagem. O Boxe 67.6 fornece uma lista de orientações aos clientes que se recuperam de um AVE.

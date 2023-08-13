@@ -1,0 +1,1590 @@
+Atualmente é possível auxiliar o cliente com insuficiência cardíaca a viver por mais tempo e ter alta qualidade de
+vida. Os avanços em procedimentos diagnósticos, tratamentos, tecnologias e farmacoterapias possibilitam
+diagnósticos mais precoces e mais precisos e tratamento que pode ser instituído bem antes que ocorra debilitação
+significativa. Entretanto, a cardiopatia ainda é uma condição crônica, e geralmente progressiva, que está associada a
+complicações sérias. Este capítulo apresenta as complicações mais frequentemente associadas aos distúrbios
+cardíacos e as opções de tratamento colaborativo para estas complicações.
+NSUFICIÊNCIA CARDÍACA
+A insuficiência cardíaca (IC) é uma síndrome clínica que resulta de distúrbios cardíacos estruturais ou funcionais
+que comprometem a capacidade dos ventrículos de serem preenchidos ou ejetar sangue. No passado, a IC era com
+frequência denominada insuficiência cardíaca congestiva (ICC), tendo em vista que muitos clientes apresentam
+congestão pulmonar ou periférica com edema. Atualmente, a IC é reconhecida como uma síndrome clínica
+caracterizada por sinais e sintomas de sobrecarga de líquido e perfusão tissular inadequada. A sobrecarga de líquido
+e a diminuição da perfusão tissular ocorrem quando o coração não consegue gerar um débito cardíaco (DC)
+suficiente para atender as demandas do corpo de oxigênio e nutrientes. O termo insuficiência ou falência cardíaca
+indica a doença miocárdica na qual o comprometimento da contração do coração (disfunção sistólica) ou do
+enchimento cardíaco (disfunção diastólica) pode causar congestão pulmonar ou sistêmica. Alguns casos de IC são
+reversíveis, dependendo da causa. Com mais frequência, a IC é uma condição crônica e progressiva, que é tratada
+com alterações do estilo de vida e medicamentos para prevenir episódios de insuficiência cardíaca
+descompensada aguda. Esses episódios são caracterizados por agravamento dos sinais/sintomas, diminuição do
+DC e baixa perfusão (Lindenfeld, Albert, Boehmer et al., 2010). Também estão associados a aumento de
+hospitalizações, aumento dos custos com assistência à saúde e diminuição da qualidade de vida.
+Insuficiência cardíaca crônica
+Como na doença da artéria coronária (DAC), a incidência de IC aumenta com a idade. Aproximadamente seis
+milhões de pessoas nos EUA apresentam IC, e 550.000 novos casos são diagnosticados a cada ano (Roger, Go,
+Lloyd­Jones et al., 2012). Embora a IC possa afetar pessoas de todas as idades, é mais comum em pessoas com
+mais de 75 anos de idade. À medida que a população norte­americana envelhece, a IC se torna uma epidemia que
+desafia os recursos de saúde do país. A IC é o motivo mais comum de hospitalização de pessoas com mais de 65
+anos de idade e é o segundo motivo mais comum de consultas médicas. A taxa de idas ao pronto­socorro e rehospitalizações em virtude desta condição permanece muito alta. Aproximadamente 24% dos clientes que recebem
+alta após tratamento para IC são re­hospitalizados em 30 dias (Hernandez, Greiner, Fonarow et al., 2010). O ônus
+econômico estimado causado pela IC nos EUA é superior a US$ 39 bilhões ao ano em custos diretos e indiretos, e
+prevê­se um aumento (Norton, Georgiopoulou, Kalogeropoulos et al., 2011).
+O aumento da incidência de IC reflete não apenas a população em envelhecimento, mas também melhoras no
+tratamento e nas taxas de sobrevida das pessoas com diagnósticos cardíacos, tais como infarto do miocárdio.
+Muitas hospitalizações em virtude de IC podem ser prevenidas por cuidados ambulatoriais apropriados. A
+prevenção e a intervenção inicial para interromper a progressão da IC são iniciativas de saúde importantes nos EUA
+(Fonarow, Albert, Curtis et al., 2010).
+Dois principais tipos de IC são identificados por meio da avaliação da função ventricular esquerda,
+habitualmente por meio de ecocardiograma. O tipo mais comum é uma alteração na contração ventricular,
+denominada insuficiência cardíaca sistólica, que é caracterizada por enfraquecimento do músculo cardíaco. Um
+tipo menos comum é a insuficiência cardíaca diastólica, que é caracterizada por músculo cardíaco rígido e não
+complacente, que dificulta o enchimento do ventrículo. É realizada uma avaliação da fração de ejeção (FE) por
+meio de ecocardiograma para auxiliar na determinação do tipo de IC. A FE é calculada por meio da subtração do
+volume de sangue existente no ventrículo esquerdo ao final da sístole do volume existente ao final da diástole, e do
+cálculo da porcentagem de sangue que é ejetada. FE normal é de 55 a 65% do volume ventricular; o ventrículo não
+esvazia completamente entre as contrações. A FE é normal na IC diastólica, mas está muito reduzida na IC
+sistólica.
+Embora uma FE baixa seja uma característica da IC sistólica, a gravidade da IC com frequência é classificada
+de acordo com os sintomas do cliente. A classificação da insuficiência cardíaca da New York Heart Association
+(NYHA) está descrita na Tabela 29.1. O American College of Cardiology e a American Heart Association
+(ACC/AHA) elaboraram outro sistema de classificação da IC (Jessup, Abraham, Casey et al., 2009). Este sistema,
+descrito na Tabela 29.2, leva em consideração a história natural e a natureza progressiva da IC. Foram
+desenvolvidas diretrizes de tratamento para cada estágio, que são discutidas posteriormente neste capítulo.
+Etiologia
+A disfunção do miocárdio e a IC podem ser causadas por inúmeras condições, incluindo DAC, hipertensão arterial,
+miocardiopatia, distúrbios valvares e disfunção renal com sobrecarga de volume (McCance, Huether, Brashers et
+al., 2010). Clientes com diabetes melito também correm alto risco de IC. A aterosclerose das artérias coronárias é
+uma causa primária de IC, e DAC é encontrada na maioria dos clientes com IC. A isquemia causa disfunção do
+miocárdio, tendo em vista que priva as células cardíacas de oxigênio e causa lesão celular. O infarto do miocárdio
+causa necrose focal do músculo cardíaco, a morte das células miocárdicas e perda da contratilidade; a extensão do
+infarto está correlacionada com a gravidade da IC. A revascularização miocárdica por meio de uma intervenção
+coronariana percutânea (ICP) ou de enxertos de artérias ou veias nas artérias coronárias pode melhorar a oxigenação
+miocárdica e a função ventricular e prevenir a necrose miocárdica mais extensiva, que pode levar à IC (ver Capítulo
+27).
+A hipertensão sistêmica ou pulmonar aumenta a pós­carga (resistência à ejeção), que aumenta o esforço
+cardíaco e causa hipertrofia das fibras musculares miocárdicas. Isso pode ser considerado um mecanismo
+compensatório, tendo em vista que inicialmente aumenta a contratilidade. Entretanto, a hipertensão prolongada
+acaba levando a alterações que comprometem a capacidade de enchimento adequado do coração durante a diástole, e
+os ventrículos hipertrofiados podem dilatar e se tornar insuficientes (Porth, 2011).
+TABELA 29.1 Classi䊳啕cação de insu䊳啕ciência cardíaca da New York Heart Association.
+Classi䊳啕cação Sinais e sintomas
+I Não hálimitaçãodaatividadefísica
+A atividade habitual nãocausafadigaindevida,palpitação nem dispneia
+II Limitaçãodiscretadaatividadefísica
+Confortávelem repouso, masaatividade
+física habitualprovocafadiga,palpitação
+oudispneia
+III Limitaçãoacentuadadaatividadefísica
+Confortávelem repouso, masaatividadeinferiorà normal causafadiga,palpitaçãooudispneia
+IV Incapazderealizarqualqueratividadefísicasem desconforto
+Sintomasdeinsu렅 ciênciacardíacaem repouso
+•
+•
+•
+•
+•
+•
+•
+•
+Sequalqueratividadefísicafor realizada,odesconfortopiora
+Adaptada de American Heart Association. (2012). Classification of functional capacity and objective assessment.
+Disponível em:
+http://my.americanheart.org/professional/StatementsGuidelines/ByPublicationDate/PreviousYears/Classification­ofFunctional­Capacity­and­Objective­Assessment_UCM_423811_Article.jsp.
+TABELA 29.2 Classi䊳啕cação da insu䊳啕ciência cardíaca do American College ofCardiology e da American Heart Association.
+Classi䊳啕cação Critérios Características do cliente
+Recomendações de tratamento para
+clientes adequados
+Estágio A Clientesdealtoriscoparaodesenvolvimento
+dedisfunçãoventricularesquerda, mas sem
+cardiopatiaestruturalousintomasdeIC
+Hipertensãoarterial
+Doençaaterosclerótica
+Diabetes melito
+Obesidade
+Controledos fatoresderisco
+InibidordaECA ou BRA
+Estágio B Clientes com disfunçãoventricularesquerdaou
+cardiopatiaestruturalque não
+desenvolveram sintomasdeIC
+Históricodeinfartodo miocárdio
+Hipertro렅 aventricularesquerda
+Fraçãodeejeçãobaixa
+Implementeas recomendaçõesdoestágio A,e
+também:
+Betabloqueador
+Estágio C Clientes com disfunçãoventricularesquerdaou
+cardiopatiaestrutural com sintomasatuais
+ouanterioresdecardiopatia
+Dispneia
+Fadiga
+Diminuiçãodatolerânciaaosesforços físicos
+Implementeas recomendaçõesdosestágios A e
+B,etambém:
+Diuréticos
+Restriçãodesódio
+Des렅 brilador implantável
+Terapiaderessincronizaçãocardíaca
+Estágio D Clientes com ICem estágioterminal refratária
+que necessitam deintervenções
+especializadas
+Sintomas,apesardaterapiaclínica máxima
+Hospitalizações recidivantes
+Implementeas recomendaçõesdosestágios A,
+B eC,etambém:
+Cuidadosao 렅 naldavida
+Medidasextraordinárias:
+Transplantecardíaco
+Suporte mecânico
+IC, Insuficiência cardíaca; ECA, enzima conversora da angiotensina; BRA, bloqueador de receptores de angiotensina.
+Adaptada de Jessup M, Abraham WT, Casey DE et al. 2009 focused update: ACCF/AHA guidelines for the diagnosis and
+management of heart failure in adults: A report of the American College of Cardiology Foundation/American Heart
+Association Task Force on Practice Guidelines. Circulation, 2009; 119(14), 1977­2016.
+A miocardiopatia é uma doença do miocárdio. Existem três tipos principais: dilatada, hipertrófica e restritiva
+ou constritiva (ver Capítulo 28). A miocardiopatia dilatada, o tipo mais comum de miocardiopatia, causa necrose e
+fibrose difusa de miócitos, e comumente leva à IC (Porth, 2011). A miocardiopatia dilatada pode ser idiopática
+(causa desconhecida), ou pode resultar de processo inflamatório, tal como miocardite, ou de um agente citotóxico,
+tal como álcool etílico ou doxorrubicina. A miocardiopatia hipertrófica e a miocardiopatia restritiva causam
+diminuição da distensibilidade e do enchimento ventricular (insuficiência diastólica). Habitualmente, a IC
+decorrente de miocardiopatia é crônica e progressiva. Entretanto, a miocardiopatia e a IC podem ser resolvidas após
+a remoção do agente causal (p. ex., cessação do consumo de bebidas alcoólicas).
+A valvopatia cardíaca também é uma causa de IC. As valvas asseguram que o sangue flua em um sentido. Com
+a disfunção valvar, a movimentação anterógrada do sangue torna­se cada vez mais difícil, aumentando a pressão no
+coração e aumentando o esforço cardíaco, que levam à IC. (Ver no Capítulo 28 os efeitos da valvopatia cardíaca.)
+Diversas condições sistêmicas, incluindo insuficiência renal progressiva, contribuem para o desenvolvimento e
+a gravidade da IC. Mais de 40% dos clientes com IC crônica apresentam comprometimento da função renal. O
+termo síndrome cardiorrenal descreve esses problemas duplos que estão associados a aumento das taxas de
+morbidade e mortalidade (Damman, Voors, Navis et al., 2011). Além disso, as arritmias cardíacas, tais como a
+fibrilação atrial, podem causar IC ou resultar dela; em ambos os casos, a alteração da estimulação elétrica
+compromete a contração do miocárdio e diminui a eficiência geral da função miocárdica. Outros fatores, tais como
+hipoxia, acidose e anormalidades eletrolíticas, podem piorar a função do miocárdio.
+Fisiopatologia
+Independentemente da etiologia, a fisiopatologia da IC resulta em alterações fisiopatológicas e manifestações
+clínicas semelhantes. De modo geral, ocorre disfunção miocárdica significativa antes que o cliente apresente sinais
+e sintomas de IC, tais como dispneia, edema ou fadiga.
+Na medida em que a IC se desenvolve, o corpo ativa mecanismos compensatórios neuro­hormonais. Esses
+mecanismos representam a tentativa do corpo de lidar com a IC e são responsáveis pelos sinais e sintomas que se
+desenvolvem ao final (Porth, 2011). A compreensão desses mecanismos é importante, tendo em vista que o
+tratamento para a IC tem por objetivo a sua oposição e o alívio dos sintomas.
+A IC sistólica resulta na diminuição do sangue ejetado pelo ventrículo. A diminuição do fluxo sanguíneo é
+detectada por barorreceptores nos corpos aórticos e carotídeos. Em seguida, o sistema nervoso simpático é
+estimulado a liberar epinefrina e norepinefrina (Figura 29.1). A finalidade desta resposta inicial é aumentar a
+frequência cardíaca e a contratilidade e amparar o miocárdio insuficiente, mas a continuação da resposta apresenta
+diversos efeitos negativos. A estimulação simpática causa vasoconstrição na pele, no trato gastrintestinal e nos rins.
+A diminuição na perfusão renal em virtude do DC baixo e da subsequente vasoconstrição causa a liberação de
+renina pelos rins. A renina converte a proteína plasmática angiotensinogênio em angiotensina I, que em seguida
+circula até os pulmões. A enzima conversora da angiotensina (ECA) no lúmen dos vasos sanguíneos pulmonares
+converte a angiotensina I em angiotensina II, um potente vasoconstritor, que em seguida aumenta a pressão arterial
+e a pós­carga. A angiotensina II também estimula a liberação de aldosterona do córtex suprarrenal, resultando em
+retenção de sódio e líquido pelos túbulos renais e aumento do volume sanguíneo. Esses mecanismos levam à
+sobrecarga hídrica, comumente observada na IC. Angiotensina, aldosterona e outros neuro­hormônios (p. ex.,
+endotelina) aumentam a pré­carga e a pós­carga, que elevam o estresse sobre a parede ventricular, causando
+aumento no esforço cardíaco. Um mecanismo contrarregulatório é tentado por meio da liberação de peptídios
+natriuréticos. O peptídio natriurético atrial (ANP) e o peptídio natriurético tipo B (BNP; tipo cerebral) são liberados
+das câmaras cardíacas excessivamente distendidas. Essas substâncias promovem vasodilatação e diurese.
+Entretanto, seu efeito normalmente não é suficientemente forte para superar os efeitos negativos dos outros
+mecanismos.
+Figura 29.1 A fisiopatologia da insuficiência cardíaca. A diminuição do débito cardíaco ativa diversos mecanismos neurohormonais, que acabam resultando nos sinais e sintomas de insuficiência cardíaca.
+À medida que o esforço do coração aumenta, a contratilidade das fibras musculares miocárdicas diminui. A
+diminuição da contratilidade resulta em um aumento no volume sanguíneo diastólico final no ventrículo,
+distendendo as fibras musculares miocárdicas e aumentando o tamanho do ventrículo (dilatação ventricular). O
+coração compensa o aumento do esforço de várias maneiras, por exemplo pelo aumento da espessura do músculo
+cardíaco (hipertrofia ventricular). Entretanto, a hipertrofia resulta em alterações anormais na estrutura e na função
+das células miocárdicas, um processo conhecido como remodelamento ventricular. Sob a influência de neurohormônios (p. ex., angiotensina II), as células miocárdicas aumentadas tornam­se disfuncionais e morrem
+precocemente (um processo denominado apoptose), deixando as demais células miocárdicas normais em luta para
+manter o DC.
+À medida que as células cardíacas morrem e o músculo cardíaco se torna fibrótico, pode haver o
+desenvolvimento da IC diastólica, o que provoca mais disfunção. Um ventrículo rígido resiste ao preenchimento, e
+menos sangue nos ventrículos causa diminuição adicional no DC. Todos esses mecanismos compensatórios da IC
+foram denominados “ciclo vicioso da IC”, tendo em vista que o DC baixo leva a diversos mecanismos que fazem
+com que o coração trabalhe ainda mais, piorando a IC.
+Manifestações clínicas
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Muitas manifestações clínicas estão associadas à IC (Boxe 29.1). Esses sinais e sintomas estão relacionados com a
+congestão e a perfusão insuficiente. Os sinais e sintomas de IC também podem estar relacionados com o ventrículo
+que está mais afetado. A insuficiência cardíaca esquerda (insuficiência ventricular esquerda) causa
+manifestações diferentes da insuficiência cardíaca direita (insuficiência ventricular direita). Na IC crônica, os
+clientes podem apresentar sinais e sintomas de insuficiência ventricular esquerda e direita.
+Insuficiência cardíaca esquerda
+Ocorre congestão pulmonar quando o ventrículo esquerdo não consegue bombear efetivamente o sangue para fora
+do ventrículo e para a aorta e a circulação sistêmica. O aumento do volume sanguíneo diastólico final ventricular
+esquerdo aumenta a pressão diastólica final ventricular esquerda, que diminui o fluxo sanguíneo do átrio esquerdo
+para o ventrículo esquerdo durante a diástole. O volume de sangue e a pressão aumentam no átrio esquerdo,
+diminuindo o fluxo pelas veias pulmonares e para o átrio esquerdo. O volume de sangue venoso pulmonar e a
+pressão aumentam nos pulmões, forçando o líquido dos capilares pulmonares para dentro dos tecidos pulmonares e
+dos alvéolos, causando edema intersticial pulmonar e comprometimento da troca gasosa. As manifestações clínicas
+da congestão pulmonar incluem dispneia, tosse, estertores crepitantes pulmonares e níveis baixos de saturação de
+oxigênio. Uma bulha cardíaca extra, B3, ou “galope ventricular”, pode ser detectada à ausculta. Ela é causada pelo
+enchimento ventricular anormal (Bickley e Szilagyi, 2009).
+Boxe
+29.1
+AVALIAÇÃO
+Insu䊳啕ciência cardíaca
+Estejaalertaem relaçãoaos sinaisesintomasaseguir:
+Congestão
+Dispneia
+Ortopneia
+Dispneia noturnaparoxística
+Tosse(em decúbitoouaosesforços)
+Estertores crepitantespulmonaresque não melhoram com atosse
+Ganhodepeso(rápido)
+Edemapostural
+Distensãooudesconfortoabdominal
+Ascite
+Distensãovenosajugular
+Transtornosdosono(ansiedadeoudispneia)
+Fadiga
+Perfusão insu䊳啕ciente/débito cardíaco diminuído
+Diminuiçãodatolerânciaaosesforços físicos
+Atro렅 aoufraqueza muscular
+Anorexiaou náuseas
+Perdadepesoinexplicada
+Vertigem outontura
+Confusãoinexplicadaoualteraçãodoestado mental
+Taquicardiaem repouso
+Oligúriadiurnacom noctúriaem decúbito
+Extremidades friasoucom vasoconstrição
+Palidezoucianose
+Institute for Clinical Systems Improvement. (2011). Heart failure in adults. Disponível em:
+www.guidelines.gov/content.aspx?id=34840&search=heart+failure.
+A dispneia (sensação de falta de ar) pode ser precipitada por atividade mínima a moderada (dispneia com o
+esforço [DOE]); a dispneia também pode ocorrer em repouso. O cliente pode relatar ortopneia, dificuldade
+respiratória ao deitar estendido. Clientes com ortopneia podem utilizar travesseiros para se apoiar na cama, ou
+podem sentar em uma poltrona e até mesmo dormir sentados. Alguns clientes apresentam ataques súbitos de
+dispneia à noite, uma condição conhecida como dispneia noturna paroxística (DNP). O líquido que se acumula
+nos membros inferiores durante o dia é reabsorvido para o volume sanguíneo circulante quando o cliente se deita.
+Tendo em vista que o ventrículo esquerdo comprometido não consegue ejetar o volume sanguíneo circulante
+aumentado, a pressão na circulação pulmonar aumenta, movimentando o líquido para os alvéolos. Os alvéolos
+preenchidos por líquido não conseguem trocar oxigênio e dióxido de carbono. Sem oxigênio suficiente, o cliente
+apresenta dispneia e dificuldade para dormir.
+A tosse associada à insuficiência ventricular esquerda é inicialmente seca e não produtiva. Com mais
+frequência, os clientes se queixam de tosse curta e seca que pode ser erroneamente rotulada como asma ou doença
+pulmonar obstrutiva crônica (DPOC). A tosse pode tornar­se mais úmida ao longo do tempo. Pode ser produzida
+muita expectoração espumosa, que por vezes é rosa ou escura (tingida com sangue), indicando IC descompensada
+aguda com edema pulmonar.
+Ruídos respiratórios adventícios podem ser auscultados em diversas áreas dos pulmões. Habitualmente,
+estertores crepitantes bibasilares que não desaparecem com a tosse são detectados na fase inicial da insuficiência
+ventricular esquerda. À medida que a insuficiência piora e a congestão pulmonar aumenta, os estertores crepitantes
+podem ser auscultados por todos os campos pulmonares. Neste ponto, a saturação de oxigênio pode diminuir.
+Além das manifestações pulmonares, o volume de sangue ejetado do ventrículo esquerdo diminui e pode levar
+à perfusão tissular inadequada. A diminuição do DC apresenta manifestações disseminada, tendo em vista que não
+chega sangue suficiente em todos os tecidos e órgãos (baixa perfusão) para fornecer o oxigênio necessário. A
+diminuição do volume sistólico (VS) também pode estimular o sistema nervoso simpático a liberar catecolaminas, o
+que impede ainda mais a perfusão para muitos órgãos, incluindo os rins.
+Na medida em que a redução do DC e as catecolaminas diminuem o fluxo sanguíneo para os rins, o débito
+urinário diminui (oligúria). A pressão de perfusão renal cai, e o sistema renina­angiotensina­aldosterona é
+estimulado para aumentar a pressão sanguínea e o volume intravascular. Entretanto, quando o cliente está dormindo,
+o esforço cardíaco diminui, melhorando a perfusão renal, que em alguns clientes leva à micção frequente à noite
+(noctúria).
+Com a progressão da IC, a diminuição do débito do ventrículo esquerdo pode causar outros sintomas. A
+diminuição da perfusão gastrintestinal causa alteração da digestão. A redução da perfusão cerebral causa tontura,
+vertigem, confusão, inquietação e ansiedade em virtude da diminuição da oxigenação e do fluxo sanguíneo. À
+medida que a ansiedade aumenta, também aumenta a dispneia, exacerbando a ansiedade e criando um ciclo vicioso.
+A estimulação do sistema simpático também causa a constrição dos vasos sanguíneos periféricos, por isso a pele
+parece pálida ou cinzenta e fria e pegajosa.
+A diminuição do VS faz com que o sistema nervoso simpático aumente a frequência cardíaca (taquicardia),
+fazendo com que o cliente se queixe de palpitações. Os pulsos periféricos tornam­se fracos. Sem o DC adequado, o
+corpo não consegue responder ao aumento das demandas de energia, e o cliente facilmente sente fadiga e apresenta
+diminuição da tolerância às atividades. A fadiga também resulta do aumento da energia despendida na respiração e
+da insônia que resulta da angústia respiratória, da tosse e da noctúria.
+Insuficiência cardíaca direita
+Quando o ventrículo direito se torna insuficiente, predomina a congestão nos tecidos periféricos e nas vísceras. Isso
+ocorre porque o lado direito do coração não consegue ejetar sangue de modo efetivo e não consegue acomodar todo
+o sangue que retorna para ele a partir da circulação venosa. O aumento da pressão venosa causa distensão venosa
+jugular (DVJ) e aumento da pressão hidrostática capilar por todo o sistema venoso. As manifestações clínicas
+sistêmicas incluem edema de membros inferiores (edema postural), hepatomegalia (aumento do fígado), ascite
+(acúmulo de líquido na cavidade peritoneal) e ganho ponderal em virtude da retenção de líquido.
+Habitualmente o edema afeta os pés e os tornozelos e piora quando o cliente permanece em pé ou sentado por
+um longo período. O edema pode diminuir quando o cliente eleva as pernas. E pode progredir gradualmente até a
+parte superior das pernas e as coxas e, finalmente, a genitália externa e a parte inferior do tronco. A ascite é
+evidenciada pelo aumento da cintura abdominal e pode acompanhar o edema da parte inferior do corpo, ou pode ser
+o único edema presente. O edema sacral é comum em clientes que estão em repouso no leito, tendo em vista que a
+área sacral é dependente. O edema com cacifo positivo, no qual as endentações na pele permanecem até mesmo após
+uma leve compressão com as pontas dos dedos (Figura 29.2), em geral é óbvio após a retenção de no mínimo 4,5
+kg de líquido (4,5 ℓ).
+A hepatomegalia e a dor à palpação do quadrante superior direito do abdome resultam do ingurgitamento
+hepático. O aumento da pressão pode interferir na capacidade funcional do fígado (disfunção hepática secundária).
+Com a progressão da disfunção hepática, o aumento da pressão nos vasos portais pode forçar o líquido para a
+cavidade abdominal, causando ascite. A ascite pode aumentar a pressão sobre o estômago e os intestinos e causar
+desconforto gastrintestinal. A hepatomegalia também pode aumentar a pressão sobre o diafragma, causando
+angústia respiratória.
+Figura 29.2 Exemplo de edema com cacifo. A. A enfermeira comprime uma área próxima ao tornozelo. B. Quando a
+pressão é liberada, permanece uma endentação no tecido edemaciado. (De Bickley LS (2009). Bates’ guide to physical
+examination and history taking (10th ed.). Philadelphia: Lippincott Williams & Wilkins.)
+Anorexia (perda do apetite), náuseas ou dor abdominal podem resultar do ingurgitamento venoso e da estase
+venosa nos órgãos abdominais. A fraqueza generalizada que acompanha a IC direita resulta da redução do DC e do
+comprometimento da circulação.
+Alerta de domínio do conceito
+A IC esquerda refere-se à insu䊳啕ciência do ventrículo esquerdo; resulta emcongestão pulmonar. A IC direita, insu䊳啕ciência do ventrículo direito,
+resulta emcongestão nostecidos periféricos e nasvísceras.
+Avaliação e achados diagnósticos
+A IC pode não ser detectada até que o cliente apresente sinais e sintomas de edema pulmonar e periférico. Alguns
+dos sinais físicos que sugerem IC também podem ocorrer com outras doenças, tais como insuficiência renal e
+DPOC; portanto, os exames diagnósticos são essenciais para confirmar um diagnóstico de IC.
+•
+•
+•
+•
+•
+A avaliação da função ventricular é uma parte essencial dos procedimentos diagnósticos iniciais. Geralmente se
+realiza ecocardiografia para determinar a FE, identificar características anatômicas, tais como anormalidades
+estruturais e mau funcionamento valvar, e confirmar o diagnóstico de IC. Essas informações também podem ser
+obtidas de modo não invasivo por meio de ventriculografia com radionuclídeos ou de modo invasivo por meio de
+ventriculografia como parte de um procedimento de cateterização cardíaca. São realizadas radiografia de tórax e
+eletrocardiograma (ECG) de 12 derivações para auxiliar no diagnóstico. Os estudos laboratoriais normalmente
+realizados durante os procedimentos iniciais incluem eletrólitos séricos, ureia sérica, creatinina, testes de função
+hepática, hormônio tireoestimulante, hemograma completo, BNP e urinálise de rotina. O nível de BNP é um
+indicador diagnóstico importante de IC; níveis altos são sinal de pressão de preenchimento cardíaco alta e podem
+auxiliar no diagnóstico e no manejo da IC (Institute for Clinical Systems Improvement [ICSI], 2011). Os
+resultados desses estudos laboratoriais auxiliam na determinação da causa de base e também podem ser utilizados
+para estabelecer um valor basal para avaliar os efeitos do tratamento. A prova de esforço cardíaco ou a cateterização
+cardíaca podem ser realizados para determinar se doença da artéria coronária e isquemia cardíaca estão causando a
+IC.
+Manejo clínico
+Os objetivos gerais do manejo da IC são aliviar os sintomas do cliente, melhorar a condição funcional e a qualidade
+de vida, e estender a sobrevida. O prognóstico para os clientes com IC melhorou com a utilização de protocolos
+com base em evidências para o manejo dos clientes. As intervenções específicas têm por base o estágio da IC.
+Entre os objetivos do manejo clínico estão os seguintes (ICSI, 2011):
+Melhora da função cardíaca por meio da redução da pré­carga e da pós­carga
+Redução dos sintomas e melhora do estado funcional
+Estabilização da condição do cliente e redução do risco de hospitalização
+Adiamento da progressão da IC e extensão da expectativa de vida
+Promoção de um estilo de vida que conduz à saúde cardíaca.
+As opções de tratamento variam de acordo com a gravidade da condição do cliente e podem incluir
+medicamentos orais e intravenosos (IV), alterações importantes no estilo de vida, suplementação de oxigênio,
+implantação de dispositivos cardíacos e abordagens cirúrgicas, incluindo transplante cardíaco.
+O manejo do cliente com IC tem início com o fornecimento de instruções abrangentes e aconselhamento para o
+cliente e a família. O cliente e a família precisam compreender a natureza da IC e a importância da sua participação
+no esquema terapêutico. As recomendações sobre o estilo de vida incluem restrição do sódio alimentar; evitar o
+tabagismo, incluindo o passivo; evitar a ingestão excessiva de líquido e álcool etílico; redução do peso, quando
+indicada; e exercícios físicos regulares. O cliente também deve saber como reconhecer os sinais e sintomas que
+precisam ser relatados a um profissional de saúde.
+Terapia farmacológica
+Diversos medicamentos são prescritos rotineiramente para a IC, incluindo inibidores da ECA, betabloqueadores e
+diuréticos (Tabela 29.3). Muitos desses medicamentos, especialmente inibidores da ECA e betabloqueadores,
+melhoram os sintomas e estendem a sobrevida. Outros, tais como diuréticos, melhoram os sintomas, mas não
+afetam a sobrevida (Fonarow et al., 2010). As doses­alvo desses medicamentos são identificadas nas diretrizes do
+ACC/AHA, e as enfermeiras e os médicos atuam de modo cooperativo para alcançar a administração efetiva desses
+medicamentos (Jessup et al., 2009). Bloqueadores de canais de cálcio deixaram de ser recomendados para clientes
+com IC, tendo em vista que estão associados à piora da insuficiência (ICSI, 2011).
+Inibidores da enzima conversora da angiotensina
+Os inibidores da ECA são cruciais no manejo da IC sistólica. Observou­se que aliviam os sinais e sintomas da IC e
+diminuem significativamente a mortalidade e a morbidade. Os inibidores da ECA (p. ex., lisinopril) retardam a
+progressão da IC, melhoram a tolerância aos exercícios físicos e diminuem o número de hospitalizações em virtude
+de IC (ICSI, 2011). Disponíveis como medicamentos orais e IV, os inibidores da ECA promovem vasodilatação e
+diurese, diminuindo a pós­carga e a pré­carga. A vasodilatação reduz a resistência à ejeção ventricular esquerda de
+sangue, diminuindo o esforço do coração e melhorando o esvaziamento ventricular. Os inibidores da ECA
+diminuem a secreção de aldosterona, que é um hormônio que causa a retenção de sódio e água pelos rins. Os
+inibidores da ECA também promovem a excreção renal de sódio e líquidos (ao mesmo tempo que retêm potássio),
+reduzindo, assim, a pressão de preenchimento ventricular esquerdo e diminuindo a congestão pulmonar. Os
+inibidores da ECA podem ser o primeiro medicamento prescrito para os clientes em insuficiência leve – clientes
+com fadiga ou dispneia aos esforços, mas sem sinais de sobrecarga de líquido e congestão pulmonar. Esses agentes
+também são recomendados para a prevenção da IC em clientes de risco em virtude de hipertensão e doença da
+artéria coronária (Jessup et al., 2009).
+Os inibidores da ECA são iniciados em uma dose baixa, que é aumentada gradualmente até que a dose ideal
+seja alcançada e o cliente esteja hemodinamicamente estável. A dose de manutenção final depende da pressão
+arterial do cliente, da volemia e da função renal, bem como da gravidade da IC.
+Os clientes que recebem inibidores da ECA são monitorados em relação a hipotensão, hiperpotassemia
+(aumento de potássio no sangue) e alterações na função renal, especialmente se também estiverem recebendo
+diuréticos. Tendo em vista que os inibidores da ECA causam retenção de potássio pelos rins, o cliente que também
+está recebendo um diurético pode não necessitar de administração de suplementações orais de potássio. Entretanto,
+os clientes que recebem diuréticos poupadores de potássio (que não causam perda de potássio com a diurese) devem
+ser cuidadosamente monitorados em relação à hiperpotassemia. Os inibidores da ECA podem ser descontinuados se
+o nível de potássio permanecer superior a 5,5 mEq/ℓ ou se a creatinina sérica aumentar.
+TABELA 29.3Medicamentos utilizadoscomumente para o tratamento da insu䊳啕ciência cardíaca.
+Medicamento Efeitosterapêuticos Principaisconsiderações de enfermagem
+Inibidores da enzima conversora da angiotensina
+Lisinopril
+Enalapril
+↓ PA e ↓ pós-carga
+Aliviam os sinaisesintomasdeIC
+Previnem aprogressãodaIC
+Observese há hipotensãosintomática,aumentodo K
++
+sérico, tosseepiorada
+funçãorenal.
+Bloqueadores de receptores de angiotensina
+Valsartana
+Losartana
+↓ PA e ↓ pós-carga
+Aliviam os sinaisesintomasdeIC
+Previnem aprogressãodaIC
+Observese há hipotensãosintomática,aumentodo K
++
+sérico, tosseepiorada
+funçãorenal.
+Hidralazina e dinitrato de
+isossorbida
+Dilatam osvasos sanguíneos
+↓ PA e ↓ pós-carga
+Observese há hipotensãosintomática.
+Bloqueadores beta-adrenérgicos(betabloqueadores)
+Metoprolol
+Carvedilol
+Dilatam osvasos sanguíneose ↓ póscarga
+↓ SinaisesintomasdeIC
+Melhoram acapacidadeparaexercícios
+Observese hádiminuiçãodafrequênciacardíaca, hipotensãosintomática, tontura
+efadiga.
+Diuréticos
+Diuréticodealça:
+Furosemida
+Diuréticos tiazídicos:
+Metolazona
+Hidroclorotiazida
+↓ Sobrecargadevolume
+↓ SinaisesintomasdeIC
+Observese háanormalidadeseletrolíticas,disfunçãorenal, resistênciadiuréticae
+diminuiçãodaPA. Monitorecuidadosamenteoequilíbrio hídricoeopeso
+diário(ver Boxe29.2).
+Antagonistadaaldosterona: Melhoraos sintomasdeIC naIC Observese há hiperpotassemia, hiponatremia.
+Espironolactona
+avançada
+Digitálicos
+Digoxina Melhoraacontratilidadecardíaca
+↓ SinaisesintomasdeIC
+Observese hábradicardiaeintoxicaçãodigitálica.
+↓ diminui(em); PA, pressão arterial; IC, insuficiência cardíaca; K
++
+, potássio.
+Outros efeitos adversos dos inibidores da ECA incluem tosse seca e persistente, que pode não responder aos
+supressores da tosse. Entretanto, a tosse também pode indicar piora da função e insuficiência ventricular.
+Raramente, os inibidores da ECA podem causar uma reação alérgica acompanhada por angioedema. Se o
+angioedema afetar a área orofaríngea e comprometer a respiração, o inibidor da ECA deve ser imediatamente
+interrompido e devem ser fornecidos os cuidados de emergência.
+Se o cliente não puder continuar a administrar um inibidor da ECA em virtude do desenvolvimento de tosse,
+elevação do nível de creatinina, ou hiperpotassemia, um bloqueador de receptores de angiotensina (BRA) ou uma
+combinação de hidralazina e dinitrato de isossorbida são prescritos (ver Tabela 29.3).
+Bloqueadores de receptores de angiotensina
+Embora a ação dos BRA seja diferente daquela dos inibidores da ECA, os BRA (p. ex., valsartana) apresentam
+efeitos hemodinâmicos e efeitos colaterais similares (ICSI, 2011). Enquanto os inibidores da ECA bloqueiam a
+conversão da angiotensina I em angiotensina II, os BRA bloqueiam os efeitos vasoconstritores da angiotensina II
+nos receptores de angiotensina II. Os BRA são prescritos para clientes com IC como uma alternativa para os
+inibidores da ECA (Jessup et al., 2009).
+Hidralazina e dinitrato de isossorbida
+Uma combinação de hidralazina e dinitrato de isossorbida é outra opção para os clientes que não podem administrar
+inibidores da ECA (ICSI, 2011). Os nitratos (p. ex., dinitrato de isossorbida) causam dilatação venosa, que reduz o
+retorno de sangue para o coração e a pré­carga. A hidralazina reduz a resistência vascular sistêmica e a pós­carga
+ventricular esquerda. Essa combinação de medicamentos também é recomendada nas diretrizes para IC e pode ser
+mais efetiva para afro­americanos que não respondem aos inibidores da ECA (ICSI, 2011).
+Betabloqueadores
+Os betabloqueadores são prescritos rotineiramente em associação aos inibidores da ECA. Esses agentes bloqueiam
+os efeitos adversos do sistema nervoso simpático. Eles relaxam os vasos sanguíneos, reduzem a pressão arterial, a
+pós­carga e o esforço cardíaco. Observou­se que os betabloqueadores, tais como carvedilol e metoprolol, melhoram
+a condição funcional e reduzem as taxas de mortalidade e morbidade dos clientes com IC (ICSI, 2011). Além disso,
+os betabloqueadores foram recomendados para clientes com disfunção sistólica assintomática, tais como aqueles
+com diminuição da FE, para prevenir o início dos sintomas de IC. Entretanto, os efeitos terapêuticos desses
+fármacos podem não ser observados por diversas semanas, ou até mesmo meses.
+Os betabloqueadores podem produzir uma diversidade de efeitos colaterais, incluindo tontura, hipotensão,
+bradicardia, fadiga e depressão. Os efeitos colaterais são mais comuns nas poucas semanas iniciais do tratamento.
+Em virtude do potencial de efeitos colaterais, os betabloqueadores são iniciados a uma dose baixa. A dose
+lentamente é submetida à titulação ascendente (a intervalos de poucas semanas), com cuidadoso monitoramento
+após cada aumento da dose. A enfermeira deve orientar os clientes a respeito dos possíveis sintomas durante a fase
+inicial do tratamento e enfatizar que o ajuste do fármaco pode demorar algumas semanas. A enfermeira também
+deve fornecer amparo aos clientes que passam por esta fase do tratamento com provocação de sintomas. Tendo em
+vista que o betabloqueio pode causar constrição bronquiolar, esses fármacos são utilizados com cautela em clientes
+com um histórico de doenças broncoespásticas, tal como asma. Um betabloqueador beta­1­seletivo (ou seja,
+bloquador principalmente dos receptores beta­adrenérgicos no coração), como metoprolol, é recomendado para
+esses clientes (Aschenbrenner e Venable, 2012).
+•
+•
+•
+•
+•
+•
+•
+Diuréticos
+Os diuréticos são prescritos para remover o excesso de líquido extracelular por meio do aumento do volume de
+urina produzida em clientes com sinais e sintomas de sobrecarga de líquido. Diuréticos de alça, tiazidas e
+bloqueadores da aldosterona podem ser prescritos para clientes com IC. Esses medicamentos diferem no seu local
+de ação no rim e seus efeitos sobre a excreção e a reabsorção renal de eletrólitos.
+Os diuréticos de alça, tais como furosemida, inibem a reabsorção de sódio e cloreto, principalmente na alça de
+Henle ascendente. Os clientes com IC com sobrecarga de volume grave em geral são tratados primeiramente com
+um diurético de alça (ICSI, 2011). Os diuréticos tiazídicos, tais como metolazona, inibem a reabsorção de sódio e
+cloreto nos túbulos distais iniciais. As duas classes de diuréticos aumentam a excreção de potássio; portanto, os
+clientes tratados com esses medicamentos devem ter os seus níveis de potássio sérico monitorados cuidadosamente.
+Tanto um diurético de alça como um diurético tiazídico podem ser utilizados em clientes com IC grave que não
+sejam responsivos a um diurético único. Os diuréticos podem ser mais efetivos se o cliente assumir uma posição
+supina por 1 ou 2 h antes da sua administração. Pode haver diminuição da necessidade de diuréticos se o cliente
+evitar a ingestão excessiva de líquido (p. ex., mais de 2 ℓ/dia) e aderir a uma dieta com baixo teor de sódio (p. ex.,
+não mais que 2 g/dia) (Lindenfeld et al., 2010).
+A espironolactona é um diurético poupador de potássio que bloqueia os efeitos da aldosterona no túbulo distal
+e no ducto coletor. Reduz efetivamente a mortalidade e a morbidade em clientes com IC moderada a grave (ICSI,
+2011). Os níveis séricos de creatinina e potássio são monitorados com frequência (p. ex., na primeira semana e em
+seguida a cada 4 semanas) quando a espironolactona é administrada pela primeira vez.
+O tipo e a dose de diuréticos prescritos dependem dos sinais clínicos e sintomas e da função renal. São
+necessários o cuidadoso monitoramento do cliente e ajustes da dose para equilibrar a eficácia desses medicamentos
+com os efeitos colaterais (Boxe 29.2). Os diuréticos de alça são administrados por via IV para exacerbações da IC
+quando é necessária a diurese rápida. Os diuréticos melhoram os sintomas do cliente, desde que a função renal seja
+adequada. Com a progressão da IC, pode haver desenvolvimento ou piora da síndrome cardiorrenal. Os clientes
+com esta síndrome são resistentes aos diuréticos e podem precisar de outras intervenções para lidar com os sinais e
+sintomas congestivos (Damman et al., 2011).
+Digitálicos
+Por muitos anos, os digitálicos (digoxina) foram considerados agentes essenciais para o tratamento da IC, mas com
+o advento de novos medicamentos, não são prescritos com tanta frequência. A digoxina aumenta a força de
+contração do miocárdio e retarda a condução pelo nó atrioventricular. Ela melhora a contratilidade, aumentando o
+débito ventricular esquerdo. Embora a utilização da digoxina não resulte em diminuição das taxas de mortalidade
+entre os clientes com IC, ela efetivamente reduz os sinais/sintomas de IC sistólica e ajuda na prevenção de
+hospitalizações (ICSI, 2011). Clientes com disfunção renal e mais idosos devem receber doses menores de
+digoxina, tendo em vista que ela é excretada pelos rins.
+Boxe
+29.2
+FARMACOLOGIA
+Administração emonitoramento da terapia diurética
+Quandoos cuidadosdeenfermagem envolvem aterapiacom diuréticosparacondições tais comoainsu렅 ciênciacardíaca,aenfermeiradeveadministraro
+medicamentoe monitorararespostadoclientecuidadosamente, comosegue:
+Antesdaadministraçãododiurético,veri렅 queos resultados laboratoriaisem relaçãoàdepleçãodeeletrólitos,especialmentepotássio, sódioe magnésio
+Antesdaadministraçãododiurético,veri렅 queos sinaisesintomasdedepleçãodovolume, tais como hipotensãopostural,vertigem etontura
+Administreodiuréticoem um horáriocompatível com oestilodevidadocliente – porexemplo, logocedo nodiaparaevitara noctúria
+Monitoreodébitourinárioduranteas horas seguintesàadministração,eanaliseaingestão,aproduçãoeospesosdiáriosparaavaliararesposta
+Continuea monitoraroseletrólitos séricosem relaçãoàdepleção. Reponhaopotássiocom aumentodaingestãodealimentos com altoteordepotássioou
+suplementosdepotássio. Reponhao magnésioconforme necessário
+Monitoreem relaçãoà hiperpotassemiaem clientesquerecebem diuréticospoupadoresdepotássio
+Continueaavaliarem relaçãoaos sinaisdedepleçãodovolume
+•
+•
+•
+•
+•
+•
+Monitoreacreatininaem relaçãoaoaumentodos níveis indicativodedisfunçãorenal
+Monitoreem relaçãoàelevaçãodo níveldeácidoúricoeaos sinaisesintomasdegota
+Avalieos sonspulmonareseoedemaparaavaliararespostaàterapia
+Monitoreem relaçãoàs reaçõesadversas, tais comodesconfortogastrintestinalearritmias
+Encorajeaadoçãododecúbitodorsalapósaadministraçãodadoseparafacilitarosefeitosdodiurético
+Auxilieos clientesacontrolarapolaciuriaeaurgênciaurináriaassociadasàterapiadiurética.
+Uma preocupação importante associada à terapia com digoxina é a toxicidade por digitálicos. As manifestações
+clínicas da toxicidade incluem anorexia, náuseas, distúrbios visuais, confusão e bradicardia. O nível de potássio
+sérico é monitorado, tendo em vista que o efeito da digoxina é intensificado pela hipopotassemia e pode ocorrer
+intoxicação por digoxina. Um nível de digoxina sérica é obtido se a função renal do cliente se modificar ou se
+houver sinais/sintomas de intoxicação.
+Infusões intravenosas
+Os agentes inotrópicos IV (milrinona, dobutamina) aumentam a força de contração do miocárdio; por isso, podem
+ser indicados para clientes hospitalizados com IC descompensada aguda. Esses agentes são utilizados para os
+clientes que não respondem à terapia farmacológica de rotina e são reservados para os clientes com disfunção
+ventricular grave. São utilizados com cautela, tendo em vista que alguns estudos associaram a sua utilização ao
+aumento da mortalidade (Metra, Bettari, Carubelli et al., 2011). Os vasodilatadores IV, tais como nitroprussiato,
+nitroglicerina ou nesiritida, também podem ser utilizados em clientes com IC descompensada grave (Lindenfeld et
+al., 2010). Os clientes geralmente necessitam de admissão em unidade de terapia intensiva (UTI) e também podem
+apresentar monitoramento hemodinâmico com um cateter de artéria pulmonar ou tecnologia alternativa (ver
+Capítulo 25). Os dados hemodinâmicos são utilizados para avaliar a função cardíaca e a volemia e para orientar a
+terapia com agentes inotrópicos, vasodilatadores e diuréticos (Urden, Stacy e Lough, 2010).
+Milrinona. A milrinona é um inibidor da fosfodiesterase que retarda a liberação de cálcio dos reservatórios
+intracelulares e previne a absorção do cálcio extracelular pelas células. Isso promove a vasodilatação, que resulta
+em diminuição da pré­carga e da pós­carga e redução do esforço cardíaco. A milrinona é administrada por via IV
+para clientes com IC grave, incluindo aqueles que estão aguardando um transplante de coração. Tendo em vista que
+o fármaco causa vasodilatação, a pressão arterial do cliente é monitorada antes da administração; se o cliente estiver
+hipovolêmico, a pressão arterial pode cair rapidamente. Os principais efeitos colaterais são hipotensão e aumento
+das arritmias ventriculares. A pressão arterial e o ECG são monitorados cuidadosamente durante e após as infusões
+de milrinona.
+Dobutamina. A dobutamina é outro medicamento IV administrado para clientes com disfunção e hipoperfusão
+ventricular esquerda significativa. Uma catecolamina, a dobutamina, estimula os receptores beta­1 adrenérgicos.
+Sua principal ação é o aumento da contratilidade cardíaca e da perfusão renal para intensificar o débito urinário.
+Entretanto, também aumenta a frequência cardíaca e pode precipitar extrassístoles e taquiarritmias (Metra et al.,
+2011).
+Medicamentos para a disfunção diastólica
+Os clientes com IC diastólica predominante e FE ventricular esquerda preservada são tratados de modo diferente
+dos clientes com IC sistólica. As causas de contribuição, tais como hipertensão e cardiopatia isquêmica, são
+avaliadas e tratadas. Esses clientes não toleram a taquicardia, tendo em vista que ela não possibilita tempo para o
+enchimento ventricular. Os betabloqueadores podem ser utilizados para controlar a taquicardia em virtude de
+fibrilação atrial ou outras causas (ICSI, 2011).
+Outros medicamentos para a insuficiência cardíaca
+Podem ser prescritos anticoagulantes, especialmente se o cliente apresentar um histórico de fibrilação atrial ou um
+evento tromboembólico (Lindenfeld et al., 2010). Fármacos antiarrítmicos, como amiodarona, podem ser prescritos
+para clientes com arritmias, e deve ser avaliada a terapia com dispositivos com um desfibrilador cardioversor
+implantável (DCI) (ver Capítulo 26). Os medicamentos que tratam a hiperlipidemia (p. ex., estatinas) também são
+prescritos rotineiramente. Anti­inflamatórios não esteroides (AINEs), tais como ibuprofeno, devem ser evitados,
+tendo em vista que diminuem a perfusão renal, especialmente em adultos mais idosos.
+Terapia nutricional
+Habitualmente recomenda­se uma dieta hipossódica (não mais que 2 g/dia), além de evitar a ingestão excessiva de
+líquido. A diminuição do sódio alimentar reduz a retenção de líquido e os sintomas de congestão periférica e
+pulmonar. A finalidade da restrição de sódio é diminuir o volume sanguíneo circulante, o que reduz o esforço
+miocárdico. É crucial alcançar um equilíbrio entre a capacidade do cliente de aderir à dieta e a restrição alimentar
+recomendada. Qualquer alteração na dieta deve considerar a boa nutrição, bem como as preferências e as aversões
+do cliente, e padrões alimentares culturais. A adesão do cliente é importante, tendo em vista que indiscrições
+alimentares podem resultar em exacerbações graves da IC, que exigem hospitalização (ICSI, 2011). Entretanto, as
+alterações comportamentais nesta área são difíceis para muitos clientes.
+Terapia adicional
+Suplementação de oxigênio
+A terapia com oxigênio pode tornar­se necessária com a progressão da IC. A necessidade tem por base o grau de
+congestão pulmonar e a hipoxia resultante. Alguns clientes precisam de suplementação de oxigênio apenas durante
+períodos de atividade.
+Outras intervenções
+Diversos procedimentos e abordagens cirúrgicas podem beneficiar os clientes com IC. Se o cliente apresentar DAC
+subjacente, a revascularização coronariana com ICP ou enxertos de artérias ou veias nas artérias coronárias (ver
+Capítulo 27) pode ser considerada. A função ventricular pode melhorar em alguns clientes quando o fluxo
+coronariano é aumentado.
+Clientes com IC correm alto risco de arritmias, e a morte súbita cardíaca é comum em clientes com IC
+avançada. Em clientes com disfunção ventricular esquerda grave e possibilidade de arritmias potencialmente fatais,
+a inserção de um DCI pode prevenir a morte súbita cardíaca e prolongar a sobrevida (ver Capítulo 26). Os
+candidatos para DCI incluem aqueles com FE inferior a 35% e com classe funcional II ou III da NYHA, incluindo
+aqueles com e sem histórico de arritmias ventriculares (Jessup et al., 2009).
+Os clientes com IC que não melhoram com a terapia padrão podem se beneficiar da terapia de
+ressincronização cardíaca (TRC). A TRC envolve a utilização de um marca­passo biventricular para tratar os
+defeitos da condução elétrica. Uma duração prolongada do QRS ao ECG indica bloqueio de ramo esquerdo, que é
+um tipo de retardo da condução observado com frequência em clientes com IC. Esse problema resulta em condução
+e contração dessincronizada dos ventrículos direito e esquerdo, que podem diminuir ainda mais a FE (Jessup et al.,
+2009). (Ver no Capítulo 26 a discussão sobre as arritmias.) A utilização de um dispositivo de regulação do ritmo
+com a inserção de cabos no átrio direito, no ventrículo direito, e em uma veia cardíaca ventricular esquerda pode
+sincronizar as contrações dos ventrículos direito e esquerdo (Figura 29.3). Essa intervenção melhora o DC, otimiza
+o consumo de energia miocárdica, reduz a regurgitação mitral e adia o processo de remodelamento ventricular. Para
+clientes selecionados, a TRC resulta em menos sintomas, aumento do estado funcional e menos hospitalizações
+(Goldenberg, Hall, Beck et al., 2011). Estão disponíveis dispositivos de combinação para clientes que precisam de
+TRC e um DCI. (Ver no Capítulo 26 os cuidados dos clientes com marca­passos e DCI.)
+A ultrafiltração é uma intervenção alternativa para os clientes com sobrecarga de líquido grave. É reservada
+para clientes com IC avançada que são resistentes à terapia com diuréticos (Fiaccadori, Regolisti, Maggiore et al.,
+2011). Um cateter venoso central de lúmen duplo é inserido, e o sangue do cliente é circulado por meio de uma
+pequena máquina de filtração na cabeceira. Litros de excesso de líquido e plasma são removidos lentamente do
+volume circulante intravascular do cliente por diversas horas. A produção de líquido de filtração, a pressão arterial
+e a hemoglobina (analisada em relação à hemoconcentração) do cliente são monitoradas como indicadores do status
+de volume.
+Para alguns clientes com IC em estágio terminal, o transplante de coração é uma das poucas opções para a
+sobrevida a longo prazo. Os clientes com IC em estágio D do ACC/AHA que possam ser elegíveis são
+encaminhados para a consideração do transplante. Alguns desses clientes precisam de assistência circulatória
+mecânica com a implantação de um dispositivo de assistência ventricular como medida contemporizadora até o
+transplante cardíaco (ver Capítulo 28). Um dispositivo de assistência ventricular esquerda também pode ser
+implantado como terapia permanente em alguns clientes (Jessup et al., 2009).
+Figura 29.3 Terapia de ressincronização cardíaca. Para regular o ritmo de ambos os ventrículos, cabos de marca­passo
+são inseridos no átrio direito e no ventrículo direito; um terceiro cabo é inserido pelo seio coronariano até uma veia lateral
+na parede do ventrículo esquerdo.
+Considerações gerontológicas
+Diversas alterações normais relacionadas com o envelhecimento aumentam a frequência de IC: aumento da pressão
+arterial sistólica, da espessura da parede ventricular e da fibrose miocárdica. Pessoas idosas podem apresentar
+sinais e sintomas atípicos, tais como fadiga, fraqueza e sonolência. Esses clientes nem sempre podem detectar ou
+interpretar com precisão os sintomas comuns de IC, tais como dispneia (Riegel, Dickson, Cameron et al., 2011). A
+diminuição da função renal pode tornar o cliente idoso resistente aos diuréticos e mais sensível às alterações no
+volume. A administração de diuréticos para homens idosos exige vigilância de enfermagem em relação à distensão
+vesical causada por obstrução uretral em virtude de aumento da glândula prostática. A bexiga urinária pode ser
+avaliada por ultrassonografia ou por palpação da área suprapúbica à procura de massa oval e percussão (macicez
+indica bexiga cheia). Polaciuria e urgência urinária são muito estressantes para os clientes idosos, tendo em vista
+que muitos apresentam artrite e mobilidade limitada.
+PROCESSO DEENFERMAGEM
+Clientecom insu렅 ciênciacardíaca
+Apesar dos avanços no tratamento da IC, as taxas de morbidade e mortalidade permanecem altas. As enfermeiras
+apresentam um impacto importante sobre os resultados para os clientes com IC, especialmente nas áreas de
+instruções e monitoramento dos clientes.
+Avaliação
+A avaliação de enfermagem para o cliente com IC concentra­se na observação em relação à eficácia da terapia e
+em relação à capacidade do cliente de compreender e implementar as estratégias de automanejo. Os sinais e
+sintomas de agravamento da IC são analisados e relatados para o médico do cliente, de modo que a terapia possa
+ser ajustada. A enfermeira também avalia a resposta emocional do cliente ao diagnóstico de IC, tendo em vista
+que esta é uma condição crônica e com frequência progressiva, que comumente está associada à depressão e a
+outras questões psicossociais (Pressler, Subramanian, Perkins et al., 2011; Sherwood, Blumenthal, Hinderliter et
+al., 2011).
+Histórico de saúde
+O histórico de saúde concentra­se nos sinais e sintomas de IC, tais como dispneia, fadiga e edema. Podem ser
+relatados distúrbios do sono, em particular o sono subitamente interrompido por dispneia. Os clientes são
+indagados a respeito da quantidade de travesseiros necessários para o sono, edema, sintomas abdominais,
+alteração do estado mental, atividades da vida diária e as atividades que causam fadiga. As enfermeiras devem
+ter conhecimento sobre a diversidade de manifestações que podem indicar piora da IC e avaliar o cliente
+adequadamente (Boxe 29.3). Enquanto obtém o histórico do cliente, a enfermeira avalia a compreensão do
+cliente da IC, das estratégias de automanejo, e a capacidade e o desejo do cliente de aderir àquelas estratégias.
+Exame físico
+O cliente é observado em relação à inquietação e à ansiedade que podem sugerir hipoxia decorrente de congestão
+pulmonar. O nível de consciência do cliente também é avaliado em relação a quaisquer alterações, tendo em vista
+que o DC baixo pode diminuir o fluxo de oxigênio para o cérebro.
+A frequência e a profundidade das incursões respiratórias são avaliadas juntamente com o esforço
+necessário para a respiração. Os pulmões são auscultados para detectar estertores crepitantes e sibilos. Os
+estertores crepitantes são produzidos pela abertura súbita das pequenas vias respiratórias e dos alvéolos
+edemaciados. Podem ser auscultados ao final da inspiração e não desaparecem com a tosse (Bickley e Szilagyi,
+2009). Os sibilos também podem ser auscultados em alguns clientes que apresentam broncospasmo juntamente
+com congestão pulmonar.
+A pressão arterial é cuidadosamente avaliada, tendo em vista que clientes com IC podem apresentar
+hipotensão ou hipertensão arterial. Os clientes podem ser avaliados em relação à hipotensão ortostática,
+especialmente se relatarem vertigem, tontura ou síncope. O coração é auscultado à procura de uma terceira bulha
+(B3), um sinal inicial de que o aumento do volume sanguíneo enche o ventrículo a cada contração. A frequência
+e o ritmo cardíacos também são documentados, e os clientes geralmente são colocados em monitoramento ECG
+contínuo no ambiente hospitalar. Quando a frequência cardíaca está rápida ou muito lenta, o VS diminui e
+possivelmente piora a IC.
+A DVJ é avaliada com o cliente sentado em um ângulo de 45°; a distensão superior a 3 cm acima do ângulo
+esternal é considerada anormal e indicativa de insuficiência ventricular direita. Esta é uma estimativa, não uma
+medição precisa, da pressão venosa central alta (Bickley e Szilagyi, 2009).
+A enfermeira avalia os pulsos arteriais periféricos e classifica o seu volume em uma escala de 0 (não
+palpável) a 3+ (vigoroso). A pele também é avaliada em relação à cor e à temperatura. Quando há redução
+significativa do VS, a perfusão para a periferia diminui com consequente redução do volume dos pulsos e a pele
+é fria à palpação e parece pálida ou cianótica. Os pés e as pernas são examinados em relação ao edema; se o
+cliente estiver em decúbito dorsal no leito, o sacro e as costas também são avaliados em relação ao edema. Os
+membros superiores também podem se tornar edemaciados em alguns clientes. O edema é tipicamente
+classificado em uma escala de 0 (nenhum edema) a 4+ (edema com cacifo).
+O abdome é avaliado em relação à dor à palpação e à hepatomegalia. Observam­se firmeza, distensão e
+possível ascite. O fígado é avaliado em relação ao refluxo hepatojugular. Solicita­se ao cliente que respire
+normalmente enquanto é aplicada pressão manual sobre o quadrante superior direito do abdome durante 30 a 60
+•
+•
+•
+•
+•
+s. Se a distensão das veias do pescoço aumentar mais de 1 cm, o achado é positivo para aumento da pressão
+venosa.
+Boxe
+29.3
+PESQUISA DEENFERMAGEM
+Avaliação dossinais e sintomas de clientescominsu䊳啕ciência cardíaca
+AlbertN,Trochelman K,Li Jetal.Signsandsymptomsof heart failure: Areyouaskingtherightquestions? AmericanJournalofCriticalCare,2010;19(5),443-
+453.
+Finalidade
+As manifestações clínicasdepioradainsu렅 ciênciacardíaca(IC) nem sempresãoreconhecidaspelospro렅 ssionaisdesaúdeoupelos clientes,oque
+possivelmenteretardaasdecisõesdetratamento.Esteestudotevecomoobjetivoidenti렅 caros sinaisesintomas relatadospelos clientes com ICedeterminar se
+elesdiferiram dependendodosdadosdemográ렅 cosdocliente,daclassefuncionaldaNew York Heart Association (NYHA),oudoambientedos cuidados.
+Metodologia
+Umalistadeveri렅 caçãodos sinaisesintomasdeICdeumapáginafoidistribuídaparaumaamostrade276adultos (112em ambiente hospitalare164em
+ambienteambulatorial) com um diagnósticodeICsistólica.Foi solicitadoaosparticipantesqueidenti렅 cassem todosos sinaisesintomasqueestavam
+apresentando, nãoapenasaqueles comumenteassociadosàIC.
+Achados
+Dispneia,diminuiçãodatolerânciaaosexercícios físicos,ortopneia, fadigaprofundaetonturaforam relatadas com mais frequênciapelosparticipantes com IC,
+tanto noambiente hospitalarquanto noambulatorial. A dispneiafoi relatadapelosparticipantesdetodasas classes funcionais, tanto noambienteambulatorial
+como no hospitalar. Osparticipantes naclassefuncional IV daNYHA relataram mais manifestaçõesatípicas, incluindo náuseas, inquietaçãoeconfusão. A fadiga
+profundafoiassociadaàpioradaclassefuncionaleà necessidadede hospitalização.
+Implicações para a enfermagem
+Comumenteseacreditaqueadispneiaé manifestaçãodepioradaIC; contudo,osachadosdesteestudosugerem queelaécomumenteapresentadapor todos
+os clientes com ICepode nãoindicaraprogressãodaIC.Entretanto,afadigaprofundapodeestarassociadaàpioradaIC. Além disso,osachadosdesteestudo
+sugerem queos clientes com IC maisenfermos (ouseja,aqueles naclassefuncional IV daNYHA)podem exibir manifestaçõesatípicasdepioradaIC. As
+enfermeirasprecisam indagarasperguntas corretasaoavaliaros clientes com IC.Éimportantereconheceros sinaisesintomasatípicosdeIC,bem comoos
+típicos.
+Se o cliente estiver hospitalizado, a enfermeira mede o débito urinário e o avalia em termos da utilização de
+diuréticos. O equilíbrio hídrico é rigorosamente mantido e analisado. É importante rastrear se o cliente excretou
+volume excessivo (ou seja, o equilíbrio hídrico negativo geralmente é o objetivo). O equilíbrio hídrico é, em
+seguida, comparado com as alterações no peso corporal. Embora seja esperada diurese, o cliente com IC também
+precisa ser monitorado em relação à oligúria (diminuição do débito urinário, inferior a 0,5 mℓ/kg/h) ou anúria
+(débito urinário inferior a 50 mℓ/24 h) em virtude do risco de disfunção renal.
+O cliente é pesado diariamente no hospital ou no domicílio, no mesmo horário do dia, com o mesmo tipo de
+roupas, e na mesma balança. Se houver uma alteração significativa no peso (ou seja, aumento de 0,9 a 1,4 kg em
+1 dia ou aumento de 2,3 kg em 1 semana), o médico é notificado e os medicamentos são ajustados (p. ex., a dose
+de diurético é aumentada).
+Diagnóstico
+Diagnósticos de enfermagem
+Com base nos dados da avaliação, os principais diagnósticos de enfermagem podem incluir os seguintes:
+Intolerância aos exercícios físicos relacionada com a diminuição do DC
+Excesso de volume de líquido relacionado com a síndrome de IC
+Sintomas relacionados com a ansiedade associada à complexidade do esquema terapêutico
+Impotência relacionada com a doença crônica e as hospitalizações
+Manejo ineficaz do esquema terapêutico familiar.
+•
+•
+•
+•
+•
+•
+•
+Problemas colaborativos/complicações potenciais
+Entre as possíveis complicações podem estar as seguintes:
+Hipotensão, perfusão insuficiente e choque cardiogênico (ver Capítulo 14)
+Arritmias (ver Capítulo 26)
+Tromboembolismo (ver Capítulo 30)
+Derrame pericárdico e tamponamento cardíaco.
+Planejamento e metas
+As principais metas para o cliente podem incluir promoção de atividades e redução da fadiga, alívio dos
+sintomas de sobrecarga de líquido, diminuição da ansiedade ou aumento da capacidade do cliente de tratar a
+ansiedade, encorajamento do cliente a verbalizar sua capacidade de tomar decisões e influenciar os resultados, e
+orientação do cliente e da família a respeito do manejo do esquema terapêutico (Doenges, Moorhouse e Murr,
+2010).
+Intervenções de enfermagem
+Promoção da tolerância às atividades
+A redução da atividade física causada pelos sintomas de IC resulta em perda do condicionamento físico, que
+piora os sintomas do cliente e a tolerância aos exercícios físicos. A inatividade prolongada, que pode ser
+autoimposta, deve ser evitada em virtude dos seus efeitos de perda do condicionamento físico e dos seus riscos,
+tais como úlceras por pressão (especialmente em clientes edemaciados) e tromboembolismo venoso. Uma doença
+aguda que exacerbe os sinais/sintomas de IC ou exija hospitalização pode ser uma indicação para o repouso
+temporário no leito. Por outro lado, deve ser encorajado algum tipo de atividade física todos os dias. O
+treinamento com exercícios físicos apresenta diversos efeitos favoráveis para o cliente com IC, incluindo
+aumento da capacidade funcional, diminuição da dispneia e melhora da qualidade de vida (Downing e Balady,
+2011). O programa de exercícios físicos deve incluir 5 min de atividades de aquecimento, seguidos por
+aproximadamente 30 min de exercícios físicos no nível de intensidade prescrito. Um programa típico para um
+cliente com IC pode incluir caminhada diária, com aumento da duração em um período de 6 semanas. O médico,
+a enfermeira e o cliente colaboram para desenvolver um cronograma que promova a regulação do ritmo e a
+priorização das atividades. O cronograma deve alternar as atividades com períodos de repouso e evitar que
+ocorram duas atividades com gasto energético significativo no mesmo dia ou em sucessão imediata. Antes de
+realizar as atividades físicas, o cliente deve receber diretrizes similares àquelas observadas no Boxe 29.4. Tendo
+em vista que alguns clientes podem estar gravemente debilitados, eles podem precisar limitar as atividades
+físicas em apenas 3 ou 5 minutos por vez, 1 a 4 vezes/dia. O cliente deve aumentar a duração da atividade, e em
+seguida a frequência, antes de aumentar a intensidade da atividade.
+São identificadas as barreiras à realização das atividades, e são discutidos os métodos de ajuste de uma
+atividade. Por exemplo, pode­se cortar ou descascar vegetais enquanto se senta à mesa da cozinha, em vez de
+permanecer em pé à bancada da cozinha. Refeições pequenas e frequentes diminuem a energia necessária para a
+digestão, ao mesmo tempo que proporcionam a nutrição adequada. A enfermeira auxilia o cliente na identificação
+de períodos de energia máxima e mínima, planejando as atividades que consomem energia para os picos de
+energia. Por exemplo, o cliente pode preparar as refeições para todo o dia pela manhã. A regulação do ritmo e a
+priorização das atividades ajudam na manutenção da energia do cliente, que possibilita a participação em
+atividades físicas regulares.
+Boxe
+29.4
+PROMOÇÃO DA SAÚDE
+Programa de exercíciosfísicos para osclientescominsu䊳啕ciência cardíaca
+Antesderealizaratividades físicas,oclientedevereceberasdiretrizesaseguir:
+Conversecom oseupro렅 ssionalprincipalem relaçãoàs recomendaçõesespecí렅 casparaoprogramadeexercícios físicos
+Iniciecom atividadesdebaixoimpacto, tais comocaminhada, ciclismoou hidroginástica
+Iniciecom atividadesdeaquecimento, seguidaspor sessõesqueaumentem gradualmenteatéaproximadamente30 min
+•
+•
+•
+•
+•
+Sigaoseuperíododeexercícios físicos com atividadesderesfriamento
+Evitearealizaçãodasatividades físicasexternas noclimaextremamentequente, frioouúmido
+Aguarde2 h apósaingestãodeumarefeiçãoantesderealizarasatividades físicas
+Assegure-sedequeconsegueconversarduranteaatividadefísica; se nãoconseguir,diminuaaintensidadedaatividade
+Interrompaaatividadesesentirdispneia,doroutonturaintensas.
+Adaptado de Andreuzzi R. Does aerobic exercise have a role in the treatment plan of a patient with heart failure.
+Internet Journal of American Physician Assistants, 2010; 7 (2), 1­29; e Flynn KE, Piña IL, Wheelan DJ et al. Effects of
+exercise training on health status in patients with chronic heart failure: HF­ACTION randomized controlled trial. Journal
+of the American Medical Association 2009; 301 (14), 1451­1459.
+A resposta do cliente às atividades precisa ser monitorada. Se o cliente estiver hospitalizado, os sinais vitais
+e o nível de saturação de oxigênio são monitorados antes, durante e imediatamente após uma atividade para
+identificar se estão na variação desejada. A frequência cardíaca deve retornar ao valor basal em 3 min após a
+atividade. Se o cliente estiver no domicílio, o grau de fadiga sentido após a atividade pode ser utilizado para
+avaliar a resposta. Se o cliente tolerar a atividade, podem ser desenvolvidas metas em curto e longo prazos para
+aumentar gradualmente a intensidade, a duração e a frequência das atividades.
+A adesão ao treinamento com exercícios físicos é essencial se o cliente precisar se beneficiar dela, mas pode
+ser difícil para clientes com outras condições (p. ex., artrite) e duração mais longa da IC. O encaminhamento a
+um programa de reabilitação cardíaca pode ser indicado, especialmente para os clientes recentemente
+diagnosticados com IC. Um programa supervisionado também pode beneficiar aqueles que precisam de um
+ambiente estruturado, suporte educacional significativo, encorajamento regular e contato interpessoal.
+Manejo do volume de líquido
+Os clientes com IC podem receber terapia com diuréticos IV; entretanto, para os clientes com sintomas menos
+graves tipicamente são prescritos diuréticos orais. Os diuréticos orais devem ser administrados logo cedo pela
+manhã, de modo que a diurese não interfira no repouso noturno do cliente. A discussão sobre o horário da
+administração dos medicamentos é especialmente importante para os clientes mais idosos, que podem apresentar
+urgência ou incontinência urinária. Uma única dose de um diurético pode fazer com que o cliente excrete um
+grande volume de líquido logo após a sua administração.
+A hidratação do cliente é cuidadosamente monitorada por meio da ausculta dos pulmões, do monitoramento
+do peso corporal diário e do auxílio ao cliente na adesão à dieta hipossódica por meio da leitura dos rótulos dos
+alimentos, evitando também alimentos com alto teor de sódio, como enlatados, processados e de conveniência
+(Boxe 29.5). O ganho de peso em um cliente com IC quase sempre reflete retenção de líquido. Se a dieta incluir
+restrição de líquido, a enfermeira pode auxiliar o cliente no planejamento da ingestão de líquido durante todo o
+dia, enquanto respeita as preferências alimentares do cliente. Se o cliente estiver recebendo líquidos e
+medicamentos por via IV, o volume de líquido precisa ser cuidadosamente monitorado, e o médico ou o
+farmacêutico podem ser consultados a respeito da possibilidade de maximizar a quantidade de medicamentos no
+mesmo volume de solução IV (p. ex., duplicando a concentração para diminuir o volume de líquido
+administrado).
+O cliente é posicionado ou orientado a adotar uma posição que facilite a respiração. O número de
+travesseiros pode ser aumentado, a cabeceira do leito pode ser elevada, ou o cliente pode sentar­se em uma
+poltrona reclinável. Nestas posições, o retorno venoso para o coração (pré­carga) é reduzido, a congestão
+pulmonar é aliviada, e a pressão sobre o diafragma é minimizada. Os antebraços são amparados com travesseiros
+para eliminar a fadiga causada pela tração do peso do cliente sobre os músculos dos ombros.
+Tendo em vista que a diminuição da circulação em áreas edemaciadas aumenta o risco de úlceras por
+pressão, a enfermeira avalia se há solução de continuidade da pele, e institui medidas preventivas. O
+posicionamento para evitar a pressão e as frequentes alterações da posição auxiliam na prevenção das úlceras por
+pressão.
+Controle da ansiedade
+Tendo em vista que clientes com IC têm dificuldade de manter a oxigenação adequada, é provável que
+apresentem dispneia, que por sua vez pode causar inquietação e ansiedade. As intervenções clínicas complexas,
+tais como a implantação de um DCI, também podem provocar ansiedade nos clientes e nas famílias. Essas
+fontes de ansiedade incluem a ameaça constante de choques, alterações nos papéis e preocupações a respeito da
+capacidade do cliente de realizar as atividades da vida diária (Van Den Broek, Habibovich e Pedersen, 2010). A
+ansiedade do cliente pode intensificar­se à noite e interferir no sono. O estresse emocional também estimula o
+sistema nervoso simpático, que causa vasoconstrição, elevação da pressão arterial e aumento da frequência
+cardíaca. Essa resposta simpática aumenta o esforço cardíaco.
+Boxe
+29.5
+PROMOÇÃO DA SAÚDE
+Fatos a respeito do sódio alimentar
+Emboraaprincipal fontedesódio nadieta norte-americana médiasejaosal, muitos tiposdealimentos naturais contêm quantidadesvariadasdesódio. Mesmose
+nãoforadicionadosalaocozimentoousealimentos salgados forem evitados,adietadiáriaaindaconteráaproximadamente2.000 mgdesódio.Frutasevegetais
+frescosapresentam baixoteordesódio,esuaingestãodeveserestimulada.
+Aditivos nos alimentos
+Em geral,osalimentospreparadosem casacontêm menos sódiodoqueosalimentosem restaurantesouprocessados. As substânciasalimentaresadicionadas
+(aditivos), tais comoalginatodesódio,que melhoraatexturadoalimento,benzoatodesódio,queatuacomoconservante,efosfatodissódico,que melhoraa
+qualidadedocozimentoem determinadosalimentos,aumentam oaportedesódioquandoincluídos nadietadiária.Portanto,os clientesem dietas com baixo
+teordesódiodevem seraconselhadosaveri렅 car cuidadosamenteos rótulosem relaçãoapalavras como“sal”ou“sódio”,especialmenteem alimentosenlatados.
+Porexemplo, sem olharoconteúdodesódioporporçãoencontrado nos rótulos nutricionais,aoescolherentreumaporçãodebatatas fritaseumaxícaradesopa
+decremedecogumelosenlatada,a maioriapensariaqueasopacontém teordesódio maisbaixo.Entretanto,quandoos rótulos sãoexaminados,observa-sequea
+opçãocom maisbaixoteordesódioéadasbatatas fritas.Emborabatatas fritasnãosejam recomendadasparaadieta hipossódica,esteexemploilustraqueé
+importanteleros rótulosdosalimentosparadeterminaroteordesódioeotamanhodaporção.
+Fontes não alimentares de sódio
+O sódioestácontido naáguadas cidades. Osdescalci렅 cadoresdeáguatambém aumentam oconteúdodesódiodaáguapotável. Os clientesem dietas com
+restriçãodesódiodevem seradvertidosarespeitodautilizaçãode medicamentos sem prescrição médica, tais comoantiácidos,xaropesparatosseelaxantes.
+Substitutosdosalpodem serpermitidos, mas reconhece-sequecontêm altoteordepotássio. Medicamentos sem prescrição médica nãodevem serutilizados sem
+aconsultapréviaaopro렅 ssionaldesaúdeprincipaldocliente.
+Promoção da adesão à reorientação alimentar
+Seos clientesacharem queosalimentos nãosãopalatáveisem virtudederestriçõesdesódioalimentare/oudistúrbiosdopaladar causadospelos medicamentos,
+podem serecusaracomerouaaderiràreorientaçãoalimentar.Poresse motivo, restriçõesdesódiogravesdevem serevitadas,edeve haverum equilíbrioentrea
+administraçãodediuréticoseacapacidadedoclientedeaderiràrestriçãodosódioalimentar. Vários 哩avorizantes, tais comosucodelimão,vinagreeervas,
+podem serutilizadospara melhorarogostodoalimentoefacilitaraaceitaçãodadieta. Aspreferênciasalimentaresdoclientedevem ser levadasem consideração
+– aconselhamento nutricionalefolhetoseducacionaispodem serajustadosàspreferências individuaiseétnicas – eafamíliadeveparticipardaorientação
+alimentar.
+Quando o cliente demonstra ansiedade, a enfermeira adota medidas para promover o conforto físico e
+fornece suporte psicológico. Conforme mencionado anteriormente, o cliente pode estar mais confortável ao
+sentar­se em uma poltrona reclinável. Pode ser administrado oxigênio durante um evento agudo para diminuir o
+esforço respiratório e aumentar o conforto do cliente. Em muitos casos, a presença de um familiar proporciona
+tranquilidade. Clientes com IC contam com suas famílias para muitos aspectos dos cuidados; portanto, as
+enfermeiras devem avaliar as necessidades dos cuidadores da família e fornecer suporte a eles (Hwang,
+Fleischmann, Howie­Esquivel et al., 2011).
+Juntamente com a tranquilização, a enfermeira pode iniciar as orientações ao cliente e à família a respeito
+das técnicas para o controle da ansiedade e para evitar situações que provoquem ansiedade, por exemplo, como
+identificar os fatores que contribuem para a ansiedade e como utilizar técnicas de relaxamento para controlar os
+sentimentos de ansiedade. À medida que a ansiedade do cliente diminui, a função cardíaca pode melhorar e os
+sintomas de IC podem diminuir, com sensações gerais de relaxamento.
+•
+•
+•
+Alerta deenfermagem| Qualidadeesegurança
+Quando osclientescomIC estão delirantes,confusos ou ansiosos, devemser evitadascontenções. Ascontenções provavelmente serão
+resistidas, e a resistência inevitavelmente aumenta o esforço cardíaco.
+Minimização da impotência
+Os clientes com IC podem sentir­se esgotados com o diagnóstico e o esquema terapêutico, que provocam
+sentimentos de impotência. Os fatores de contribuição podem incluir falta de conhecimento e falta de
+oportunidade para a tomada de decisões, particularmente se os profissionais de saúde ou familiares não
+encorajarem o cliente a participar no processo de tomada de decisões sobre o tratamento.
+As enfermeiras devem auxiliar os clientes a reconhecerem as suas opções, e reconhecerem que podem
+influenciar positivamente os resultados do seu diagnóstico e tratamento. Dispor de algum tempo para ouvir
+ativamente os clientes os encoraja a expressar suas preocupações e fazer perguntas. Outras estratégias incluem
+proporcionar ao cliente oportunidades para a tomada de decisões, como, por exemplo, quando as atividades
+devem ocorrer, ou encorajar as escolhas de alimentos e líquidos compatíveis com as restrições alimentares. O
+encorajamento é feito, o progresso é identificado, e o cliente é auxiliado a diferenciar entre os fatores que podem
+e não podem ser controlados.
+Além dos sentimentos de impotência, os clientes com IC apresentam alta incidência de sintomas
+depressivos, que estão associados ao aumento da morbidade e mortalidade (Pressler et al., 2011). Tendo em
+vista que esses sintomas depressivos sabidamente aumentam à medida que a doença piora, clientes com IC
+precisam ser triados em relação à depressão, de modo que ela possa ser tratada, preferencialmente mantendo o
+estado funcional e a qualidade de vida do cliente.
+Auxílio aos clientes e à família para o manejo efetivo do esquema terapêutico
+Os esquemas terapêuticos para a IC são complexos e exigem que o cliente e a família realizem alterações
+significativas no estilo de vida. A incapacidade de aderir às recomendações alimentares e farmacológicas leva a
+episódios de IC descompensada aguda e hospitalização. A não adesão à dieta e às restrições de líquido prescritas
+e aos medicamentos prescritos pode causar muitas reinternações.
+Diversos programas e intervenções estão disponíveis para auxiliar os clientes e as famílias no manejo
+efetivo do esquema para a IC e a prevenir hospitalizações, o aumento dos custos e a diminuição da qualidade de
+vida correlatos. Esses esforços iniciam com a orientação efetiva do cliente e da família, que se concentra na
+importância dos medicamentos. Após a alta hospitalar, os clientes devem consultar seu médico em 1 semana
+(Hernandez et al., 2010). Na visita de acompanhamento, a resposta do cliente ao esquema para a IC é avaliada e
+ajustada. As instruções também são reforçadas.
+Clientes com IC beneficiam­se de programas de manejo da doença e da coordenação dos cuidados. As
+enfermeiras são uma parte importante dos diversos tipos de programas de manejo ambulatorial disponíveis para
+os clientes com IC (ver discussão posterior na seção Cuidados contínuos).
+Monitoramento e manejo de possíveis complicações
+Tendo em vista que a IC é uma condição complexa e progressiva, os clientes correm risco para muitas
+complicações, incluindo IC descompensada aguda, edema pulmonar, insuficiência renal e arritmias
+potencialmente fatais. Muitos possíveis problemas associados à terapia para IC estão relacionados com o uso de
+diuréticos. Esses problemas exigem avaliação de enfermagem contínua e intervenção cooperativa:
+A diurese excessiva e repetida pode levar à hipopotassemia (i. e., depleção de potássio). Os sinais incluem
+arritmias ventriculares, hipotensão, fraqueza muscular e fraqueza generalizada. Em clientes que recebem
+digoxina, a hipopotassemia pode levar à intoxicação digitálica, que aumenta a probabilidade de arritmias
+perigosas. Clientes com IC também podem ter níveis baixos de magnésio, que podem aumentar o risco de
+arritmias
+Pode ocorrer hiperpotassemia, especialmente com a utilização de inibidores da ECA, BRA ou
+espironolactona. A hiperpotassemia também pode levar à bradicardia profunda e a outras arritmias
+A terapia prolongada com diuréticos pode provocar hiponatremia (baixos níveis sanguíneos de sódio), que
+•
+•
+•
+•
+•
+•
+•
+pode resultar em desorientação, fraqueza, cãibras musculares, anorexia e desconforto abdominal
+A depleção do volume em virtude de perda excessiva de líquido pode levar à desidratação e à hipotensão.
+Inibidores da ECA e betabloqueadores podem contribuir para a hipotensão
+Outros problemas associados aos diuréticos incluem aumento da creatinina sérica (indicativa de disfunção
+renal) e hiperuricemia (excesso de ácido úrico no sangue), que leva à gota.
+Promoção dos cuidados domiciliar e comunitário
+Orientação do cliente sobre autocuidados. A enfermeira fornece instruções ao cliente e envolve o
+cliente e a família no esquema terapêutico para promover a compreensão e a adesão ao plano. Quando o cliente
+reconhece que o diagnóstico de IC pode ser tratado com sucesso com alterações no estilo de vida e
+medicamentos, as recidivas de IC aguda são reduzidas, as hospitalizações desnecessárias diminuem, e a
+expectativa de vida aumenta. A Joint Commission e outras instituições estabeleceram padrões relativos à
+instrução dos clientes com IC. As enfermeiras desempenham um papel importante na orientação dos clientes e
+de suas famílias sobre o manejo medicamentoso, dieta hipossódica, consumo moderado de bebidas alcoólicas,
+recomendações de atividades e exercícios físicos, abandono do tabagismo, como reconhecer o sinais e sintomas
+de piora da IC, e quando contatar um profissional de saúde (ICSI, 2011). Embora a não adesão ainda seja um
+desafio nesta população de clientes, as intervenções que promovem a adesão incluem a orientação do cliente e da
+família a respeito de como tratar efetivamente a IC. Um plano de orientação domiciliar básico para o cliente com
+IC é apresentado no Boxe 29.6. O cliente deve receber uma cópia das orientações por escrito.
+A disposição do cliente para aprender e as possíveis barreiras ao aprendizado são avaliadas. Clientes com
+IC podem apresentar comprometimento cognitivo temporário ou contínuo em virtude da sua doença ou outros
+fatores, o que aumenta a necessidade de contar com familiares (Pressler, Gradus­Pizlo, Chubinski et al., 2009).
+Um plano de tratamento efetivo incorpora os objetivos do cliente e dos profissionais de saúde. A enfermeira
+deve considerar os fatores culturais e adaptar o plano de instruções adequadamente. Os clientes e as famílias
+precisam ter conhecimento a respeito das opções de tratamento e dos possíveis resultados das terapias
+específicas. Eles precisam compreender que o manejo efetivo da IC é influenciado pelas escolhas realizadas a
+respeito das opções de tratamento feitas e pela sua capacidade de seguir o plano de tratamento. Também
+precisam ser informados de que existem profissionais de saúde para auxiliá­los na conquista dos seus objetivos
+nos cuidados de saúde.
+Cuidados contínuos. O manejo bem­sucedido da IC exige a adesão a um esquema clínico complexo, que
+inclui diversas alterações no estilo de vida para a maioria dos clientes. Existem várias opções de assistência que
+otimizam as recomendações com base em evidências para o manejo efetivo da IC. Essas opções incluem
+serviços de saúde domiciliares, programas de cuidados de transição, clínicas de IC e teleprogramas de manejo de
+saúde. Os programas de cuidados de transição liderados por enfermeiras em práticas avançadas reduzem
+significativamente as taxas de readmissão para os clientes com IC (Stauffer, Fullerton, Fleming et al., 2011). Os
+clientes encontram­se com uma enfermeira antes da alta e em seguida recebem visitas domiciliares para auxiliálos com o manejo da IC.
+Boxe
+29.6
+LISTA DE VERIFICAÇÃO DO CUIDADO DOMICILIAR
+Cliente cominsu䊳啕ciência cardíaca
+Ao concluíremas orientaçõessobre oscuidados domiciliares, o cliente ou o cuidador
+serão capazes de: CLIENTE CUIDADOR FAMILIAR
+Identi렅 carainsu렅 ciênciacardíacacomoumadoençacrônicaquepodeser tratadacom
+medicamentosecomportamentosdeautomanejoespecí렅 cos.
+✓ ✓
+Ingerirouadministraros medicamentosdiariamente,exatamenteconformeprescrito. ✓ ✓
+Monitorarosefeitosdos medicamentos, comoalterações narespiraçãoeocorrênciadeedema. ✓ ✓
+Conheceros sinaisesintomasda hipotensãoortostáticaecomopreveni-la. ✓ ✓
+Pesarasiprópriodiariamente no mesmo horárioecom as mesmas roupas. ✓
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Restringiraingestãodesódioa2g/dia: Adaptaradietapor meiodoexamedos rótulos
+nutricionaisparaveri렅 caroconteúdodesódioporporção,evitandoalimentosenlatadosou
+processados, ingerindoalimentos frescosoucongelados, consultandooplanoalimentarpor
+escritoealistadealimentospermitidoserestringidos,evitandoousodesaleevitandoexcessos
+alimentares.
+✓ ✓
+Participar noprogramadeatividadesprescrito.
+Participarem um programadeexercícios físicosdiários.
+Aumentaras caminhadaseoutrasatividadesgradualmente,desdeque nãocausem fadiga
+incomum oudispneia.
+Conservarenergiaaoequilibrarasatividades com osperíodosderepouso.
+Evitaratividadesem extremosdecalorefrio,queaumentam oesforçocardíaco.
+Reconhecerqueoar-condicionadopodeseressencialem um ambientequenteeúmido.
+✓
+Desenvolver métodosparatratarepreveniroestresse.
+Evitar tabaco.
+Evitar consumodebebidasalcoólicas.
+Participarem atividades sociaisederecreação.
+✓
+Manter consultas regulares com médicosouclínicas. ✓ ✓
+Estaralertaem relaçãoaos sintomasquepossam indicar insu렅 ciênciacardíacarecidivante.
+Saber comocontataro médico.
+✓ ✓
+Relatar imediatamenteao médicoouàclínicaquaisquerdos seguintes:
+Ganhodepesode0,9a1,4kgem um dia,ou2,3kgem 1semana
+Dispneiaincomum com asatividadesouem repouso
+Aumentodeedemadetornozelos,pésouabdome
+Tossepersistente
+Perdadoapetite
+Sonoinquieto;aumentodo númerodetravesseiros necessáriosparadormir
+Fadigaprofunda.
+✓ ✓
+Dependendo do estado físico do cliente e da disponibilidade de assistência familiar, o encaminhamento para
+cuidados domiciliares pode ser indicado para um cliente que esteve hospitalizado. As visitas domiciliares por
+enfermeiras treinadas em IC fornecem avaliação e manejo para as necessidades específicas individualizadas do
+cliente. Clientes idosos e aqueles que apresentam cardiopatia de longa duração com comprometimento da energia
+física com frequência necessitam de assistência com a transição para o domicílio após a hospitalização em
+virtude de um episódio agudo de IC. A enfermeira de cuidados domiciliares avalia o ambiente físico do
+domicílio e faz sugestões para a adaptação do ambiente domiciliar para atender às limitações das atividades do
+cliente. Se as escadas forem uma preocupação, o cliente pode planejar as atividades diárias de modo que a subida
+de escadas seja minimizada; para alguns clientes, pode ser estabelecido um toalete temporário no andar principal
+do domicílio. A enfermeira de cuidados domiciliares atua com o cliente e a família para maximizar os benefícios
+dessas alterações.
+A enfermeira de cuidados domiciliares também reforça e esclarece as informações a respeito das alterações
+alimentares e das restrições de líquidos, da necessidade de monitorar os sintomas e o peso corporal diário, e da
+importância da obtenção de cuidados de acompanhamento com o consultório do profissional principal ou clínica.
+A assistência também pode ser fornecida pela programação e manutenção das consultas. O cliente é encorajado a
+1.
+a.
+b.
+c.
+2.
+a.
+b.
+3.
+a.
+b.
+c.
+d.
+4.
+aumentar gradualmente seus cuidados pessoais e a responsabilidade pela realização do esquema terapêutico. A
+assistência de enfermeiras de cuidados domiciliares pode resultar em menos exacerbações da IC, custos mais
+baixos e melhora da qualidade de vida.
+Os programas de manejo da doença são componentes importantes no manejo bem­sucedido da IC. As
+diretrizes do ICSI (2011) recomendam o encaminhamento do cliente a clínicas de IC, que fornecem manejo de
+enfermagem intensivo juntamente com o cuidado clínico em um modelo cooperativo. O encaminhamento a uma
+clínica de IC proporciona ao cliente o acesso imediato às instruções contínuas, equipe de enfermagem e clínica
+profissional, e ajustes oportunos dos esquemas terapêuticos. As clínicas de IC também podem fornecer
+tratamento ambulatorial (p. ex., diuréticos IV, monitoramento laboratorial) como uma alternativa à
+hospitalização. Em virtude do suporte adicional e da coordenação dos cuidados, os clientes tratados por clínicas
+de IC apresentam menos exacerbações da IC, menos hospitalizações, diminuição dos custos dos cuidados
+clínicos e aumento da qualidade de vida (Jessup et al., 2009).
+Outros programas de manejo da doença são realizados por meio de telemonitoramento, com a utilização de
+telefones ou computadores para manter o contato com os clientes e obter dados dos clientes. Isso possibilita que
+as enfermeiras e outras pessoas avaliem e tratem os clientes com frequência, sem a necessidade de visitas
+frequentes dos clientes aos profissionais de saúde. Várias técnicas podem ser empregadas, desde simples
+monitoramento telefônico a sofisticadas conexões de computador e vídeo que monitoram os sintomas, o peso
+diário, os sinais vitais, os sons cardíacos e os sons respiratórios. Os dados dos clientes também podem incluir a
+hemodinâmica e outros parâmetros transmitidos a partir de dispositivos implantáveis. Estudos demonstraram
+que o telemanejo de saúde pode diminuir os custos e as exacerbações da IC (Klersy, De Silvestri, Gabutti et al.,
+2011). São necessárias mais pesquisas para determinar quais clientes podem se beneficiar mais com essas
+intervenções (Koehler, Winkler, Schieber et al., 2011).
+Considerações ao final da vida. Tendo em vista que a IC é uma condição crônica e geralmente
+progressiva, os clientes e as famílias precisam considerar as questões relativas à terminalidade da vida. Embora
+o prognóstico em clientes com IC seja incerto, mais cedo ou mais tarde surgem questões relativas aos
+pensamentos do cliente e possíveis preocupações a respeito da utilização de opções de tratamento complexas (p.
+ex., ultrafiltração para sobrecarga de líquido, implantação de dispositivo de assistência ventricular). As
+discussões a respeito da utilização de tecnologia, das preferências para os cuidados ao final da vida e das
+diretivas antecipadas de vontade devem ocorrer enquanto o cliente é capaz de participar e expressar as
+preferências (Jessup et al., 2009). Por exemplo, com o uso expandido de DCI na população com IC, os clientes
+com DCI, suas famílias e seus profissionais primários devem receber instruções para a inativação do DCI ao
+final da vida para evitar descargas inadequadas (Goldstein, Carlson, Livote et al., 2010). (Ver mais sobre os
+cuidados ao final da vida no Capítulo 16.)
+Reavaliação
+Os resultados esperados podem incluir:
+O cliente demonstra tolerância em relação à atividade desejada.
+Descreve métodos adaptativos para as atividades habituais.
+Programa as atividades para conservar energia e reduzir a fadiga e a dispneia.
+Mantém a frequência cardíaca, a pressão arterial, a frequência respiratória e a oximetria de pulso na
+variação desejada.
+O cliente mantém o equilíbrio hídrico.
+Exibe diminuição do edema periférico.
+Verbaliza a compreensão sobre a ingestão de líquidos e a utilização de diuréticos.
+O cliente sente menos ansiedade.
+Evita situações que produzem estresse.
+Dorme confortavelmente à noite.
+Relata diminuição do estresse e da ansiedade.
+Nega sintomas de depressão.
+O cliente toma decisões sensatas a respeito dos cuidados e do tratamento.
+a.
+5.
+a.
+b.
+c.
+d.
+e.
+Demonstra capacidade de influenciar os resultados.
+O cliente, com a ajuda de seus familiares, adere ao esquema terapêutico.
+Realiza e registra diariamente o peso corporal.
+Limita a ingestão de sódio alimentar (não mais que 2 g/dia).
+Usa os medicamentos conforme a prescrição.
+Relata os sintomas de piora da IC.
+Agenda e mantém as consultas para os cuidados de acompanhamento.
+Edema pulmonar
+Edema pulmonar é o acúmulo anormal de líquido nos espaços intersticiais e nos alvéolos dos pulmões. É
+um diagnóstico associado à IC descompensada aguda, que pode levar à insuficiência respiratória aguda e à morte.
+Fisiopatologia
+O edema pulmonar é um evento agudo que resulta da insuficiência ventricular esquerda. Pode ocorrer após um IAM
+ou como exacerbação da IC crônica. Quando o ventrículo esquerdo começa a se tornar insuficiente, o sangue retorna
+para a circulação pulmonar, causando edema intersticial pulmonar. Isso pode ocorrer rapidamente em alguns
+clientes, uma condição às vezes denominada edema pulmonar relâmpago. O edema pulmonar também pode
+desenvolver­se lentamente, sobretudo quando é causado por distúrbios não cardíacos, tais como insuficiência renal
+e outras condições que causam sobrecarga de líquido. A fisiopatologia é uma forma extrema daquela observada na
+IC esquerda. O ventrículo esquerdo não consegue lidar com a sobrecarga de volume, e o volume sanguíneo e a
+pressão aumentam no átrio esquerdo. O aumento rápido da pressão atrial resulta em elevação aguda da pressão
+venosa pulmonar; isso provoca aumento na pressão hidrostática, que força o líquido para fora dos capilares
+pulmonares e para dentro dos espaços intersticiais e dos alvéolos. A drenagem linfática do excesso de líquido não é
+efetiva.
+O líquido nos alvéolos mistura­se com o ar, produzindo o sinal clássico de edema pulmonar – a expectoração
+espumosa rosa (tingida com sangue). Grandes volumes de líquido alveolar criam um bloqueio da difusão que
+compromete significativamente a troca gasosa. O resultado é a hipoxemia, que geralmente é grave.
+Manifestações clínicas
+Como resultado da diminuição da oxigenação cerebral, o cliente torna­se cada vez mais inquieto e ansioso.
+Juntamente com um súbito início de dispneia e sensação de sufocação, o cliente fica taquipneico, com sibilos e
+baixas taxas de saturação de oxigênio. A pele e as mucosas podem estar pálidas a cianóticas, e as mãos podem estar
+frias e úmidas. Taquicardia e DVJ são sinais comuns. Pode ocorrer tosse incessante, produzindo quantidades
+crescentes de expectoração espumosa. À medida que o edema pulmonar se agrava, a ansiedade e a inquietação do
+cliente aumentam. O cliente pode tornar­se confuso e, em seguida, torporoso. O cliente, quase sufocado pelo
+enchimento dos alvéolos com líquido espumoso e tingido com sangue, literalmente se asfixia com as secreções. A
+situação demanda medidas de emergência.
+Avaliação e achados diagnósticos
+As vias respiratórias e a respiração do cliente são avaliadas para determinar a gravidade da angústia respiratória,
+juntamente com os sinais vitais. O cliente é colocado em um monitor cardíaco, e o acesso IV é confirmado ou
+estabelecido para a administração de fármacos. Obtêm­se exames laboratoriais, incluindo eletrólitos, ureia e
+creatinina, e hemograma completo (ICSI, 2011). Realiza­se radiografia de tórax para confirmar a extensão do
+edema pulmonar nos campos pulmonares. O início abrupto dos sinais de IC esquerda e do edema pulmonar pode
+ocorrer sem evidências de IC direita (p. ex., sem DVJ, sem edema postural).
+Prevenção
+Como muitas condições de emergência, a prevenção do edema pulmonar é mais fácil do que o seu tratamento. Para
+o seu reconhecimento precoce, a enfermeira avalia o grau de dispneia, ausculta os campos pulmonares e os sons
+cardíacos, e avalia o grau de edema periférico. Tosse seca, fadiga, ganho de peso, desenvolvimento ou piora do
+edema, e diminuição da tolerância às atividades são indicadores iniciais do desenvolvimento de edema pulmonar.
+No seu estágio inicial, o edema pulmonar pode ser aliviado por meio de doses crescentes de diuréticos e pela
+implementação de outras intervenções para diminuir a pré­carga. Por exemplo, a colocação do cliente sentado, com
+as costas retificadas e os pés e as pernas pendentes reduz o esforço ventricular esquerdo. O esquema terapêutico e a
+compreensão e adesão do cliente em relação a ele são avaliados. A abordagem em longo alcance para a prevenção do
+edema pulmonar tem de ser direcionada à identificação e ao manejo dos seus fatores de precipitação.
+Manejo clínico
+O manejo clínico de um cliente com edema pulmonar agudo em virtude de insuficiência ventricular esquerda é
+direcionado para a redução da sobrecarga de volume, melhora da função ventricular e aumento da oxigenação. Esses
+objetivos são conquistados por meio de uma combinação de oxigênio e suporte ventilatório, medicamentos IV e
+avaliação e intervenções de enfermagem.
+Terapia com oxigênio
+O oxigênio é administrado em concentrações adequadas para aliviar a hipoxemia e a dispneia. Inicialmente é
+utilizada uma máscara com válvula unidirecional. Se a insuficiência respiratória for grave ou persistir, a ventilação
+não invasiva com pressão positiva é o tipo preferido de ventilação assistida (Colucci, 2011) (ver Capítulo 21). Para
+alguns clientes, são necessárias a intubação endotraqueal e a ventilação mecânica. O respirador pode fornecer
+pressão expiratória final positiva, que é efetiva na redução do retorno venoso, diminuindo o movimento de líquido
+dos capilares pulmonares para os alvéolos, e melhorando a oxigenação. A oxigenação é monitorada por meio de
+oximetria de pulso e gasometria arterial.
+Diuréticos
+Os diuréticos promovem a excreção de sódio e água pelos rins. Furosemida, ou outro diurético de alça, é
+administrada por bolus IV ou como infusão contínua para provocar efeito diurético rápido. A pressão arterial é
+cuidadosamente monitorada quando o débito urinário aumenta, tendo em vista que é possível que o cliente se torne
+hipotenso quando o volume intravascular diminui. O equilíbrio hídrico, a determinação diária do peso corporal, os
+eletrólitos séricos e a creatinina são cuidadosamente monitorados. Quando as manifestações clínicas estabilizam, o
+cliente é transferido para diuréticos orais.
+Vasodilatadores
+Vasodilatadores como nitroglicerina ou nitroprussida IV intensificam o alívio dos sintomas no edema pulmonar
+(Colucci, 2011). A sua utilização é contraindicada quando os clientes estão hipotensos. A pressão arterial é avaliada
+continuadamente em clientes que recebem infusões IV de vasodilatadores. No passado, a morfina era recomendada
+como parte dos protocolos de tratamento para o edema pulmonar por promover efeitos vasodilatadores, redução da
+ansiedade do cliente e diminuição do esforço respiratório. Entretanto, tendo em vista que o seu uso está associado
+ao aumento da necessidade de ventilação mecânica, hospitalizações mais longas e aumento da taxa de mortalidade,
+ela deixou de ser recomendada (Colucci, 2011).
+Manejo de enfermagem
+Posicionamento do cliente para promover a circulação
+O posicionamento adequado ajuda a reduzir o retorno venoso para o coração. O cliente é posicionado com as costas
+retificadas, preferencialmente com as pernas penduradas ao lado do leito. Isso apresenta o efeito imediato de
+diminuição do retorno venoso, reduzindo o volume sistólico ventricular direito e a congestão pulmonar.
+Fornecimento de suporte psicológico
+À medida que a capacidade respiratória diminui, o temor e a ansiedade do cliente aumentam proporcionalmente,
+tornando a condição mais grave. Tranquilizar o cliente e fornecer cuidados de enfermagem preventivos habilidosos
+são parte integrante da terapia. Tendo em vista que o cliente se encontra em uma condição instável, a enfermeira
+precisa permanecer com o cliente. A enfermeira fornece ao cliente informações simples e concisas, com uma voz
+tranquilizadora, sobre o que está sendo realizado para tratar a condição e os resultados esperados.
+Monitoramento dos medicamentos
+O cliente pode excretar um grande volume de urina minutos após a administração de um diurético potente. Uma
+cadeira higiênica pode ser utilizada para diminuir a energia gasta pelo cliente e para reduzir o resultante aumento do
+esforço cardíaco induzido pela colocação e pela retirada de uma comadre. Se necessário, com a finalidade de
+monitorar cuidadosamente o débito urinário, pode­se inserir um cateter urinário permanente.
+O cliente que recebe infusões IV contínuas de diuréticos e medicamentos vasoativos precisa de monitoramento
+eletrocardiográfico contínuo e aferição frequente dos sinais vitais. Os clientes que recebem terapia contínua
+precisam de manejo em uma UTI.
+OUTRASCOMPLICAÇÕES
+Choque cardiogênico
+O choque cardiogênico ocorre quando a diminuição do DC causa perfusão tissular inadequada e o início da
+síndrome de choque. O choque cardiogênico pode ocorrer após um infarto do miocárdio quando uma grande área do
+miocárdio se torna isquêmica e hipocinética. Também pode ocorrer como resultado de IC em estágio terminal,
+tamponamento cardíaco, embolia pulmonar (EP), miocardiopatia e arritmias. O choque cardiogênico é uma condição
+potencialmente fatal, com uma alta taxa de mortalidade. (Ver no Capítulo 14 mais informações sobre a
+fisiopatologia e o manejo do choque cardiogênico.)
+Manejo clínico
+Os objetivos no tratamento do choque cardiogênico incluem a correção do problema de base, quando possível (p.
+ex., desobstrução da artéria coronária bloqueada), a redução da pré­carga e da pós­carga para diminuir o esforço
+cardíaco, a melhora da oxigenação e a restauração da perfusão tissular. Além dos cuidados críticos padrão com
+intervenções ventilatórias e farmacológicas, os clientes podem precisar de assistência circulatória mecânica.
+Dispositivos de assistência circulatória mecânica
+As modalidades terapêuticas para o choque cardiogênico incluem os dispositivos de assistência circulatória, tais
+como a bomba de balão intra­aórtico (BBIA). A BBIA é um cateter com um balão inflável na extremidade.
+Habitualmente, o cateter é inserido pela artéria femoral e inserido em direção ao coração, e o balão é posicionado na
+aorta torácica descendente (Figura 29.4). O BIA utiliza contrapulsação interna por meio da insuflação e
+desinsuflação regular do balão para aumentar a ação de bombeamento do coração. Ele é insuflado durante a diástole,
+aumentando a pressão na aorta durante a diástole e, portanto, aumentando o fluxo sanguíneo pelas artérias
+coronárias e periféricas. Ele desinsufla pouco antes da sístole, reduzindo a pressão na aorta antes da contração
+ventricular esquerda, diminuindo a resistência que o coração precisa superar para ejetar o sangue e, portanto,
+diminuindo o esforço ventricular esquerdo. O dispositivo é conectado a um console que sincroniza a insuflação e a
+desinsuflação do balão com o ECG ou a pressão arterial (como indicadores para a sístole e a diástole). Com
+frequência é utilizado o monitoramento hemodinâmico para determinar a resposta do cliente ao BIA.
+Figura 29.4 O balão intra­aórtico é insuflado no início da diástole, o que resulta em aumento da perfusão das artérias
+coronárias e periféricas. Ela desinsufla pouco antes da sístole, o que resulta em diminuição da pós­carga (resistência à
+ejeção) e do esforço ventricular esquerdo.
+O BIA proporciona suporte a curto prazo (dias) para o miocárdio em processo de falência. Outros dispositivos
+de suporte ventricular para o suporte prolongado do coração em processo de falência estão descritos no Capítulo 28.
+Manejo de enfermagem
+O cliente em choque cardiogênico precisa de monitoramento constante. Em virtude da frequência das intervenções
+de enfermagem e da tecnologia necessária para o manejo seguro e efetivo do cliente, o cliente é tratado em uma
+UTI. A enfermeira de cuidados críticos precisa avaliar cuidadosamente o cliente, observar o ritmo cardíaco,
+monitorar os parâmetros hemodinâmicos, monitorar a hidratação e ajustar os medicamentos e as terapias com base
+nos dados da avaliação. O cliente é avaliado continuadamente em relação às respostas às intervenções clínicas e em
+relação ao desenvolvimento de complicações, de modo que os problemas possam ser abordados imediatamente.
+Tromboembolismo
+Clientes com distúrbios cardiovasculares correm risco para o desenvolvimento de tromboêmbolos arteriais e
+venosos. Pode haver formação de trombos intracardíacos em clientes com fibrilação atrial, tendo em vista que os
+átrios não contraem vigorosamente, o que resulta em fluxo lento e turbulento, e aumento da probabilidade de
+formação de trombos. Também pode haver formação de trombos murais nas paredes ventriculares quando a
+contratilidade é insuficiente. Os trombos intracardíacos podem se destacar e se movimentar pela circulação até
+outras estruturas, incluindo o cérebro, onde causam um acidente vascular cerebral ou encefálico (AVC ou AVE). Os
+coágulos nas câmaras cardíacas podem ser detectados por um ecocardiograma e tratados com agentes
+anticoagulantes, tais como heparina e varfarina.
+A diminuição da mobilidade e outros fatores em clientes com cardiopatia também podem levar à formação de
+coágulos nas veias profundas das pernas. Embora os sinais e sintomas de trombose venosa profunda (TVP) possam
+variar, os clientes relatam dor e edema nas pernas. Esses coágulos também podem se destacar e se movimentar pela
+veia cava inferior e pelo lado direito do coração e para a artéria pulmonar, onde podem causar um êmbolo pulmonar.
+Embolismo pulmonar
+O EP é um distúrbio potencialmente fatal que é causado tipicamente por coágulos sanguíneos nos pulmões. Este
+distúrbio é especialmente perigoso para as pessoas com doença cardiovascular (Lindenfeld et al., 2010). Os
+coágulos sanguíneos que se formam nas veias profundas das pernas e embolizam para os pulmões podem causar
+infarto pulmonar, no qual os êmbolos obstruem mecanicamente os vasos pulmonares, interrompendo o aporte de
+sangue para partes do pulmão (Figura 29.5).
+Os indicadores clínicos de EP podem variar, mas incluem tipicamente dispneia, dor torácica de caráter
+pleurítico e taquipneia. Outros sinais incluem tosse, hemoptise, taquicardia e instabilidade hemodinâmica. Os
+exames complementares geralmente incluem radiografia de tórax, cintigrafia pulmonar de ventilação­perfusão, TC
+helicoidal de alta resolução ou angiotomografia pulmonar (ângio­TC). A determinação dos níveis séricos de dímero
+D é um teste de triagem útil, que identifica se está ocorrendo coagulação e fibrinólise em alguma parte do corpo.
+O manejo do cliente tem início com a avaliação e a intervenção cardiopulmonar. Os êmbolos podem causar
+vasoconstrição hipóxica e a liberação de mediadores inflamatórios nos vasos pulmonares, que resultam em IC
+direita e insuficiência respiratória. A terapia anticoagulante com heparina não fracionada, heparina de baixo peso
+molecular ou fondaparinux é iniciada quando há suspeita de EP (Qaseem, Chou, Humphrey et al., 2011). A terapia
+trombolítica pode ser prescrita para clientes com êmbolos pulmonares maciços acompanhados por hipotensão e
+choque. Após a terapia inicial, os clientes são tratados com varfarina durante um período mínimo de 6 meses. A
+prevenção da TVP e do EP é um aspecto importante do manejo do cliente. São preferidas as intervenções
+farmacológicas, mas dispositivos mecânicos (p. ex., dispositivos de compressão pneumática) são aceitáveis para os
+clientes com contraindicações à anticoagulação (p. ex., úlcera hemorrágica) (Qaseem et al., 2011). (Os cuidados dos
+clientes com EP são discutidos adicionalmente no Capítulo 23.)
+Figura 29.5 Os êmbolos pulmonares podem ser únicos ou múltiplos.
+Derrame pericárdico e tamponamento cardíaco
+Fisiopatologia
+O derrame pericárdico (acúmulo de líquido no saco pericárdico) pode acompanhar IC avançada, pericardite,
+•
+•
+•
+carcinoma metastático, cirurgia cardíaca ou traumatismo. Normalmente, o saco pericárdico contém
+aproximadamente 20 mℓ de líquido, que são necessários para diminuir a fricção durante a contração cardíaca. Um
+aumento no líquido pericárdico eleva a pressão no saco pericárdico e comprime o coração, com as seguintes
+consequências:
+Elevação da pressão em todas as câmaras cardíacas
+Diminuição do retorno venoso em virtude de compressão atrial
+Incapacidade de distender e encher adequadamente os ventrículos.
+O líquido pericárdico pode se acumular lentamente sem causar manifestações observáveis, até que ocorra o
+acúmulo de um grande volume (1 a 2 ℓ) (Hoit, 2011). Entretanto, um derrame que se desenvolve rapidamente (p.
+ex., hemorragia no saco pericárdico decorrente de traumatismo torácico) pode distender rapidamente o pericárdio
+até seu tamanho máximo e causar um problema agudo. À medida que o líquido pericárdico aumenta, a pressão
+pericárdica se eleva, reduzindo o retorno venoso para o coração e diminuindo o DC. Isso pode resultar em
+tamponamento cardíaco, que causa DC baixo e choque.
+Manifestações clínicas
+Os sinais e sintomas de derrame pericárdico podem variar de acordo com o desenvolvimento, rápido ou lento, do
+problema. No tamponamento cardíaco agudo, o cliente apresenta dor torácica súbita, taquipneia e dispneia. A DVJ
+resulta de enchimento atrial direito insatisfatório e aumento da pressão venosa. A hipotensão ocorre em virtude do
+DC baixo e, com frequência, há hipofonese das bulhas cardíacas. A apresentação subaguda de um derrame
+pericárdico é menos dramática. O cliente pode relatar desconforto torácico ou sensação de plenitude. A sensação de
+pressão no tórax pode resultar de distensão do saco pericárdico. Esses clientes apresentam fadiga e edema e
+também desenvolvem dispneia, DVJ e hipotensão ao longo do tempo (Hoit, 2011). Os clientes com tamponamento
+cardíaco tipicamente apresentam taquicardia em resposta ao DC baixo. Além da hipotensão, os clientes com
+tamponamento cardíaco podem desenvolver pulso paradoxal, ou seja, pressão arterial sistólica que é
+acentuadamente mais baixa durante a inspiração. Este achado é caracterizado por uma diferença anormal de no
+mínimo 10 mmHg na pressão sistólica entre o ponto que é auscultado durante a expiração e ponto que é auscultado
+durante a inalação. Esta diferença é causada pela variação no enchimento cardíaco que ocorre com as alterações na
+pressão intratorácica durante a respiração. Os sinais cardeais de tamponamento cardíaco estão ilustrados na Figura
+29.6.
+Avaliação e achados diagnósticos
+É realizado um ecocardiograma para confirmar o diagnóstico e quantificar o volume de líquido pericárdico. A
+radiografia de tórax pode revelar aumento da silhueta cardíaca consequente ao derrame pericárdico. O ECG revela
+taquicardia, assim como baixa voltagem (Hoit, 2011). (Ver no Capítulo 27 a importância do diagnóstico por ECG.)
+Manejo clínico
+Pericardiocentese
+Se a função cardíaca se tornar muito comprometida, realiza­se a pericardiocentese (punção do saco pericárdico
+para aspirar o líquido pericárdico). Durante este procedimento, o cliente é monitorado continuamente por meio de
+ECG e sinais vitais frequentes. Deve estar disponível equipamento de reanimação de emergência. A cabeceira do
+leito é elevada em 45 a 60°, aproximando assim o coração da parede torácica, de modo que a agulha possa ser
+inserida diretamente no saco pericárdico. Insere­se um acesso IV periférico, se já não estiver inserido, e inicia­se
+uma infusão IV lenta caso medicamentos de emergência ou hemoderivados precisem ser administrados. A
+pericardiocentese com cateter é realizada com a utilização de ecocardiografia para guiar a inserção do cateter de
+drenagem.
+A consequente diminuição da pressão venosa central e o aumento associado da pressão arterial após a retirada
+do líquido pericárdico indicam que o tamponamento cardíaco foi aliviado. O cliente quase sempre sente alívio
+imediato. Se foi aspirado um volume substancial de líquido pericárdico, pode ser deixado um pequeno cateter
+posicionado para drenar o acúmulo de sangue ou líquido recidivante. O líquido pericárdico é enviado ao laboratório
+para exame em relação a células tumorais, cultura bacteriana, análise química e sorológica, e contagem diferencial
+de células sanguíneas.
+Figura 29.6 Os achados da avaliação no tamponamento cardíaco que resultam de derrame pericárdico incluem dor ou ou
+sensação de plenitude torácica, dispneia, taquipneia, distensão venosa jugular, hipotensão, pulso paradoxal, taquicardia
+e hipofoneses das bulhas cardíacas.
+As complicações da pericardiocentese incluem punção de artéria coronária, traumatismo miocárdico, arritmias,
+laceração pleural e punção gástrica. Após a pericardiocentese, o ritmo cardíaco, a pressão venosa e os sons
+cardíacos do cliente são monitorados com frequência para detectar a possível recidiva do tamponamento cardíaco.
+Também é realizado um ecocardiograma de acompanhamento. Se o derrame recidivar, é necessária a repetição da
+aspiração. O tamponamento cardíaco pode exigir drenagem cirúrgica a céu aberto (pericardiotomia).
+Pericardiotomia
+Os derrames pericárdicos recidivantes, geralmente associados à doença neoplásica, podem ser tratados por
+pericardiotomia (criação de janela pericárdica). Sob anestesia geral, uma parte do pericárdio é excisada para
+possibilitar a drenagem do líquido pericárdico exsudativo para o sistema linfático. Os cuidados de enfermagem após
+o procedimento incluem os cuidados pós­cirúrgicos de rotina (ver Capítulo 19), além da observação em relação a
+tamponamento recidivante.
+1.
+2.
+3.
+4.
+Parada cardíaca
+Na parada cardíaca, o coração não consegue bombear e circular o sangue para os órgãos e tecidos do corpo. Com
+frequência é causada por uma arritmia, tal como fibrilação ventricular, bradicardia progressiva, ou assistolia (ou
+seja, ausência de atividade elétrica cardíaca e contração dos músculos do coração). A parada cardíaca também pode
+ocorrer quando há atividade elétrica no ECG, mas as contrações cardíacas não são efetivas, uma condição
+denominada atividade elétrica sem pulso (AESP). A AESP pode ser causada por diversos problemas, como
+hipovolemia profunda (p. ex., hemorragia). Os diagnósticos que estão associados à parada cardíaca incluem infarto
+do miocárdio, êmbolos pulmonares maciços, hiperpotassemia, hipotermia, hipoxia grave e superdosagem de
+medicamentos. A rápida identificação desses problemas e a intervenção imediata conseguem restaurar a circulação
+em alguns clientes.
+Manifestações clínicas
+Na parada cardíaca, a consciência, o pulso e a pressão arterial são imediatamente perdidos. Habitualmente a
+respiração cessa, mas pode ocorrer engasgo respiratório ineficaz. As pupilas dos olhos começam a dilatar em
+menos de um minuto, e podem ocorrer convulsões. São observadas palidez e cianose na pele e nas mucosas. O
+risco de lesão de órgãos, incluindo lesão cerebral irreversível, e de morte, aumenta a cada minuto que passa. A
+idade e a saúde geral do cliente determinam sua vulnerabilidade à lesão irreversível. O diagnóstico de parada
+cardíaca tem de ser feito o mais cedo possível e medidas devem ser adotadas imediatamente para restaurar a
+circulação.
+Avaliação e manejo de emergência | Reanimação cardiopulmonar
+A reanimação cardiopulmonar (RCP) proporciona o fluxo sanguíneo para os órgãos vitais até que a circulação
+efetiva possa ser restabelecida. Após o reconhecimento da não responsividade, é iniciado um protocolo para o
+suporte básico à vida. A RCP foi ensinada pela primeira vez na década de 1960; ao longo do tempo, os protocolos
+de reanimação foram alterados com o acréscimo de novos conhecimentos, pesquisas e tecnologias. As Diretrizes
+para a Reanimação Cardiopulmonar e os Cuidados Cardiovasculares de Emergência da AHA de 2010 direcionam os
+protocolos atuais (Field, Hazinski, Sayre et al., 2010). O processo tem início com a avaliação imediata do cliente e
+da medida de solicitação de assistência, tendo em vista que a RCP pode ser realizada mais efetivamente com a
+adição de mais profissionais de saúde e equipamentos (p. ex., desfibrilador). As quatro etapas básicas na RCP são
+as seguintes:
+Reconhecimento da parada cardíaca súbita. O cliente é avaliado em relação à responsividade e à respiração.
+Ativação do Sistema de Resposta de Emergência (SRE). Nas unidades de saúde, é realizada uma chamada para
+alertar a equipe de reanimação cardiopulmonar (Código Azul). Fora de unidades de saúde, chamar o Serviço de
+Atendimento Móvel de Urgência (SAMU) ou o serviço de atendimento de urgências e emergências no caso de
+planos de saúde.
+Realização de RCP de alta qualidade. Se nenhum pulso carotídeo for detectado e nenhum desfibrilador estiver
+disponível ainda, são iniciadas as compressões torácicas. A respiração de resgate pode ser adicionada por um
+profissional de saúde a uma proporção de 30 compressões para 2 ventilações.
+Análise do ritmo cardíaco rápido e desfibrilação assim que estiver disponível. Os clientes em desfibrilação
+ventricular precisam ser desfibrilados assim que possível.
+Os resultados após a RCP são melhorados por meio da RCP de alta qualidade. As compressões são realizadas
+com o cliente sobre uma superfície firme, como o chão ou uma maca cardíaca. O profissional, de frente para a
+lateral do cliente, posiciona uma mão no centro do tórax, sobre a metade inferior do esterno, e a outra mão sobre a
+primeira mão (Sinz e Navarro, 2011) (Figura 29.7). O tórax é comprimido em 5 cm a uma frequência de 100 vezes
+por minuto. É permitida a reexpansão completa do tórax entre as compressões. As interrupções na RCP para a
+substituição dos profissionais ou a verificação em relação a um pulso são minimizadas para menos de 10 s.
+Recomenda­se que os profissionais sejam substituídos a cada 2 min em virtude do esforço das compressões
+efetivas.
+Manutenção das vias respiratórias e da respiração
+A respiração de resgate deixou de ser recomendada, exceto se houver profissionais de saúde; se este for o caso, ela
+é então iniciada, após as compressões torácicas. As vias respiratórias são abertas com a utilização de uma manobra
+de inclinação da cabeça/elevação do queixo, e qualquer material evidente na boca ou na garganta é removido. Uma
+cânula orofaríngea pode ser inserida, se disponível, para auxiliar na manutenção da perviedade das vias
+respiratórias. São fornecidas ventilações de resgate com a utilização de uma máscara e bolsa­válvula ou dispositivo
+de boca­máscara. O oxigênio é administrado a 100% durante a reanimação para corrigir a hipoxemia e melhorar a
+oxigenação tecidual. Evita­se a ventilação excessiva por meio da razão de 30 compressões para duas ventilações
+(Sinz e Navarro, 2011).
+Desfibrilação
+Assim que um monitor/desfibrilador se torna disponível, os eletrodos do monitor são aplicados no tórax do cliente
+e o ritmo cardíaco é analisado. Quando um desfibrilador externo automático (DEA) é utilizado, o dispositivo é
+ligado, as pás são aplicadas no tórax do cliente, e o ritmo é analisado pelo desfibrilador para determinar se é
+indicado um choque. Quando o ECG revela fibrilação ventricular ou taquicardia ventricular sem pulso, a
+desfibrilação imediata é o tratamento de escolha. O tempo de sobrevida diminui a cada minuto de adiamento da
+desfibrilação (Field et al., 2010). Após a desfibrilação, a RCP de alta qualidade é retomada imediatamente. A
+sobrevida após uma parada cardíaca foi melhorada por meio da instrução significativa dos profissionais de saúde e
+da utilização de DEA (Sinz e Navarro, 2011).
+Figura 29.7 As compressões torácicas na reanimação cardiopulmonar são realizadas por meio do posicionamento da
+palma de uma mão no centro do tórax, sobre o esterno, e da outra mão sobre a primeira mão. Os cotovelos são mantidos
+retos, e o peso corporal é utilizado para aplicar fortes compressões sobre a parte inferior do esterno. O cliente deve estar
+sobre uma superfície rígida, como uma maca cardíaca. (De Field, Kudenchuk PJ, O’Connor R et al. (2009). The textbook of
+emergency cardiovascular care and CPR. Philadelphia: Lippincott Williams & Wilkins.)
+Suporte cardiovascular avançado de vida
+Podem ser indicados cuidados adicionais para os clientes em parada cardíaca. A inserção de acesso respiratório, tal
+como tubo endotraqueal (ET), pode ser realizada por um médico, uma enfermeira ou um terapeuta respiratório
+durante a reanimação para assegurar desobstrução das vias respiratórias e ventilação adequada. Em virtude do risco
+de intubação esofágica não reconhecida ou deslocamento do tubo ET, a intubação traqueal deve ser confirmada por
+meio da avaliação de parâmetros específicos: ausculta dos sons cardíacos, observação da expansão torácica e um
+detector de dióxido de carbono. Sempre é obtida uma radiografia tórax após a inserção de tubo ET para confirmar
+que o mesmo esteja na posição adequada na traqueia. A gasometria arterial também pode ser obtida para avaliar a
+ventilação e a oxigenação.
+As intervenções avançadas de suporte específicas subsequentes dependem da avaliação da condição do cliente e
+da resposta à terapia. Por exemplo, se for detectada assistolia no monitor, prossegue­se a RCP enquanto se
+•
+•
+•
+•
+•
+•
+•
+•
+administra epinefrina IV e se tenta determinar a causa da parada, tal como hipovolemia grave ou hipoxia.
+Medicamentos adicionais (Tabela 29.4) podem ser indicados para o cliente durante e após a reanimação.
+A RCP pode ser interrompida se um pulso e a pressão arterial forem detectados, incursões respiratórias forem
+detectadas e o cliente responder. Os esforços de RCP também podem ser interrompidos se os socorristas estiverem
+exaustos ou em risco (p. ex., um edifício em risco de colapso), ou a morte for considerada inevitável. Se o cliente
+não responder às terapias fornecidas durante a parada, o esforço de reanimação pode ser interrompido pelo médico
+ou outro profissional responsável pela reanimação. Muitos fatores são considerados na decisão, tais como o início
+de arritmia, possível etiologia, período de tempo até o início do suporte à vida, e a resposta do cliente ao
+tratamento.
+Monitoramento e cuidados de acompanhamento
+Os cuidados fornecidos ao cliente após a reanimação são outros determinantes da sobrevida. O cliente pode ser
+transferido para uma unidade de cuidados críticos para monitoramento cuidadoso. O monitoramento
+eletrocardiográfico contínuo e as avaliações frequentes da pressão arterial são essenciais até que a estabilidade
+hemodinâmica seja assegurada. Os fatores que precipitaram a parada, tais como arritmias ou desequilíbrios
+eletrolíticos ou metabólicos, são identificados e tratados.
+Após a reanimação e o retorno da circulação espontânea, os clientes que estão comatosos podem se beneficiar
+de protocolos de hipotermia terapêutica. Esses induzem uma queda na temperatura corporal central até 32°C a 34°C
+por 12 a 24 h pós­reanimação com a finalidade de diminuir a taxa metabólica cerebral e a necessidade de oxigênio
+(Sinz e Navarro, 2011). Já foram desenvolvidos protocolos específicos para guiar a utilização de métodos de
+resfriamento externo e resfriamento com base em cateter e reduzir as complicações correlatas, tais como tremores
+(Logan, Sangkachand e Funk, 2011).
+Os avanços nos cuidados cardíacos, tais como novas técnicas para reanimação efetiva e hipotermia pósreanimação, melhoraram os resultados para os clientes com distúrbios cardíacos possivelmente letais, incluindo
+aqueles com parada cardíaca. Estudos demonstraram melhor recuperação neurológica e sobrevida geral para os
+clientes após a parada cardíaca, e a esperança de resultados ainda melhores no futuro (Sinz e Navarro, 2011).
+TABELA 29.4Medicamentos utilizados na reanimação cardiopulmonar.
+Agente e ação Indicações Considerações de enfermagem
+Epinefrina – vasopressorutilizadoparaotimizaraPA
+eodébitocardíaco; melhoraaperfusãoea
+contratilidade miocárdicas
+Administradaparaclientesem paradacardíaca
+causadaporassístole,atividadeelétricasem
+pulso,TV ouFV sem pulso
+Administre1 mgacada3a5 min porbolus IV ou
+IO
+Prossigacom aadministraçãoIV periféricacom
+哩uxode20 mℓeeleveasextremidadespor10a
+20s
+Vasopressina – aumentaaresistênciavascular
+sistêmicaeaPA
+Umaalternativaàepinefrina Administre40 U IV apenasumavez
+Norepinefrina – vasopressoradministradopara
+aumentaraPA
+Administradapara hipotensãoechoque Administre0,1a0,5 mcg/kg/min comoinfusãoIV,
+preferencialmentepor cateter central
+Dopamina – vasopressoradministradopara
+aumentaraPA eacontratilidade
+Administradapara hipotensãoechoque Administre5a10 mcg/kg/min comoinfusãoIV,
+preferencialmentepor cateter central
+Atropina – bloqueiaaaçãoparassimpática;aumenta
+aautomaticidadedo nóSA eacondução AV
+Administradaparaclientes com bradicardia
+sintomática(ouseja, hemodinamicamente
+instáveis com hipotensão)
+Administre0,5 mgrapidamenteIV;podeser
+repetidaatéumadosede3 mg
+Amiodarona – atuasobreos canaisdesódio-potássio
+ecálcioparaprolongaropotencialdeaçãoeo
+períodorefratário
+UtilizadaparatrataraTV eFV sem pulso não
+responsivasàadministraçãodechoque
+Administre300 mgIV;podeseradministradauma
+segundadosede150 mgem 3a5 min
+Bicarbonatodesódio(NaHCO3) – corrigeacidose Administradoparacorrigiraacidose metabólica Administreumadoseinicialde1 mEq/kgIV;em
+•
+•
+metabólica refratáriaàs intervençõesavançadasdesuporte
+cardíacoàvida(reanimaçãocardiopulmonar,
+intubaçãoe manejorespiratório)
+seguidaadministreumadosecom base nodé렅 cit
+debase
+Reconheçaque,paraprevenirodesenvolvimento
+dealcalose metabólicaderebote, nãoéindicadaa
+correçãoplenadaacidose
+Sulfatode magnésio – promoveofuncionamento
+adequadodabombacelulardesódio-potássio
+Administradoparaclientes com torsadedepointes,
+um tipodeTV
+Administrar1a2gdiluídosem 10 mℓdeSG5%
+(durante5a20 min)
+PA, pressão arterial; TV, taquicardia ventricular; FV, fibrilação ventricular; IV, via intravenosa; IO, via intraóssea; SA,
+sinoatrial; AV, atrioventricular; SG5%, soro glicosado a 5%.
