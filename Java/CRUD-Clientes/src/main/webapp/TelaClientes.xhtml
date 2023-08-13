@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://xmlns.jcp.org/jsf/html"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:f="http://xmlns.jcp.org/jsf/core"
+	xmlns:ui="http://xmlns.jcp.org/jsf/facelets">
+<h:head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<title>Clientes</title>
+</h:head>
+
+<h:body>
+
+	<h1>Clientes</h1>
+	
+	<h:form id="formCliente">
+		<h:panelGrid>
+		
+			<p:outputLabel value="Nome"></p:outputLabel>
+			<p:inputText value="#{clienteBean.cliente.nome}"></p:inputText>
+			
+			<p:outputLabel value="CPF"></p:outputLabel>
+			<p:inputText value="#{clienteBean.cliente.cpf}"></p:inputText>
+			
+			<p:outputLabel value="CEP"></p:outputLabel>
+			<p:inputText value="#{clienteBean.cliente.cep}"></p:inputText>
+
+			<p:commandButton value="Cadastrar" action="#{clienteBean.adicionar()}" update="formCliente tabelaClientes"></p:commandButton>
+			
+			<p:outputLabel value="#{clienteBean.message}"></p:outputLabel>
+			
+		</h:panelGrid>
+	</h:form>
+	
+	
+	<h1>Clientes cadastrados</h1>
+	
+	<p:dataTable value="#{clienteBean.clientes}" var="cliente" border="1" id="tabelaClientes">
+		<p:column headerText="Nome">#{cliente.nome}</p:column>
+		<p:column headerText="CPF">#{cliente.cpf}</p:column>
+		<p:column headerText="CEP">#{cliente.endereco.cep}</p:column>
+		<p:column headerText="UF">#{cliente.endereco.uf}</p:column>
+		<p:column headerText="Logradouro">#{cliente.endereco.logradouro}</p:column>
+		<p:column>
+			<p:commandButton value="Editar" action="#{clienteBean.editar(cliente.id)}" update="formCliente tabelaClientes"></p:commandButton>
+		</p:column>
+		<p:column>
+			<p:commandButton value="Excluir" action="#{clienteBean.excluir(cliente.id)}" update="formCliente tabelaClientes"></p:commandButton>
+		</p:column>
+	</p:dataTable>
+	
+</h:body>
+
+</html>
