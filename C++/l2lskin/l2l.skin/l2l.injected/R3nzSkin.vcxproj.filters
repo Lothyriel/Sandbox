@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\SDK">
+      <UniqueIdentifier>{e168d0f0-d453-47c1-867e-8e15f16f1918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Skins">
+      <UniqueIdentifier>{d978207e-684f-4e9b-a516-3a1bdf6da43a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Utils">
+      <UniqueIdentifier>{908bf81e-18df-417d-bcd9-8e3458213e73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Offsets">
+      <UniqueIdentifier>{6df88be6-4732-4c12-ab2a-b0e38f717525}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Memory">
+      <UniqueIdentifier>{fb0c6058-a093-4f26-bc23-dd4f3d31e4c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Hooks">
+      <UniqueIdentifier>{6b382e58-2f4f-42a8-8d19-ea492ca17eb7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="SkinDatabase.cpp">
+      <Filter>Source Files\Skins</Filter>
+    </ClCompile>
+    <ClCompile Include="Memory.cpp">
+      <Filter>Source Files\Memory</Filter>
+    </ClCompile>
+    <ClCompile Include="Hooks.cpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\CharacterDataStack.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\AIBaseCommon.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+    <ClCompile Include="SDK\AIMinionClient.cpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SkinDatabase.hpp">
+      <Filter>Source Files\Skins</Filter>
+    </ClInclude>
+    <ClInclude Include="fnv_hash.hpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Offsets.hpp">
+      <Filter>Source Files\Offsets</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory.hpp">
+      <Filter>Source Files\Memory</Filter>
+    </ClInclude>
+    <ClInclude Include="Hooks.hpp">
+      <Filter>Source Files\Hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.hpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\GameState.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\GameClient.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\AString.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Pad.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Skin.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\Champion.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\ChampionManager.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CharacterStackData.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\CharacterDataStack.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\GameObject.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\AIBaseCommon.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\AIHero.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\AIMinionClient.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\ManagerTemplate.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="Encryption.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="CheatManager.hpp" />
+    <ClInclude Include="SDK\RiotArray.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="SDK\AITurret.hpp">
+      <Filter>Source Files\SDK</Filter>
+    </ClInclude>
+    <ClInclude Include="x86RetSpoof.hpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="RetSpoofInvoker.hpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="vmt_smart_hook.hpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Log.hpp">
+      <Filter>Source Files\Utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
