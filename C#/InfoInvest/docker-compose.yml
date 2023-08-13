@@ -1,0 +1,51 @@
+version: '3.4'
+
+services:
+  mongodb:
+    image: mongo
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASSWORD}
+
+  assets.api:
+    image: ${DOCKER_REGISTRY-}assetsapi
+    restart: unless-stopped
+    environment:
+      - MONGO_USER=${MONGO_USER}
+      - MONGO_PASSWORD=${MONGO_PASSWORD}
+    ports:
+      - 50000:80
+    depends_on:
+      - mongodb
+    build:
+      context: .
+      dockerfile: Assets.API/Dockerfile
+
+  users.api:
+    image: ${DOCKER_REGISTRY-}usersapi
+    restart: unless-stopped
+    environment:
+      - MONGO_USER=${MONGO_USER}
+      - MONGO_PASSWORD=${MONGO_PASSWORD}
+    ports:
+      - 50001:80
+    depends_on:
+      - mongodb
+    build:
+      context: .
+      dockerfile: Users.API/Dockerfile
+
+  transactions.api:
+    image: ${DOCKER_REGISTRY-}transactionsapi
+    restart: unless-stopped
+    environment:
+      - MONGO_USER=${MONGO_USER}
+      - MONGO_PASSWORD=${MONGO_PASSWORD}
+    ports:
+      - 50002:80
+    depends_on:
+      - mongodb
+    build:
+      context: .
+      dockerfile: Transactions.API/Dockerfile
