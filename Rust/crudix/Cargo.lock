@@ -1008,7 +1008,7 @@ checksum = "927609f78c2913a6f6ac3c27a4fe87f43e2a35367c0c4b0f8265e8f49a104330"
 dependencies = [
  "hermit-abi 0.2.6",
  "io-lifetimes",
- "rustix 0.36.4",
+ "crudix 0.36.4",
  "windows-sys",
 ]
 
@@ -1462,7 +1462,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rustix"
+name = "crudix"
 version = "0.1.0"
 dependencies = [
  "actix",
@@ -1479,7 +1479,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rustix"
+name = "crudix"
 version = "0.36.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "cb93e85278e08bb5788653183213d3a60fc242b10cb9be96586f5a73dcb67c23"

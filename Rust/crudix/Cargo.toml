@@ -1,5 +1,5 @@
 [package]
-name = "rustix"
+name = "crudix"
 version = "0.1.0"
 edition = "2021"
 
@@ -17,3 +17,4 @@ futures = "0.3.25"
 chrono = { version = "0.4.23", features = ["serde"] }
 anyhow = "1.0.68"
 log = "0.4.17"
+
