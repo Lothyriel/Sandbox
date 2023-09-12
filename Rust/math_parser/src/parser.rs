@@ -127,7 +127,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn should_assert_simple_expression() {
+    fn should_assert_simple_expression() -> Result<(), SyntacticError> {
         let tokens = [
             Token::Number(4.into()),
             Token::AddOp,
@@ -140,11 +140,12 @@ mod tests {
             rhs: Box::new(Expression::Number(5.into())),
         };
 
-        assert_eq!(parse(tokens.into()).unwrap(), expression);
+        assert_eq!(parse(tokens.into())?, expression);
+        Ok(())
     }
 
     #[test]
-    fn should_assert_long_expression() {
+    fn should_assert_long_expression() -> Result<(), SyntacticError> {
         let tokens = [
             Token::Number(1.into()),
             Token::AddOp,
@@ -175,6 +176,7 @@ mod tests {
             }),
         };
 
-        assert_eq!(parse(tokens.into()).unwrap(), expression);
+        assert_eq!(parse(tokens.into())?, expression);
+        Ok(())
     }
 }
