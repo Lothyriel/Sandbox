@@ -15,15 +15,30 @@ impl Expression {
     }
 
     pub fn add(&self, rhs: &Expression) -> Result<Decimal, SemanticError> {
-        Ok(self.evaluate()? + rhs.evaluate()?)
+        self.evaluate()?
+            .checked_add(rhs.evaluate()?)
+            .ok_or_else(|| SemanticError::AddFail {
+                lhs: self.to_owned(),
+                rhs: rhs.to_owned(),
+            })
     }
 
     pub fn sub(&self, rhs: &Expression) -> Result<Decimal, SemanticError> {
-        Ok(self.evaluate()? - rhs.evaluate()?)
+        self.evaluate()?
+            .checked_add(rhs.evaluate()?)
+            .ok_or_else(|| SemanticError::SubFail {
+                lhs: self.to_owned(),
+                rhs: rhs.to_owned(),
+            })
     }
 
     pub fn mult(&self, rhs: &Expression) -> Result<Decimal, SemanticError> {
-        Ok(self.evaluate()? * rhs.evaluate()?)
+        self.evaluate()?
+            .checked_add(rhs.evaluate()?)
+            .ok_or_else(|| SemanticError::MultFail {
+                lhs: self.to_owned(),
+                rhs: rhs.to_owned(),
+            })
     }
 
     pub fn div(&self, rhs: &Expression) -> Result<Decimal, SemanticError> {
@@ -35,7 +50,12 @@ impl Expression {
                 rhs: rhs.to_owned(),
             })
         } else {
-            Ok(self.evaluate()? / rhs_v)
+            self.evaluate()?
+                .checked_div(rhs_v)
+                .ok_or_else(|| SemanticError::DivFail {
+                    lhs: self.to_owned(),
+                    rhs: rhs.to_owned(),
+                })
         }
     }
 }
@@ -53,4 +73,12 @@ fn binary(lhs: &Expression, rhs: &Expression, op: &Operator) -> Result<Decimal, 
 pub enum SemanticError {
     #[error("Attempted to divide by zero")]
     DivisionByZero { lhs: Expression, rhs: Expression },
+    #[error("Addition failed")]
+    AddFail { lhs: Expression, rhs: Expression },
+    #[error("Subtraction failed")]
+    SubFail { lhs: Expression, rhs: Expression },
+    #[error("Multiplication failed")]
+    MultFail { lhs: Expression, rhs: Expression },
+    #[error("Division failed")]
+    DivFail { lhs: Expression, rhs: Expression },
 }
