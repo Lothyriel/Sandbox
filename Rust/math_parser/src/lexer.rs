@@ -30,13 +30,13 @@ pub fn parse_tokens(input: &str) -> Result<VecDeque<Token>, LexicalError> {
 fn parse_number(tokens: &mut VecDeque<u8>) -> Result<Token, LexicalError> {
     let mut number_parts = vec![];
 
-    while let Some(n) = tokens.front() {
-        if *n == b'.' {
-            number_parts.push(b'.');
+    while let Some(&n) = tokens.front() {
+        if n == b'.' {
+            number_parts.push(n);
             tokens.pop_front();
             get_digits(tokens, &mut number_parts);
         } else if n.is_ascii_digit() {
-            number_parts.push(*n);
+            number_parts.push(n);
             tokens.pop_front();
         } else {
             break;
@@ -99,7 +99,7 @@ mod tests {
 
     #[test]
     fn should_assert_simple_add() {
-        let tokens = vec![
+        let tokens = [
             Token::Number(4.into()),
             Token::AddOp,
             Token::Number(5.into()),
@@ -110,14 +110,14 @@ mod tests {
 
     #[test]
     fn should_assert_number_with_decimal() {
-        let tokens = vec![Token::Number(Decimal::from_str("4.2").unwrap())];
+        let tokens = [Token::Number(Decimal::from_str("4.2").unwrap())];
 
         assert_eq!(parse_tokens("4.2").unwrap(), tokens);
     }
 
     #[test]
     fn should_assert_complex_add() {
-        let tokens = vec![
+        let tokens = [
             Token::Number(4.into()),
             Token::AddOp,
             Token::Number(5.into()),
@@ -132,7 +132,7 @@ mod tests {
 
     #[test]
     fn should_assert_complex_add_with_scope() {
-        let tokens = vec![
+        let tokens = [
             Token::ScopeOpen,
             Token::ScopeOpen,
             Token::Number(4.into()),
