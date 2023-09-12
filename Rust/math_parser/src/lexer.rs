@@ -113,15 +113,17 @@ mod tests {
             Token::Number(5.into()),
         ];
 
-        assert_eq!(parse_tokens("4+5").unwrap(), tokens);
+        assert_eq!(parse_tokens("4+5")?, tokens);
         Ok(())
     }
 
     #[test]
-    fn should_assert_number_with_decimal() {
-        let tokens = [Token::Number(Decimal::from_str("4.2").unwrap())];
+    fn should_assert_number_with_decimal() -> Result<(), LexicalError> {
+        let tokens = [Token::Number(Decimal::from_str("4.2")?)];
 
-        assert_eq!(parse_tokens("4.2").unwrap(), tokens);
+        assert_eq!(parse_tokens("4.2")?, tokens);
+
+        Ok(())
     }
 
     #[test]
