@@ -21,7 +21,7 @@ pub fn parse_tokens(input: &str) -> Result<VecDeque<Token>, LexicalError> {
             }
             _ => {
                 return Err(LexicalError::UnknownSymbol {
-                    index: input.len() - tokens.len(),
+                    index: input.len().checked_div(tokens.len()).unwrap_or_default(),
                     symbol: *token,
                 })
             }
@@ -106,7 +106,7 @@ mod tests {
     use super::*;
 
     #[test]
-    fn should_assert_simple_add() {
+    fn should_assert_simple_add() -> Result<(), LexicalError> {
         let tokens = [
             Token::Number(4.into()),
             Token::AddOp,
@@ -114,6 +114,7 @@ mod tests {
         ];
 
         assert_eq!(parse_tokens("4+5").unwrap(), tokens);
+        Ok(())
     }
 
     #[test]
@@ -124,7 +125,7 @@ mod tests {
     }
 
     #[test]
-    fn should_assert_complex_add() {
+    fn should_assert_complex_add() -> Result<(), LexicalError> {
         let tokens = [
             Token::Number(4.into()),
             Token::AddOp,
@@ -135,22 +136,24 @@ mod tests {
             Token::Number(200.into()),
         ];
 
-        assert_eq!(parse_tokens("4+5+10+200").unwrap(), tokens);
+        assert_eq!(parse_tokens("4+5+10+200")?, tokens);
+        Ok(())
     }
 
     #[test]
-    fn should_assert_number_with_whitespaces() {
+    fn should_assert_number_with_whitespaces() -> Result<(), LexicalError> {
         let tokens = [
-            Token::Number(Decimal::from_str("4.2").unwrap()),
+            Token::Number(Decimal::from_str("4.2")?),
             Token::AddOp,
-            Token::Number(Decimal::from_str("10.5").unwrap()),
+            Token::Number(Decimal::from_str("10.5")?),
         ];
 
-        assert_eq!(parse_tokens("  4.2  + 10.5 \n\r").unwrap(), tokens);
+        assert_eq!(parse_tokens("  4.2  + 10.5 \n\r")?, tokens);
+        Ok(())
     }
 
     #[test]
-    fn should_assert_complex_add_with_scope() {
+    fn should_assert_complex_add_with_scope() -> Result<(), LexicalError> {
         let tokens = [
             Token::ScopeOpen,
             Token::ScopeOpen,
@@ -169,6 +172,7 @@ mod tests {
             Token::Number(10.into()),
         ];
 
-        assert_eq!(parse_tokens("((4+5)+(10+10))+10").unwrap(), tokens);
+        assert_eq!(parse_tokens("((4+5)+(10+10))+10")?, tokens);
+        Ok(())
     }
 }
