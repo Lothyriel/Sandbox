@@ -91,7 +91,7 @@ fn expect_symbol(t: &mut VecDeque<Token>, e: &str) -> Result<Token, SyntacticErr
     }
 }
 
-#[derive(Debug, PartialEq)]
+#[derive(Debug, PartialEq, Clone)]
 pub enum Expression {
     Number(Decimal),
     Binary {
@@ -101,7 +101,7 @@ pub enum Expression {
     },
 }
 
-#[derive(Debug, PartialEq)]
+#[derive(Debug, PartialEq, Clone, Copy)]
 pub enum Operator {
     Add,
     Sub,
