@@ -2,12 +2,12 @@ mod interpreter;
 mod lexer;
 mod parser;
 
-pub fn evaluate(expression: &str) -> Result<rust_decimal::Decimal, MathError> {
-    let tokens = lexer::parse_tokens(expression)?;
+pub fn evaluate(input: &str) -> Result<rust_decimal::Decimal, MathError> {
+    let tokens = lexer::parse_tokens(input)?;
 
-    let ast = parser::parse(tokens)?;
+    let expression = parser::parse(tokens)?;
 
-    let value = interpreter::evaluate(ast)?;
+    let value = interpreter::evaluate(expression)?;
 
     Ok(value)
 }
