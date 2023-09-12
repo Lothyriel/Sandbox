@@ -7,7 +7,7 @@ pub fn parse_tokens(input: &str) -> Result<VecDeque<Token>, LexicalError> {
     let mut output = VecDeque::new();
 
     while let Some(token) = tokens.front() {
-        output.push_back(match token {
+        let token = match token {
             b'+' => consume(&mut tokens, Token::AddOp),
             b'-' => consume(&mut tokens, Token::SubOp),
             b'*' => consume(&mut tokens, Token::MultOp),
@@ -15,19 +15,27 @@ pub fn parse_tokens(input: &str) -> Result<VecDeque<Token>, LexicalError> {
             b'(' => consume(&mut tokens, Token::ScopeOpen),
             b')' => consume(&mut tokens, Token::ScopeClose),
             n if n.is_ascii_digit() => parse_number(&mut tokens)?,
+            n if n.is_ascii_whitespace() => {
+                tokens.pop_front();
+                None
+            }
             _ => {
                 return Err(LexicalError::UnknownSymbol {
                     index: input.len() - tokens.len(),
                     symbol: *token,
                 })
             }
-        })
+        };
+
+        if let Some(t) = token {
+            output.push_back(t);
+        }
     }
 
     Ok(output)
 }
 
-fn parse_number(tokens: &mut VecDeque<u8>) -> Result<Token, LexicalError> {
+fn parse_number(tokens: &mut VecDeque<u8>) -> Result<Option<Token>, LexicalError> {
     let mut number_parts = vec![];
 
     while let Some(&n) = tokens.front() {
@@ -47,7 +55,7 @@ fn parse_number(tokens: &mut VecDeque<u8>) -> Result<Token, LexicalError> {
 
     let decimal = Decimal::from_str(&digits)?;
 
-    Ok(Token::Number(decimal))
+    Ok(Some(Token::Number(decimal)))
 }
 
 fn get_digits(input: &mut VecDeque<u8>, number_parts: &mut Vec<u8>) {
@@ -61,9 +69,9 @@ fn get_digits(input: &mut VecDeque<u8>, number_parts: &mut Vec<u8>) {
     }
 }
 
-fn consume(tokens: &mut VecDeque<u8>, token: Token) -> Token {
+fn consume(tokens: &mut VecDeque<u8>, token: Token) -> Option<Token> {
     tokens.pop_front();
-    token
+    Some(token)
 }
 
 #[derive(PartialEq, Debug, Clone, Copy)]
@@ -128,6 +136,17 @@ mod tests {
         ];
 
         assert_eq!(parse_tokens("4+5+10+200").unwrap(), tokens);
+    }
+
+    #[test]
+    fn should_assert_number_with_whitespaces() {
+        let tokens = [
+            Token::Number(Decimal::from_str("4.2").unwrap()),
+            Token::AddOp,
+            Token::Number(Decimal::from_str("10.5").unwrap()),
+        ];
+
+        assert_eq!(parse_tokens("  4.2  + 10.5 \n\r").unwrap(), tokens);
     }
 
     #[test]
