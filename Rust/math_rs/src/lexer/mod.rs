@@ -1,6 +1,19 @@
+use std::collections::VecDeque;
+
+mod lexical;
+
+pub fn parse_tokens(input: &str) -> Result<VecDeque<Token>, LexicalError> {
+    lexical::Lexer::new(input).parse_tokens()
+}
+
+pub use lexical::{LexicalError, Token};
+
 #[cfg(test)]
 mod tests {
-    use super::*;
+    use rust_decimal::Decimal;
+    use std::str::FromStr;
+
+    use super::{lexical::*, parse_tokens};
 
     #[test]
     fn should_assert_simple_add() -> Result<(), LexicalError> {
