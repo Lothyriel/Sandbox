@@ -2,10 +2,6 @@ use rust_decimal::Decimal;
 
 use crate::parser::{Expression, Operator};
 
-pub fn evaluate(expression: Expression) -> Result<Decimal, SemanticError> {
-    expression.evaluate()
-}
-
 impl Expression {
     pub fn evaluate(&self) -> Result<Decimal, SemanticError> {
         match self {
