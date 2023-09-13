@@ -30,7 +30,7 @@ impl Expression {
 
     pub fn sub(&self, rhs: &Expression) -> Result<Decimal, SemanticError> {
         self.evaluate()?
-            .checked_add(rhs.evaluate()?)
+            .checked_sub(rhs.evaluate()?)
             .ok_or_else(|| SemanticError::SubFail {
                 lhs: self.to_owned(),
                 rhs: rhs.to_owned(),
@@ -39,7 +39,7 @@ impl Expression {
 
     pub fn mult(&self, rhs: &Expression) -> Result<Decimal, SemanticError> {
         self.evaluate()?
-            .checked_add(rhs.evaluate()?)
+            .checked_mul(rhs.evaluate()?)
             .ok_or_else(|| SemanticError::MultFail {
                 lhs: self.to_owned(),
                 rhs: rhs.to_owned(),
