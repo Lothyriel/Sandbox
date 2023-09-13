@@ -2,11 +2,11 @@ use std::collections::VecDeque;
 
 mod lexical;
 
+pub use lexical::{LexicalError, Token};
+
 pub fn parse_tokens(input: &str) -> Result<VecDeque<Token>, LexicalError> {
     lexical::Lexer::new(input).parse_tokens()
 }
-
-pub use lexical::{LexicalError, Token};
 
 #[cfg(test)]
 mod tests {
