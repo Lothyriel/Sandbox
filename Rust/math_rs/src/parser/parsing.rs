@@ -8,12 +8,14 @@ pub struct Parser {
     tokens: VecDeque<Token>,
 }
 
+type ParseResult = Result<Expression, SyntacticError>;
+
 impl Parser {
     pub fn new(tokens: VecDeque<Token>) -> Self {
         Self { tokens }
     }
 
-    pub fn get_expression(&mut self) -> Result<Expression, SyntacticError> {
+    pub fn get_expression(&mut self) -> ParseResult {
         let token = self.expect_symbol("Expression")?;
 
         match token {
@@ -27,7 +29,7 @@ impl Parser {
         }
     }
 
-    fn resolve(&mut self, lhs: Expression) -> Result<Expression, SyntacticError> {
+    fn resolve(&mut self, lhs: Expression) -> ParseResult {
         if self.tokens.is_empty() {
             Ok(lhs)
         } else {
@@ -35,7 +37,7 @@ impl Parser {
         }
     }
 
-    fn get_rhs(&mut self, lhs: Expression) -> Result<Expression, SyntacticError> {
+    fn get_rhs(&mut self, lhs: Expression) -> ParseResult {
         let token = self.expect_symbol("Operator")?;
 
         match token {
@@ -50,11 +52,7 @@ impl Parser {
         }
     }
 
-    fn get_binary_expression(
-        &mut self,
-        lhs: Expression,
-        op: Operator,
-    ) -> Result<Expression, SyntacticError> {
+    fn get_binary_expression(&mut self, lhs: Expression, op: Operator) -> ParseResult {
         let rhs = self.get_expression()?;
 
         let exp = Expression::Binary {
@@ -66,7 +64,7 @@ impl Parser {
         Ok(exp)
     }
 
-    fn get_scope(&mut self) -> Result<Expression, SyntacticError> {
+    fn get_scope(&mut self) -> ParseResult {
         let _token = self.expect_symbol("Expression")?;
 
         self.expect_symbol("Expression")?;
@@ -74,7 +72,7 @@ impl Parser {
         todo!()
     }
 
-    fn get_negative_number(&mut self) -> Result<Expression, SyntacticError> {
+    fn get_negative_number(&mut self) -> ParseResult {
         let next = self.expect_symbol("Expression")?;
 
         match next {
