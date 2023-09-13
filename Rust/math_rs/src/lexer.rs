@@ -22,7 +22,7 @@ pub fn parse_tokens(input: &str) -> Result<VecDeque<Token>, LexicalError> {
             _ => {
                 return Err(LexicalError::UnknownSymbol {
                     index: input.len().checked_div(tokens.len()).unwrap_or_default(),
-                    symbol: *token,
+                    symbol: *token as char,
                 })
             }
         };
@@ -98,7 +98,7 @@ pub enum LexicalError {
     #[error("{0}")]
     Utf8(#[from] std::string::FromUtf8Error),
     #[error("Unknown Symbol: {symbol} in index: {index}")]
-    UnknownSymbol { index: usize, symbol: u8 },
+    UnknownSymbol { index: usize, symbol: char },
 }
 
 #[cfg(test)]
