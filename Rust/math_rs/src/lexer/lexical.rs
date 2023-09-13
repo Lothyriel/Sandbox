@@ -90,7 +90,7 @@ impl Lexer {
     }
 }
 
-#[derive(PartialEq, Debug, Clone, Copy)]
+#[derive(PartialEq, Debug, Clone, Copy, strum_macros::Display)]
 pub enum Token {
     Number(Decimal),
     AddOp,
@@ -99,12 +99,6 @@ pub enum Token {
     DivOp,
     ScopeOpen,
     ScopeClose,
-}
-
-impl std::fmt::Display for Token {
-    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        std::fmt::Display::fmt(&self, f)
-    }
 }
 
 #[derive(thiserror::Error, Debug)]
