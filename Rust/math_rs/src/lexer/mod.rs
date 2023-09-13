@@ -32,7 +32,6 @@ mod tests {
         let tokens = [Token::Number(Decimal::from_str("4.2")?)];
 
         assert_eq!(parse_tokens("4.2")?, tokens);
-
         Ok(())
     }
 
