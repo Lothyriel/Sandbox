@@ -30,10 +30,17 @@ impl Parser {
     }
 
     fn resolve(&mut self, lhs: Expression) -> ParseResult {
-        if self.tokens.is_empty() {
-            Ok(lhs)
+        if let Some(token) = self.tokens.front() {
+            match token {
+                Token::AddOp | Token::SubOp | Token::MultOp | Token::DivOp => self.get_rhs(lhs),
+                Token::ScopeClose => Ok(lhs),
+                Token::ScopeOpen | Token::Number(_) => Err(SyntacticError::UnexpectedSymbol {
+                    before: Some(*token),
+                    symbol: *token,
+                }),
+            }
         } else {
-            self.get_rhs(lhs)
+            Ok(lhs)
         }
     }
 
@@ -45,8 +52,8 @@ impl Parser {
             Token::SubOp => self.get_binary_expression(lhs, Operator::Sub),
             Token::MultOp => self.get_binary_expression(lhs, Operator::Mult),
             Token::DivOp => self.get_binary_expression(lhs, Operator::Div),
-            s => Err(SyntacticError::UnexpectedSymbol {
-                before: Some(s),
+            _ => Err(SyntacticError::UnexpectedSymbol {
+                before: Some(token),
                 symbol: token,
             }),
         }
@@ -65,11 +72,11 @@ impl Parser {
     }
 
     fn get_scope(&mut self) -> ParseResult {
-        let _token = self.expect_symbol("Expression")?;
+        let expression = self.get_expression()?;
 
-        self.expect_symbol("Expression")?;
+        self.expect_symbol("ScopeClose")?;
 
-        todo!()
+        self.resolve(expression)
     }
 
     fn get_negative_number(&mut self) -> ParseResult {
@@ -104,11 +111,16 @@ pub enum Expression {
 
 impl std::fmt::Display for Expression {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
-        use std::fmt;
-
         match self {
-            Expression::Number(n) => fmt::Display::fmt(n, f),
-            Expression::Binary { lhs, rhs, op } => write!(f, "{} {} {}", lhs, op, rhs),
+            Expression::Number(n) => write!(f, "{}", n),
+            Expression::Binary { lhs, rhs, op } => {
+                let rhs = match rhs.as_ref() {
+                    Expression::Number(n) => format!("{}", n),
+                    _ => format!("({})", rhs),
+                };
+
+                write!(f, "{} {} {}", lhs, op, rhs)
+            }
         }
     }
 }
