@@ -9,10 +9,7 @@ pub fn parse(mut tokens: VecDeque<Token>) -> Result<Expression, SyntacticError> 
 }
 
 fn get_expression(tokens: &mut VecDeque<Token>) -> Result<Expression, SyntacticError> {
-    let token = match tokens.pop_front() {
-        Some(t) => t,
-        None => return Err(SyntacticError::EmptyScanner),
-    };
+    let token = expect_symbol(tokens, "Expression")?;
 
     match token {
         Token::Number(n) => resolve(Expression::Number(n), tokens),
@@ -101,12 +98,36 @@ pub enum Expression {
     },
 }
 
+impl std::fmt::Display for Expression {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        use std::fmt;
+
+        match self {
+            Expression::Number(n) => fmt::Display::fmt(n, f),
+            Expression::Binary { lhs, rhs, op } => write!(f, "{} {} {}", lhs, rhs, op),
+        }
+    }
+}
+
 #[derive(Debug, PartialEq, Clone, Copy)]
 pub enum Operator {
     Add,
     Sub,
     Div,
     Mult,
+}
+
+impl std::fmt::Display for Operator {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        let op = match self {
+            Operator::Add => b'+',
+            Operator::Sub => b'-',
+            Operator::Div => b'/',
+            Operator::Mult => b'*',
+        };
+
+        write!(f, "{}", op)
+    }
 }
 
 #[derive(thiserror::Error, Debug)]
@@ -118,8 +139,6 @@ pub enum SyntacticError {
     },
     #[error("Expected Symbol {expected}")]
     ExpectedSymbol { expected: String },
-    #[error("No tokens were received in the parser")]
-    EmptyScanner,
 }
 
 #[cfg(test)]
