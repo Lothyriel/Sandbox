@@ -10,7 +10,12 @@ impl Expression {
     pub fn evaluate(&self) -> Result<Decimal, SemanticError> {
         match self {
             Expression::Number(n) => Ok(*n),
-            Expression::Binary { lhs, rhs, op } => binary(lhs, rhs, op),
+            Expression::Binary { lhs, rhs, op } => match op {
+                Operator::Add => lhs.add(rhs),
+                Operator::Sub => lhs.sub(rhs),
+                Operator::Div => lhs.div(rhs),
+                Operator::Mult => lhs.mult(rhs),
+            },
         }
     }
 
@@ -60,25 +65,16 @@ impl Expression {
     }
 }
 
-fn binary(lhs: &Expression, rhs: &Expression, op: &Operator) -> Result<Decimal, SemanticError> {
-    match op {
-        Operator::Add => lhs.add(rhs),
-        Operator::Sub => lhs.sub(rhs),
-        Operator::Div => lhs.div(rhs),
-        Operator::Mult => lhs.mult(rhs),
-    }
-}
-
 #[derive(thiserror::Error, Debug)]
 pub enum SemanticError {
-    #[error("Attempted to divide by zero")]
+    #[error("Attempted to divide by zero in {lhs} / {rhs}")]
     DivisionByZero { lhs: Expression, rhs: Expression },
-    #[error("Addition failed")]
+    #[error("Addition failed in {lhs} + {rhs}")]
     AddFail { lhs: Expression, rhs: Expression },
-    #[error("Subtraction failed")]
+    #[error("Subtraction failed in {lhs} - {rhs}")]
     SubFail { lhs: Expression, rhs: Expression },
-    #[error("Multiplication failed")]
+    #[error("Multiplication failed in {lhs} * {rhs}")]
     MultFail { lhs: Expression, rhs: Expression },
-    #[error("Division failed")]
+    #[error("Division failed in {lhs} / {rhs}")]
     DivFail { lhs: Expression, rhs: Expression },
 }
