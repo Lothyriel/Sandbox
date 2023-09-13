@@ -15,15 +15,25 @@ pub fn evaluate(input: &str) -> Result<rust_decimal::Decimal, MathError> {
 #[derive(thiserror::Error, Debug)]
 pub enum MathError {
     #[error("{0}")]
-    Syntactic(#[from] lexer::LexicalError),
+    Lexical(#[from] lexer::LexicalError),
     #[error("{0}")]
-    Syntax(#[from] parser::SyntacticError),
+    Syntactic(#[from] parser::SyntacticError),
     #[error("{0}")]
     Semantic(#[from] interpreter::SemanticError),
 }
 
+impl From<rust_decimal::Error> for MathError {
+    fn from(value: rust_decimal::Error) -> Self {
+        Self::Lexical(value.into())
+    }
+}
+
 #[cfg(test)]
 mod tests {
+    use std::str::FromStr;
+
+    use rust_decimal::Decimal;
+
     use super::*;
 
     #[test]
@@ -53,6 +63,15 @@ mod tests {
     #[test]
     fn should_assert_scoped_expression2() -> Result<(), MathError> {
         assert_eq!(evaluate("(3*(2+5))+4")?, 25.into());
+        Ok(())
+    }
+
+    #[test]
+    fn should_assert_scoped_expression3() -> Result<(), MathError> {
+        assert_eq!(
+            evaluate("(3*(2+5))+4+17*3/14")?,
+            Decimal::from_str("28.642857142857142857142857143")?
+        );
         Ok(())
     }
 }
