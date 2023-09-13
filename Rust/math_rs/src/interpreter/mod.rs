@@ -2,9 +2,9 @@ use rust_decimal::Decimal;
 
 use crate::parser::Expression;
 
-mod interpreter;
+mod interpretation;
 
-pub use interpreter::SemanticError;
+pub use interpretation::SemanticError;
 
 pub fn evaluate(expression: Expression) -> Result<Decimal, SemanticError> {
     expression.evaluate()
