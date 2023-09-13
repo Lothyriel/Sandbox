@@ -104,7 +104,7 @@ impl std::fmt::Display for Expression {
 
         match self {
             Expression::Number(n) => fmt::Display::fmt(n, f),
-            Expression::Binary { lhs, rhs, op } => write!(f, "{} {} {}", lhs, rhs, op),
+            Expression::Binary { lhs, rhs, op } => write!(f, "{} {} {}", lhs, op, rhs),
         }
     }
 }
@@ -120,10 +120,10 @@ pub enum Operator {
 impl std::fmt::Display for Operator {
     fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
         let op = match self {
-            Operator::Add => b'+',
-            Operator::Sub => b'-',
-            Operator::Div => b'/',
-            Operator::Mult => b'*',
+            Operator::Add => '+',
+            Operator::Sub => '-',
+            Operator::Div => '/',
+            Operator::Mult => '*',
         };
 
         write!(f, "{}", op)
