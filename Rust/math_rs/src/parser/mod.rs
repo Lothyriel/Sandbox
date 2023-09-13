@@ -2,12 +2,12 @@ use std::collections::VecDeque;
 
 use crate::lexer::Token;
 
-mod parser;
+mod parsing;
 
-pub use parser::{Expression, Operator, SyntacticError};
+pub use parsing::{Expression, Operator, SyntacticError};
 
 pub fn parse(tokens: VecDeque<Token>) -> Result<Expression, SyntacticError> {
-    parser::Parser::new(tokens).get_expression()
+    parsing::Parser::new(tokens).get_expression()
 }
 
 #[cfg(test)]
