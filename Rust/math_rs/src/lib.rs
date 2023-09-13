@@ -37,4 +37,22 @@ mod tests {
         assert_eq!(evaluate("1+2+3+4+5")?, 15.into());
         Ok(())
     }
+
+    #[test]
+    fn should_assert_simple_scoped_expression() -> Result<(), MathError> {
+        assert_eq!(evaluate("(5+4)")?, 9.into());
+        Ok(())
+    }
+
+    #[test]
+    fn should_assert_scoped_expression() -> Result<(), MathError> {
+        assert_eq!(evaluate("3*(5+4)")?, 27.into());
+        Ok(())
+    }
+
+    #[test]
+    fn should_assert_scoped_expression2() -> Result<(), MathError> {
+        assert_eq!(evaluate("(3*(2+5))+4")?, 25.into());
+        Ok(())
+    }
 }
