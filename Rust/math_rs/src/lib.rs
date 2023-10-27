@@ -55,6 +55,18 @@ mod tests {
     }
 
     #[test]
+    fn should_assert_pemdas_expression() -> Result<(), MathError> {
+        assert_eq!(evaluate("3+5*2")?, 13.into());
+        Ok(())
+    }
+
+    #[test]
+    fn should_assert_pemdas_expression2() -> Result<(), MathError> {
+        assert_eq!(evaluate("5*2+3")?, 13.into());
+        Ok(())
+    }
+
+    #[test]
     fn should_assert_scoped_expression() -> Result<(), MathError> {
         assert_eq!(evaluate("3*(5+4)")?, 27.into());
         Ok(())
@@ -72,6 +84,12 @@ mod tests {
             evaluate("(3*(2+5))+4+17*3/14")?,
             Decimal::from_str("28.642857142857142857142857143")?
         );
+        Ok(())
+    }
+
+    #[test]
+    fn should_assert_scoped_expression4() -> Result<(), MathError> {
+        assert_eq!(evaluate("(1+2*10)/(2+5)")?, 3.into());
         Ok(())
     }
 }
