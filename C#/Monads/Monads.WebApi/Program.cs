@@ -13,6 +13,23 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseWhen(ctx => !ctx.Request.Path.StartsWithSegments("/requests"), builder => 
+{
+    builder.Use((ctx, next) =>
+    {
+        var numeroRequest = RequestsCounter.Increase();
+
+        if (numeroRequest % 5 == 0)
+        {
+            throw new Exception("nao pode...");
+        }
+
+        return next(ctx);
+    });
+});
+
+app.MapGet("/requests", () => RequestsCounter.Count);
+
 app.MapPost("/party", (RequestPeople request) =>
 {
     return EnterParty(request).Match(s => Results.Ok(s), e => e switch
@@ -43,12 +60,10 @@ app.MapPost("/calculation", (CalculationRequest request) =>
         });
     });
 
-    return result.Match(s => Results.Ok(s), e => Results.UnprocessableEntity(e.Message));
+    return result.Match(s => Results.Ok(s), e => TypedResults.BadRequest(e.Message));
 });
 
 app.Run();
-
-
 
 static Result<ResponsePeople, ValidationError> EnterParty(RequestPeople request)
 {
@@ -73,6 +88,16 @@ static Result<ResponsePeople, ValidationError> EnterParty(RequestPeople request)
         Age = request.Age,
         Name = request.Name,
     };
+}
+
+static class RequestsCounter
+{
+    internal static uint Count = 0;
+
+    internal static uint Increase()
+    {
+        return Interlocked.Increment(ref Count);
+    }
 }
 
 class CalculationRequest
