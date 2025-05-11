@@ -1,0 +1,27 @@
+<div class="container">
+  <h1>Chá de casa nova - Gabriele e João</h1>
+
+  <h2>Confirmar presença</h2>
+  <form hx-post="/fragments/confirmation">
+    <div class="input-group">
+      <label for="name">Nome:</label>
+      {% if let Some(n) = name %}
+      <input type="text" id="name" name="name" value={{n}} required>
+      {% else %}
+      <input type="text" id="name" name="name" required>
+      {% endif %}
+    </div>
+    <div id="escorts-container">
+      {% for escort in escorts %}
+      {{ escort }}
+      <br>
+      {% endfor %}
+    </div>
+    <div class="buttons">
+      <button type="button" id="add-btn" hx-get="/fragments/add" hx-target="#escorts-container" hx-swap="beforeend">
+        Adicionar convidado
+      </button>
+      <button type="submit">Confirmar</button>
+    </div>
+  </form>
+</div>

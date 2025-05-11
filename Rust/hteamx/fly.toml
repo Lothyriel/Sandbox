@@ -1,0 +1,21 @@
+# fly.toml app configuration file generated for cha-gabi-joao on 2024-06-17T01:50:13-03:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'cha-gabi-joao'
+primary_region = 'gru'
+
+[build]
+
+[env]
+  PORT = '8080'
+
+[http_service]
+  internal_port = 8080
+  auto_stop_machines = true
+  auto_start_machines = true
+  min_machines_running = 1
+
+[[vm]]
+  size = 'shared-cpu-1x'
