@@ -1,0 +1,13 @@
+version: "3.5"
+
+services:
+  api:
+    build: https://github.com/Lothyriel/rinha_backend_2024_q1.git
+
+    ports:
+      - "9999:9999"
+    deploy:
+      resources:
+        limits:
+          cpus: "1.5"
+          memory: "500MB"
