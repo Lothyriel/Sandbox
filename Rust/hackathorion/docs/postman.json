@@ -1,0 +1,161 @@
+{
+	"info": {
+		"_postman_id": "5a5c5e89-39af-49d0-86c6-b7fdd02a52b4",
+		"name": "roteirou",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33883007"
+	},
+	"item": [
+		{
+			"name": "GET poi",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://hackathorion-api.fly.dev/api/poi?approved=true",
+					"protocol": "http",
+					"host": [
+						"hackathorion-api",
+						"fly",
+						"dev"
+					],
+					"path": [
+						"api",
+						"poi"
+					],
+					"query": [
+						{
+							"key": "approved",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UPDATE poi",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://hackathorion-api.fly.dev/api/poi/6828bdff916041f04fee74f1",
+					"protocol": "https",
+					"host": [
+						"hackathorion-api",
+						"fly",
+						"dev"
+					],
+					"path": [
+						"api",
+						"poi",
+						"6828bdff916041f04fee74f1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "calculate route",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"waypoints\": [\r\n        [-27.823033837212048, -50.32120339996015],\r\n        [-27.801674656045208, -50.33699997360326],\r\n        [-27.814655762420006, -50.30838498839917]\r\n     ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://hackathorion-api.fly.dev/api/routes",
+					"protocol": "https",
+					"host": [
+						"hackathorion-api",
+						"fly",
+						"dev"
+					],
+					"path": [
+						"api",
+						"routes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CREATE poi",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"type\": \"Comercial\",\r\n    \"name\": \"teste\",\r\n    \"description\": \"Lanchonete muito legal\",\r\n    \"images\": [\"\"],\r\n    \"coords\": [\r\n        -27.8187689345354,\r\n        -50.33193942426937\r\n    ],\r\n    \"tags\": [\r\n        \"restaurante\"\r\n    ],\r\n    \"instagram\": \"@fast.lages\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://hackathorion-api.fly.dev/api/poi",
+					"protocol": "https",
+					"host": [
+						"hackathorion-api",
+						"fly",
+						"dev"
+					],
+					"path": [
+						"api",
+						"poi"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET routes",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://hackathorion-api.fly.dev/api/routes",
+					"protocol": "https",
+					"host": [
+						"hackathorion-api",
+						"fly",
+						"dev"
+					],
+					"path": [
+						"api",
+						"routes"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
